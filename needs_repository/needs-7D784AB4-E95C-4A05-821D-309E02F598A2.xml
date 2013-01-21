@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Website for Cambridge's DoITPoMS project. There are two major resources on this site:
+1. Micrograph Library
+and 2. Library of Teaching and Learning Packages.
+
+
+The goal of this project is:
+    *  To create a primary archive of photomicrographs, digital video clips, etc, for use by teachers in developing secondary resources, and as a teaching and learning resource in its own right.
+    * To create a library of exemplar teaching and learning packages (TLPs) covering common topics and making use of video clips and other material from the primary archive.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7D784AB4-E95C-4A05-821D-309E02F598A2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Dissemination of IT for the Promotion of Materials Science (DoITPoMS)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DA5A7AA0-16B1-4F0C-A7ED-5BE54A8C397F
+N:University of Cambridge, U.K.;Department of Materials Science and Metallurgy;null;;
+FN:Department of Materials Science and Metallurgy University of Cambridge, U.K.
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-02-05</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7D784AB4-E95C-4A05-821D-309E02F598A2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.msm.cam.ac.uk/doitpoms/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

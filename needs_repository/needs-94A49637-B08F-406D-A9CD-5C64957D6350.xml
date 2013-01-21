@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">THE CASE FOR MENTORNET 
+The under-representation of women in science, engineering, and mathematics in both higher education and 
+employment has been well-documented, with negative consequences for both the talent pool available for the future 
+workforce and equal opportunity.  While remedies are often focused on the problems leading to girls? attrition 
+from science and math in pre-college years, there are also significantly higher rates of attrition from the study of 
+science, mathematics, and engineering among female undergraduates and graduate students at the 
+college/university level, compared with their male counterparts.3  Mentoring is one tested and proven strategy to 
+improve retention of women students in these fields in higher education.  Students benefit from having more 
+experienced ?mentors? who can help acquaint them with the opportunities in these fields, offer guidance and 
+advice based on experience, and provide support, encouragement, and access to professional networks for further 
+career development.4  Mentoring offers personal, one-on-one attention and assistance in ?de-coding? less obvious 
+cultural and structural elements of a field. 
+A relatively new, highly cost-effective opportunity for mentoring now exists, transcending the common constraints 
+of time, synchronous communication, and geography.  Electronic communications have recently increased 
+dramatically in the U.S., and are now nearly ubiquitous on college campuses and industrial sites.  Convenient, 
+regular, informal discourse between individuals and among groups in disparate locations is now a matter of course. 
+To enhance the retention of undergraduate and graduate women students in science, mathematics, and engineering 
+by taking advantage of the opportunity to use electronic communications for mentoring, the Women in 
+Engineering Programs &amp; Advocates Network5 is developing ?MentorNet.?  MentorNet, the national electronic 
+industrial mentoring network for women in engineering and science, is based on the successful results of a pilot 
+program developed through the Women in Science Project at Dartmouth College.  ?E-mentoring? ? the use of 
+electronic communications for mentoring ? is growing rapidly, but is currently found primarily in K-12 programs, 
+targeting both students and teachers.
+
+A paper prepared for the Women in Higher Education Conference 
+January 3-5, 1998 
+San Francisco, California 
+
+Keywords: Non-Profit
+Post-Secondary
+Women
+Industry
+Mentoring
+Mentor
+Engineering
+Science
+Gender Equity
+WEPAN</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>94A49637-B08F-406D-A9CD-5C64957D6350</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">other</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">MentorNet: The national electronic industrial mentoring network for women in engineering and science.</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E7E73A9D-5A6D-454C-B905-E54FE2FDBEBD
+N:MentorNet;MentorNet;null;;
+FN:MentorNet MentorNet
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-07-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>94A49637-B08F-406D-A9CD-5C64957D6350</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.mentornet.net/Documents/Files/wihe.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

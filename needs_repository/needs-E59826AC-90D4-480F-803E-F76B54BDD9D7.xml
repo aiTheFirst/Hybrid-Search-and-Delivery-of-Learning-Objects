@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This is a course Web page for an Iowa State University Senior level class. Mat E 423. Glass Science and Engineering. Included are lecture notes, laboratory exercises, links to homework solutions and exams.
+Lectures include a broad range of topics including composition, structure, properties manufacturing and uses of inorganic glasses, with an emphasis in silicate glasses. 
+Laboratory descriptions include batching, melting, and characterizing the  density, thermal expansion, and the mechanical, electrical, and optical properties of a glass.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E59826AC-90D4-480F-803E-F76B54BDD9D7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">glass batching, glass melting, glass characterization, glass properties</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Coursework in Glass Science and Engineering</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D898C728-8578-4DD3-9613-0E2664162A22
+N:null;null;null;;
+FN:Steve W. Martin
+ORG:Iowa State Unversity;Materials Science and Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CFB5EBF0-0568-4C98-9C4F-5F347C003B15
+N:Kristen Constant;;;;
+FN:Kristen Constant
+TEL;TYPE=work,voice:515-294-3337
+TEL;TYPE=work,fax:515-294-3337
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E59826AC-90D4-480F-803E-F76B54BDD9D7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.mse.iastate.edu/fileadmin/www.mse.iastate.edu/mate423/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

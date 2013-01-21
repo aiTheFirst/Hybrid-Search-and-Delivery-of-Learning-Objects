@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>exercise</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Assignment with questions on stationary perturbation theory</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7F27E94E-3934-4840-B6AF-86B66D35BD48</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Quantum Mechanics - Homework on Stationary Perturbation Theory</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0E0CCB75-3072-4DE1-95C3-FC84FC7CC31D
+N:Vasileska;Dragica;null;;
+FN:Dragica Vasileska
+ORG:Arizona State University;Department of Electrical Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8C9AC24E-1E80-4667-BA52-E64C5B176A5A
+N:Klimeck;Gerhard;null;;
+FN:Gerhard Klimeck
+ORG:Purdue University;School of Electrical and Computer Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4F01A680-E75E-4FA8-8791-3968DD8D2713
+N:nanoHUB.org;;;;
+FN:nanoHUB.org
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:326EC3A8-643D-4ACE-A856-9E0988B9466D
+N:Kyle Criner;;;;
+FN:Kyle Criner
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7F27E94E-3934-4840-B6AF-86B66D35BD48</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://nanohub.org/resources/5013/download/microsoftword-homework10.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

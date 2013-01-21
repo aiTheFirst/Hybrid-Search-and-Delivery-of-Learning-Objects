@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Women in Engineering Programs &amp; Advocates Network (WEPAN) is a national not-for-profit organization with over 600 members from nearly 200 engineering schools, small businesses to Fortune 500 corporations, and non-profit organizations. WEPAN is dedicated to improving the climate for and success of all women in engineering. By transforming environments in institutions of higher education, a diverse population of aspiring engineers can succeed."
+Keywords: Gender Equity</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1FA97678-1DC9-4FAE-AB9C-4E555B4DF2E3</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">engineering,general</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Women in Engineering Programs and Advocates Network-Website</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A583F37E-7973-486B-94E4-5156123278CB
+N:Webmaster;Women in Engineering Programs and Advocates Network;null;;
+FN:Women in Engineering Programs and Advocates Network Webmaster
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-07-31</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1FA97678-1DC9-4FAE-AB9C-4E555B4DF2E3</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.wepan.org/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

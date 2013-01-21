@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"This paper tracks the five-year growth and current trajectory of a computational outreach program at a small, liberal-arts college. The program has enhanced opportunities for talented high-school students to experience computation more deeply than their HS curriculum currently offers. This outreach evolved from a naive initial premise into a mutually beneficial interaction between an undergraduate computer science department and a local secondary school. The most important factor in the program's sustainability is a supportive liaison within the high school's administration. We hope the lessons we have learned will help other CS departments develop sustainable outreach programs."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A5D35455-43DA-46A4-8117-1160CC65AA4F</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">outreach Programs, computing, computer, CS, Computer Science, engage, increase awareness, curriculum, outreach, motivation</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">The evolution of a computational outreach program to secondary school students</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FBACA473-D39F-47F3-95D3-1719F476944B
+N:Dodds;Z.;null;;
+FN:Z. Dodds
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-null-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6563C8CD-8A1C-4594-825D-BA264456AC25
+N:Karp;L.;null;;
+FN:L. Karp
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-null-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9C1E56CD-3E36-4FB4-9B4F-7C9D4B5327FD
+N:Eric Eisinger;;;;
+FN:Eric Eisinger
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-07-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A5D35455-43DA-46A4-8117-1160CC65AA4F</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://delivery.acm.org/10.1145/1130000/1121479/p448-dodds.pdf?key1=1121479&amp;key2=2234966811&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=31280999&amp;CFTOKEN=83943281</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

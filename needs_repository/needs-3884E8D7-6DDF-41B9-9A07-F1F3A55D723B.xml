@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"As a world-class research facility, Jefferson Lab is a valued partner to the local, regional and national education community. Jefferson Lab's long-term commitment to science education continues to focus on increasing the number of teachers with a substantial background in math and science, strengthening the motivation and preparation of all students, especially minorities and females, and addressing the serious under representation of minorities and females in science, math, engineering and technology careers."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3884E8D7-6DDF-41B9-9A07-F1F3A55D723B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">lasers, atomic physics, nuclear physics</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Jefferson Lab Science Education</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D6A70F98-6D3D-4649-BF01-B3D97956BA75
+N:Jefferson Lab, Office of Science Education;;;;
+FN:Jefferson Lab, Office of Science Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-06-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3884E8D7-6DDF-41B9-9A07-F1F3A55D723B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://education.jlab.org/index.php</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

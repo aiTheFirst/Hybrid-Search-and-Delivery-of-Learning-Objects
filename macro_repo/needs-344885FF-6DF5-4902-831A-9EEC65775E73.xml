@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>diagram</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Template for Describing a (Program, Practice, or Resource) for Increasing Womens Participation in IT 
+
+This template is for describing and documenting formal and informal interventions that attract, retain, and advance women and girls in information technology programs of study and careers. Discovering what works and under what circumstances, and sharing that information so that successful practices can be broadly adopted. The NCWIT will evaluate these practices and share them through its Digital Library. 
+
+For this particular intervention, we are targeting HS age students (sophomore-junior)  We realize that a lot of focus is on middle school age girls but in order for female students to consider taking HS level IT courses, we think there needs to be some interventions at the HS level.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>344885FF-6DF5-4902-831A-9EEC65775E73</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Program in Practice-Girls in IT Summit</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F66C5EC2-6EEF-43A0-ACBB-46516A1AC573
+N:National Center for Women &amp; Information Technology;NCWIT -;null;;
+FN:NCWIT - National Center for Women &amp; Information Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-09-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>344885FF-6DF5-4902-831A-9EEC65775E73</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://images.smete.org/NCWIT_Practices/Cisco_PromisingPracticestemplateCNAP.doc</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

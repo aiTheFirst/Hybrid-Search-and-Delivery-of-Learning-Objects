@@ -1,0 +1,1 @@
+Java was developed independently of the web, and went through several stages of metamorphosis before reaching its current status of de facto programming language for the world wide web. Below is a brief history of Java since its infancy to its current state.

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A Conference of the Woodrow Wilson
+Woodrow Wilson Leadership Program for Teachers.
+Teachers of mathematics and the sciences who had been part of the program were invited to Princeton in June of 1993 to look at the most recent research in gender equity and to consider ways in which the results of that research could be used most effectively. Although many of the teachers were familiar with some of the research, looking at it together would provide them with a baseline from which to work. To heighten their awareness of the issues, an expert in journal writing guided their investigative efforts, and a teacher who had experience with advocacy discussed possible methods for demonstrating the importance of these issues to school systems, parents, and regulatory bodies. The following material is the result of two weeks' collaboration between extremely knowledgeable teachers and some of the country's best researchers on gender equity.
+
+The material is divided into three sections:
+
+   1. RESEARCH - a comprehensive report on current research by Dr. Elizabeth Fennema, participant notes on research presentations made by other invited faculty, and commentary from several conference participants;
+
+   2. ACTIVITIES - ways to use the research material either in the classroom, with other teachers, or with parents and community members; and
+
+   3. RESOURCES - sources that could be helpful.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>17DD3B13-414E-43F6-A250-CD2F66A45859</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Gender Equity for Mathematics and Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7BBDBA51-74CE-4E31-BC50-2D603478ACD2
+N:Princeton NJ;Woodrow Wilson Leadership Program in Mathematics;null;;
+FN:Woodrow Wilson Leadership Program in Mathematics Princeton NJ
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1993-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-03-03</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>17DD3B13-414E-43F6-A250-CD2F66A45859</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.woodrow.org/teachers/math/gender/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

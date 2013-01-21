@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"What will we do at the camp? The camp will be both challenging and exciting, with an introduction to programming, as well as several other different projects. The projects will include:
+			* Programming in Alice: The programming language Alice will make learning to program easier and fun.
+			* Programming Robots: Students will have a Lego Mindstorm robots available to work with during the workshop. The Lego Mindstorms will allow the girls to express creativity through programming.
+			* Building a Database: The students will be exposed to a database management system like Access to build a database of the phone numbers and address of their friends, or a catalog of the CDs they own, or movies they have seen, or any other collections they would like to keep track of.
+			* Building web pages: The students will be taught not only how to create a personal web page, but how they can create a web page to explain a topic or to advertise a family business.
+			* Logic and algorithms: Since logic and problem solving are essential components of a computer science education, games and activities will be used to teach the girls to solve all sorts of problems in a logical and creative manner.
+			* Graphics and animation: The students will be taught the basic of computer graphics to allow them to create animated art.
+			* Field trips: Bozeman has several high tech companies that would be glad to conduct field trips through their facilities. In most cases, these field trips will be led by mentors who are helping us deliver the workshop.
+			* Science fairs and programming competition. Science fairs and programming competitions will be discussed in the workshop, with the AWC women giving ideas of great science projects to take back to their schools, and programming competitions that our students would be competitive in. "</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B3F2C78D-98F8-4D1A-872F-29010B76FC2D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">computer science, camp, girls, middle school</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Computer science camp for middle school girls</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3871D112-4C05-46F0-87CC-F9EE39B01A78
+N:Angryk;R.;null;;
+FN:R. Angryk
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FD9C2792-115E-4A70-93F5-59F773F48754
+N:DeFrance;A.;null;;
+FN:A. DeFrance
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9C1E56CD-3E36-4FB4-9B4F-7C9D4B5327FD
+N:Eric Eisinger;;;;
+FN:Eric Eisinger
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-06-04</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B3F2C78D-98F8-4D1A-872F-29010B76FC2D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.cs.montana.edu/defrance/WorkshopMentoring/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

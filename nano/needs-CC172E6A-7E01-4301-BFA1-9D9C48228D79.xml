@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This software enhances the user's understanding of molecular manipulation. Biochemical microtechnology provides a beachhead at the molecular level from which to develop new molecular systems by providing a variety of &amp;quot;tools&amp;quot; and "device" to use and to copy. Building with these tools, themselves made to atomic specifications, the user can begin on the far side of the barrier facing conventional microtechnology. What can be built with these tools? Gene synthesis and recombinant DNA technology can direct the ribosomal machinery of bacteria to produce novel proteins, which can serve as components of larger molecular structures.
+    - Protein design 
+- Molecular machinery 
+- Firmness of the argument 
+- Applications to computation 
+- Some biological applications 
+- Implications for the present</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>CC172E6A-7E01-4301-BFA1-9D9C48228D79</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Molecular Engineering: An approach to the development of general capabilities for molecular manipulation</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C8E20637-DEBF-44B9-8796-7C0BA341C6C2
+N:Drexler;Eric;;;
+FN:Eric Drexler
+TEL;TYPE=work,voice:555-555-1212
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4E5E0C8F-5255-418B-8458-7EDBFDCD8E64
+N:Institute for Molecular Manufacturing;;;;
+FN:Institute for Molecular Manufacturing
+ADR;TYPE=work,postal,parcel:;;Institute for Molecular Manufacturing555 Bryant Street, Suite 253Palo Alto, CA 94301 USA;;;;
+URL:http://www.imm.org/PNAS.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1998.10.31</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-09-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>CC172E6A-7E01-4301-BFA1-9D9C48228D79</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.imm.org/PNAS.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The proportion of computer science (CS) bachelor's degree recipients who are women has consistently been small and is declining. This study investigates factors that predict performance and persistence in an undergraduate CS program and explores why even high-achieving students leave the undergraduate "CS pipeline." The factors that predict achievement and retention sometimes interact in complex, unexpected ways. Male students who earned less than a B in an introductory CS course were more likely to take the next course in the curriculum than were women who earned less than a B. Achievement is a factor in even high-achieving students' decision to leave CS; loss of interest can accompany loss of confidence. Level of achievement was predicted by various background factors including Scholastic Aptitude Test scores, the number of Calculus courses taken before entering the CS program, amount of access to a computer at home, prior computing experience, and having a mentor or role model during high school. Most of these factors also predicted persistence beyond the first two courses required for a CS major. Curiously, women in the introductory CS course who reported having low exposure to specific programming skills outperformed women who reported having a high level of programming experience. The reverse was true of men. Further investigation provided evidence that women who develop programming skills while in high school might do so at the expense of developing other skills that strongly predict CS achievement, particularly math skills."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E6FFF2DD-A405-4AFD-B3EF-608B45647CA4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Gender Equity, Classroom climate, Faculty development, Pair programming,  Peer-led team learning, Recruitment, Meaningful assignments, Retention, Advancement, Stereotype threat</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Gender, achievement, and persistence in an undergraduate computer science program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F26A5FF3-92F4-42FF-B535-95B1DAFF91AC
+N:Katz;Sandra;null;;
+FN:Sandra Katz
+ORG:University of Pittsburgh
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:54993DD3-DD00-4F6A-BC53-5F38E73B3672
+N:Allbritton;David;null;;
+FN:David Allbritton
+ORG:DePaul University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9CD99E6A-7D5E-47D2-BB4E-10FC84289D14
+N:Aronis;John;null;;
+FN:John Aronis
+ORG:University of Pittsburgh
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D0756297-E86D-4761-99F5-5E7A05A926F2
+N:null;null;null;;
+FN:Christine Wilson
+ORG:University of Pittsburgh
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C89736B8-4845-40EF-B0F7-D823CD18AB80
+N:null;null;null;;
+FN:Mary Lou Soffa
+ORG:University of Virginia
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BF8FDE34-CF95-45C6-9049-C35827A799D3
+N:Lecia Barker;;;;
+FN:Lecia Barker
+TEL;TYPE=work,voice:512-232-8364
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-04-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E6FFF2DD-A405-4AFD-B3EF-608B45647CA4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://doi.acm.org/10.1145/1185335.1185344</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

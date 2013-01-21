@@ -1,0 +1,285 @@
+<rules>
+	<rule>
+		<param source="userprofile" name="age" type="int"/>
+		<param source="lom" name="typical_age_range_min" type="int"/>
+		<param source="lom" name="typical_age_range_max" type="int"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( age >= typical_age_range_min * 10 && age <= typical_age_range_max *10 )
+					return 1;
+  				else
+					return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+	
+	<rule>
+		<param source="userprofile" name="language" type="string"/>		
+		<param source="lom" name="content_language" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if (language == content_language )
+					return 1;				
+				else
+					return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+	
+	<rule>
+		<param source="userprofile" name="proficiency_writing" type="int"/>		
+		<param source="lom" name="interactivity_type" type="string"/>
+		<param source="lom" name="interactivity_level" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( proficiency_writing >= 2 && (interactivity_type == "active") )
+					return 1;
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+	
+	
+	<rule>
+		<param source="userprofile" name="proficiency_reading" type="int"/>		
+		<param source="lom" name="interactivity_type" type="string"/>
+		<param source="lom" name="interactivity_level" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( (proficiency_reading >= 2) && (interactivity_type == "exposive" || interactivity_type == "active") )
+					return 1;
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+	<rule>
+		<param source="userprofile" name="proficiency_listening" type="int"/>
+		<param source="lom" name="format" type="string"/>
+		<param source="lom" name="interactivity_type" type="string"/>
+		<param source="lom" name="interactivity_level" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( proficiency_listening >= 2 && (format == "audio" || format == "video") )
+					return 1;
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+	<rule>
+		<param source="userprofile" name="proficiency_speaking" type="int"/>
+		<param source="lom" name="format" type="string"/>
+		<param source="lom" name="interactivity_type" type="string"/>
+		<param source="lom" name="interactivity_level" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( proficiency_speaking >= 2 && (format == "audio" || format == "video") && interactivity_type != "exposive" && interactivity_level > 2)
+					return 1;
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+	
+	<rule>
+		<param source="userprofile" name="priority_of_goal" type="int"/>
+		<param source="lom" name="duration" type="int"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( priority_of_goal <= 2 )
+				{
+					if (duration < 200 && typical_learning_time < 300) return 1;
+					else
+						return 0;
+				}
+					
+				return 1;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="qualifications" type="string"/>
+		<param source="lom" name="taxon_path_concept_and_discipline" type="string"/>
+		<param source="lom" name="taxon_path_skilllevel_prerequisite" type="int"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( taxon_path_skilllevel_prerequisite > 2 )
+				{
+					var quals = qualifications.split(",");
+					for ( var i = 0 ; i < quals.length ; ++i )
+						if ( quals[i] == taxon_path_concept_and_discipline)
+							return 1;
+
+					return 0; 
+				}
+				else
+					return 1;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+	<rule>
+		<param source="userprofile" name="goal" type="string"/>
+		<param source="lom" name="taxon_path_skilllevel_prerequisite" type="int"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				return 1;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="activity_type" type="string"/>
+		<param source="lom" name="context" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( ( context == "school" || context == "higher_education" ) && activity_type == "study" )
+					return 1;
+				if (  context == "training" && activity_type == "work" )
+					return 1;
+				if ( context == "research"  &&  activity_type == "research" )
+					return 1;
+				
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+	<rule>
+		<param source="userprofile" name="activity_status" type="string"/>
+		<param source="lom" name="context" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				return 1;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="cognitive_preferences" type="int"/>
+		<param source="lom" name="difficulty" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( difficulty == "easy" ){
+					if ( cognitive_preferences >= 1 ) {
+						return 1;	
+					}
+				}
+				if ( difficulty == "medium" ){
+					if ( cognitive_preferences >= 2 ) {
+						return 1;	
+					}									
+				}
+				if ( difficulty == "difficult" ){
+					if ( cognitive_preferences >= 3 ) {
+						return 1;	
+					}									
+				}				
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="physical_preferences" type="string"/>
+		<param source="lom" name="difficulty" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				return 1;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="skill_level" type="int"/>
+		<param source="lom" name="taxon_path_skilllevel_prerequisite" type="int"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+			if ( skill_level > taxon_path_skilllevel_prerequisite )
+				return 1;
+			else
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="role" type="string"/>
+		<param source="lom" name="intended_end_user_role" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( role == intended_end_user_role || intended_end_user_role == "any")
+					return 1;
+				else
+					return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+
+	<rule>
+		<param source="userprofile" name="keywords_of_interests" type="string"/>
+		<param source="lom" name="title" type="string"/>
+		<param source="lom" name="description" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				return 1;
+//				return sim(keywords_of_interest,title + description );
+			}
+		]]>
+		</rulescript>
+	</rule>
+
+	<rule>
+		<param source="userprofile" name="input_output_technology" type="string"/>
+		<param source="lom" name="requirement" type="string"/>
+		<param source="lom" name="other_platform_requirement" type="string"/>
+		<rulescript lang="JavaScript">
+		<![CDATA[
+			function test(){
+				if ( requirement == input_output_technology ) return 1;
+				if ( other_platform_requirement == input_output_technology ) return 1;
+				return 0;
+			}
+		]]>
+		</rulescript>
+	</rule>
+</rules>

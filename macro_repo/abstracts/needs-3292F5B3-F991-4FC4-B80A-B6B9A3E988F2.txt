@@ -1,0 +1,3 @@
+"The Landsat Program is a series of Earth-observing satellite missions jointly managed by NASA and the U.S. Geological Survey. Since 1972, Landsat satellites have collected information about Earth from space. This science, known as remote sensing, has matured with the Landsat Program.
+
+Landsat satellites have taken specialized digital photographs of Earths continents and surrounding coastal regions for over three decades, enabling people to study many aspects of our planet and to evaluate the dynamic changes caused by both natural processes and human practices."

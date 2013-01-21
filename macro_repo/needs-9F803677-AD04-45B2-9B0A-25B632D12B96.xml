@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type:  Partnerships for Adaptation, Implementation, and Dissemination;
+Year Awarded: 2007.
+
+Description: This award for Partnerships for Adaptation, Implementation and Dissemination supports the following objectives: Build a community of northeast U.S. geoscience women by implementing: 1. Professional development workshops and writing retreats to provide faculty with key skills to reach their full potential as academic and scientific leaders, 2. Workshops with geoscience department chairs to help develop effective strategies for recruiting and retaining a diverse faculty and for enhancing departmental climate and excellence. 3. Maintenance of a database of academic geoscientists. With this award, support is provided to develop a network of women geoscientists through community-based professional development workshops and writing retreats. In addition, the award supports development of workshops for geosciences chairs, who are key leaders in enhancing departmental climate. Workshops will focus on approaches to departmental assessment and strategy development to increase department diversity, providing a productive environment for all faculty. Intellectual merit arises from the application of promising ADVANCE Institutional Transformation practices to a unified set of disciplines across multiple types of institutions. The project seeks to determine practices that are most effective at different types of schools and can be used by departments with minimal institutional support. These results will serve as a model for other regions and other STEM fields. Broader impacts include engaging faculty in defining and disseminating strategies to broaden participation in the geosciences community.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9F803677-AD04-45B2-9B0A-25B632D12B96</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE  Program at the University of Nebraska-Lincoln</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:36EE4724-B312-479D-A96F-FD177232657F
+N:Couture;Barbara;null;;
+FN:Barbara Couture
+ORG:University of Nebraska
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:90C639F0-FF8B-4844-8ED1-161FE3489CB3
+N:Chandra;Namas;null;;
+FN:Namas Chandra
+ORG:University of Nebraska;Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:34354E5A-55E1-4D9C-855A-00C9B01C266B
+N:null;null;null;;
+FN:Mary Anne Holmes
+ORG:University of Nebraska;Sociology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4DA6F6C4-0C08-48EA-BAA7-651072D5488B
+N:Manderscheid;David;null;;
+FN:David Manderscheid
+ORG:University of Nebraska
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7184D9F9-ADB7-46C8-A07A-8BB923994BB5
+N:McQuillan;Julia;null;;
+FN:Julia McQuillan
+ORG:University of Nebraska
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-07-03</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9F803677-AD04-45B2-9B0A-25B632D12B96</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://advance.unl.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

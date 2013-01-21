@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"San José State University (SJSU) proposes a planning effort leading to a larger initiative, that will be called Expanding Paths to Computing - Leveraging Students Personal Interests. Ultimately the alliance will recruit and retain Latino/a students into computing by tapping into their personal interests, both social and relational. It will develop study paths that link students personal interests to computing during their high school and college freshman years; progressive involvement will inspire students to pursue college majors in computing. This proposal begins the project with a pilot of the high school outreach, Hispanic Computing Brigades (HCB). The HCB will be tested in two local high schools, inspiring and engaging Hispanic students through IT service learning projects. The high school students will begin the program with the summer camp, continue to learn and engage computing throughout the year with community service learning, and end with a local competition where they will showcase their computing projects with high school faculty, SJSU faculty, parents/guardians, and the community. Students will learn computer and programming skills and processes in weekly meetings with the help of advisors and mentors. Through assessment, the project expects to determine whether the approach of IT service learning is a strong motivator for Hispanic students."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>959FDE9D-ED8F-4993-819E-6BCCC9FA2B3B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Hispanic, summer camp, retention, high school</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-Plan: Expanding Paths to Computing - Leveraging Students Personal Interests</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5BD72B13-89C8-4BDA-9B3E-19238B88E021
+N:Wei;Belle;null;;
+FN:Belle Wei
+ORG:San Jose State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D661F48E-43D8-4CEC-81DB-AE54CB78EAA5
+N:Backer;Patricia;null;;
+FN:Patricia Backer
+ORG:San Jose State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:51994B47-592E-4CB8-B613-97913EC12FA4
+N:Garcia;Julio;null;;
+FN:Julio Garcia
+ORG:San Jose State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:182DEDFC-D2E7-459E-9D10-9AAE6886D08E
+N:Lee;James;null;;
+FN:James Lee
+ORG:San Jose State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:657B25D8-EE1B-42D7-9D7C-F528850EF06E
+N:Yu;Weider;null;;
+FN:Weider Yu
+ORG:San Jose State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E9948A3-F7C0-44BB-961E-E18B9E19C978
+N:Monica Noring;;;;
+FN:Monica Noring
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-07-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>959FDE9D-ED8F-4993-819E-6BCCC9FA2B3B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.engr.sjsu.edu/hcb</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

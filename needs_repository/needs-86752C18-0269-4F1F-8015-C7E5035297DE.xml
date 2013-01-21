@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Report of an NSF Workshop on
+                         Engineering Education.
+                                          Chair:  Carolyn Meyers
+                                       Georgia Institute of Technology
+
+                                          Rapporteur:  Edward W. Ernst
+                                          University of South Carolina.
+"Within  the  context of seeking to understand better the  programmatic
+implications  of  the broad changes needed for engineering  education,
+the  National Science Foundation?s Division of Undergraduate Education
+(DUE)  in  cooperation with the Division of Engineering Education  and
+Centers  (EEC)  organized  the Workshop on  Restructuring  Engineering
+Education.   The  workshop, held June 6-9, 1994 included  65  selected
+participants   representing   individual  investigators,   engineering
+education  coalitions,  Technology  Reinvestment  Program  coalitions,
+engineering  societies, the National Research Council?s (NRC?s)  Board
+on   Engineering  Education,  the  American  Society  for  Engineering
+Education  (ASEE) Engineering Deans? Council, industry, and  students.
+The   charge   was  to  address  the  curricular  content   (including
+experiential/contextual learning activities) and  the  broad  academic
+framework of an engineering education which is responsive to  the  new
+challenges of an increasingly interdependent global society .
+
+The  workshop  was organized around four working groups each  with  14
+participants.   Each group focused on one of four  topics:   students,
+faculty,  curricula, and experiential learning.  Workshop participants
+were   assigned  to  two  working  groups  each  to  promote   maximum
+interaction  and  cross-fertilization of  ideas.   It  was  explicitly
+recognized   that the issues related to engineering education  do  not
+separate  neatly but are interwoven among the topics.  Not  only  must
+curricula be integrated but also much of engineering education must be
+integrated.   The far ranging scope of the discussions in  each  group
+was  reflected in the reports from the scribes and the chairs  of  the
+four groups.
+
+This  report  of  the workshop is an integration of the  reports,  the
+perspectives,  and the concerns from the four discussion  groups.   An
+attempt  to summarize a report on students or faculty or curricula  or
+contextual   learning  would  fail  to  convey  the  nature   of   the
+discussions.   In  these  discussions,  the  interfaces  between   the
+designated  areas received as much attention as the areas  themselves.
+Nevertheless,   the  workshop  generated  items  on  which   consensus
+developed.   These  are  presented  in  the  Recommendations  and  the
+Executive   Summary  with  the  body  of  the  report  providing   the
+background."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>86752C18-0269-4F1F-8015-C7E5035297DE</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Restructuring Engineering Education: A Focus on Change</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:95FAA0B5-969F-49EF-A278-519A87F42376
+N:NSF;National Science Foundation;null;;
+FN:National Science Foundation NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1995-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>86752C18-0269-4F1F-8015-C7E5035297DE</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.nsf.gov/pubs/stis1995/nsf9565/nsf9565.txt</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

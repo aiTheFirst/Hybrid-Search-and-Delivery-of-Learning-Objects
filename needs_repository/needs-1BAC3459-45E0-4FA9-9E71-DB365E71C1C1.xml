@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>self assessment</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Foundation Coalition offers thirteen easy-to-use concept inventories that are intended for pre-and post-testing of intuitive comprehension of a subject, independent of knowledge of the terminology or numerical modeling.
+
+Instruments: Assessment instruments and processes can be used to collect data on many different attributes and performance characteristics. Instruments designed to collect the data may be placed into one of three broad categories:
+
+    * Content Knowledge
+    * Student Interest, Perceptions, and Attitudes
+    * Process Knowledge, e.g., teamwork, design
+
+Assessment Stories: In addition to the instruments that have been developed across the Coalition, data has been collected on the curricular innovations that have been implemented on many different partner campuses. Stories constructed from the data are available on the Web site.
+
+Workshops: The Coalition also offers several different workshops that campuses can host. The Coalition will cover facilitator and travel expenses and asks the host institution only to cover costs associated with hosting the workshop.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1BAC3459-45E0-4FA9-9E71-DB365E71C1C1</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">assessment, concept inventories</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Concept Inventory Assessment Instruments for Engineering Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C29B2511-E8DF-4C38-B964-0D36D70B4AA3
+N:Foundation Coalition;;;;
+FN:Foundation Coalition
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:525C30E7-7299-46C4-A5F6-BD48A1FB7D97
+N:Ingrid Burbey;;;;
+FN:Ingrid Burbey
+ADR;TYPE=work,postal,parcel:;;950 Shilo Way;Blacksburg;VA;;
+TEL;TYPE=work,voice:540/951-7710 (home)
+URL:www.filebox.vt.edu/users/iburbey
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-27</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1BAC3459-45E0-4FA9-9E71-DB365E71C1C1</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.foundationcoalition.org/home/keycomponents/assessment_evaluation.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

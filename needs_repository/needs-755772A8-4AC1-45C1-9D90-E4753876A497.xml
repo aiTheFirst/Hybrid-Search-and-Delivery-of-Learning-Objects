@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">In our increasing complex world, the tasks of decision-makers are becoming more challenging with each passing day. The decision-maker (a person who has a problem) must respond quickly to events that seem to take place at on ever increasing pace. In addition, a decision-maker must incorporate a sometimes-bewildering array of choices and consequences into his or her decision.  This web-based software is created for you. There are many tools and techniques available to help individuals and organization to make better decisions. The purpose of this course is to provide decision-makers and analysts with tools that provide a logical structure for understanding problems as well as mathematical techniques for solving the problems that have been formulated (i.e. modeled). The primary tools in this course are linear programming, and decision analysis, which provide structure, which can be of enormous value in helping you to define and under-stand, a problem (i.e., to see the problem beneath yourself). In addition, you will learn OR/MS methodologies for determining an optimal solution to the problem that has been described. The availability of PC means that you can apply these techniques to even small business environment. Finally, a clear understanding of a general approach to problem solving enables you to understand and use other applied decision making and planning techniques which are covered in this course.
+
+
+ This Web-enhanced course is divided into the following main topics:
+
+- Course Information (for students enrolled in my classes)
+- Overcome Decidophobia by Management Science Approach
+- Modelling: Reflections Before Actions
+- Deterministic Models , Probabilistic Models
+- A Unified View of These Two Types of Models
+- Books on Operations Research/Management Science
+- Interesting and Useful Sites
+Keywords: Operations Research, Business, Decision Analysis</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>755772A8-4AC1-45C1-9D90-E4753876A497</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Applied Management Science: Making Good Decisions</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BE6F88A6-25E3-407B-81F5-BD7647E6ABBC
+N:Arsham;Hossein;null;;
+FN:Hossein Arsham
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9E2B62A5-43F7-443E-B120-572C7D55C690
+N:University of Baltimore;;;;
+FN:University of Baltimore
+ADR;TYPE=work,postal,parcel:;;1420 N. Charles StreetBaltimore, MD 21201;;;;
+URL:http://www.ubalt.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1999.09.23</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-09-23</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>755772A8-4AC1-45C1-9D90-E4753876A497</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">None</lom:string></lom:installationRemarks><lom:location>http://home.ubalt.edu/ntsbarsh/opre640/opre640.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,13 @@
+Textbook with rich supplemental material published by Oxford University Press.
+
+"The abundance of hype Java receives should not distract us from the fact that it has many excellent features for sequential programming: object-oriented, no explicit pointers and no pointer arithmetic, automatic garbage collection and no memory leaks, strong typing, platform independence, and many compiler and run-time checks. The Java development kit comes with a rich collection of class libraries for data structures, IO, networking, remote procedure calls, and graphics. Since threads are built-in, Java can be used for concurrent programming and developing multithreaded applications. In particular, it can be used by instructors as the concurrency platform in operating systems and related courses to give students practice and experience in concurrent programming.
+
+Designed for students and professional programmers, this books covers multithreading issues such as race conditions, critical sections, mutual exclusion, and condition synchronization. Java programs that use semaphores and monitors are shown as examples. Next, the book describes several thread communication tools: message passing, the rendezvous, and remote procedure calls, also illustrated with Java examples. These tools are used extensively in client-server programming. An algorithm animation package, written in Java, is used in several of the example programs. The book concludes with a brief introduction to parallel processing with Java in a shared-memory multiprocessor or a distributed memory cluster environment.
+Important and Unique Features
+
+    * The material is keyed to five standard operating systems texts.
+    * The book can be read by software professionals who have some architecture and systems background.
+    * All Java example programs are stand-alone applications, not applets.
+    * Each example program includes output from one or more sample runs.
+    * Algorithm animation using the XtangoAnimator class is described.
+    * Numerous programming assignments and other exercises are given."

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Paper published in the Journal of Engineering Education,  Oct 2001.
+"Recent curriculum revisions to the geological engineering program at Queen's University at Kingston in Canada have led to a more streamlined program incorporatingmodern engineering education practices. Following a carefully designed program philosophy, the emphasis in the core curriculum changes through the entire four-year program in three progressive stages, from the acquisition of knowledge, to integration and analysis, and finally to synthesis and design. This is reflected in an increased concentration of mathematics and basic science courses in first and second year, engineering science courses in third year, and engineering design courses (capstone courses) in fourth year. Two tools which concisely illustrate the course curriculum and curriculum content are: (1) the flow sheet, which can contain a wealth of information, such as showing linkages between courses (e.g. how upper-level courses can build on lower-level courses through course prerequisites), the timing of various courses, courses taught within the home department (vs. other departments), and courses taught by professional engineers; and (2) the ternary phase diagram, which is a quantitative method of displaying engineering content within individual courses or an entire program and can clearly show patterns and trends in curriculum content with time. Such tools are useful for academic engineering programs which may have to undergo an accreditation review and are readily adapted to any other engineering fields of study."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>55B34DC4-0F26-4293-8DF7-C87EBD1D8EB4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">New curriculum reforms in a geological engineering program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8D3A13A5-8C71-4F4A-967F-4F4517B92B7C
+N:Lee;James;null;;
+FN:James Lee
+ORG:Queen's University;Geological Sciences and Geological Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:977A6C39-02DA-4930-9EAF-A38D0C68311F
+N:Hanes;John;null;;
+FN:John Hanes
+ORG:Queen's University;Geological Sciences and Geological Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C5ADD312-8B51-459A-96F6-3F4E0831B599
+N:Remenda;Victoria;null;;
+FN:Victoria Remenda
+ORG:Queen's University;Geological Sciences and Geological Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-23</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>55B34DC4-0F26-4293-8DF7-C87EBD1D8EB4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://findarticles.com/p/articles/mi_qa3886/is_200110/ai_n8985901/pg_1</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

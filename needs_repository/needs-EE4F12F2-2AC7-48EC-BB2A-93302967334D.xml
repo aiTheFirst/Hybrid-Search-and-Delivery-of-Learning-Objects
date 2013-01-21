@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">The website covers, with varying completeness, the different departments within the Geological and Planetary Sciences Division.  Many of the subsections have interesting photographs and overview work being conducted by department faculty.</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">CalTech's Geological and Planetary Science Division's website.  Overviews academic  and research programs, student information, facilities &amp; resources, people, news, and seminars.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EE4F12F2-2AC7-48EC-BB2A-93302967334D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Geology, Planetary, research, earth science, seismology</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">CALTECH: Geological &amp; Planetary Sciences</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7281704C-4DD7-4D04-AE78-DA35CF697917
+N:Lipski;John;;;
+FN:John Lipski
+ORG:CalTech: Division of Geological and Planetary Sciences
+TEL;TYPE=work,voice:626-395-6123
+TEL;TYPE=work,fax:626-568-0935
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-02-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7927E170-645A-4B91-9E22-1D1D4AAD8F86
+N:California Institute of Technology;;;;
+FN:California Institute of Technology
+ADR;TYPE=work,postal,parcel:;;1200 East California Boulevard&lt;br>&lt;br>Pasadena, California 91125;;;;
+URL:http://caltech.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-02-26</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-02-26</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EE4F12F2-2AC7-48EC-BB2A-93302967334D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.gps.caltech.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

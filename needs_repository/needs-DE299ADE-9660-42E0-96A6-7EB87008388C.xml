@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>index</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This chemical education digital library is the chemical engineering branch of the NSF-funded  National STEM Education Digital Library (NSDL).
+ 
+The ChemEd DL provides access to a wide range of chemical education resources, including a point-and-click guide to each element in the periodic table, resources for teachers and resources for students. 
+
+"The Chemical Education Digital Library (ChemEd DL) is the destination for digital content intended for chemical science education. We aim to be the place where you can contribute, share, and organize chemistry education materials. With oversight provided by the various communities that comprise ChemEd DL, we strive to provide the best of what chemical education has to offer.
+
+The ChemEd DL has its foundation built upon the Journal of Chemical Education, the Education Division of the American Chemical Society, and the ChemCollective Project. Here, you will find resources for education that span the entire science of chemistry.
+
+The ChemED DL also provides an online chemistry education community that covers the entire spectrum of the chemical sciences. This large community is built upon smaller communities that are characterized according to their subdiscipline of the chemical sciences or by education level. We also expect that communities will develop around areas of content in ChemEd DL, such as the periodic table or chemistry video, or around pedagogical methods, such as testing and assessment."
+
+ChemEd DLib will create new communities centered around different educational levels, says Pathway PI John Moore. It will provide resources in different sub-disciplines of chemistry and different pedagogical areas, such as problem-based learning. Also highlighted is the award-winning Chemistry Comes Alive! videos, with their slow-motion presentations of fires, explosions, and other chemical reactions."
+
+Caption: image of the interactive periodic table as one of the many resources available on this site.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DE299ADE-9660-42E0-96A6-7EB87008388C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">chemistry education</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">ChemEd DL - Chemical Science Education Digital Library</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3313294A-29B3-4613-A3C9-1DEC68030C31
+N:ChemicalEd DL - Chemical Science Education Digital Library;;;;
+FN:ChemicalEd DL - Chemical Science Education Digital Library
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-01-26</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DE299ADE-9660-42E0-96A6-7EB87008388C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://chemeddl.org</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

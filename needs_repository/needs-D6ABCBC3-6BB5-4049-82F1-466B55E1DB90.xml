@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"This is a companion volume to Shaping the Future: New Expectations for
+Undergraduate Education in Science, Mathematics, Engineering, and Technology
+(NSF 96-139), the 1996 report of the Advisory Committee on Undergraduate
+Education to the National Science Foundation's Directorate for Education and
+Human Resources.  For this supplement, we have selected the materials that
+helped to initiate the discussion and debate of the review, and provided the
+framework for the Recommendations presented in the first volume of  Shaping the
+Future.
+
+No single document could purport to fully represent the breadth and depth of the
+expansive and complicated endeavor of higher education and its reform.  While
+the EHR Advisory Committee did a formidable job of soliciting broad-based
+community opinion, synthesizing the issues facing contemporary undergraduate
+education, and summarizing this process in its report to NSF, the material
+presented in this second volume provides an essential resource for anyone
+wishing to explore these issues more completely, without the benefit of
+interpretation or distillation.  To this end, we have made every effort to allow
+these authors to express their views in their own words and present references
+and data without undue editorial revision or comment.
+
+The review of undergraduate education and the Shaping the Future report have
+already generated much discussion and activity in the U.S. education community.
+In recognition of this, the National Science Foundation has initiated its
+"NextSteps in Shaping the Future" campaign to capitalize upon this enthusiasm,
+coordinate regional efforts, and help guide discussion towards a national
+movement to achieve even greater excellence in higher education.  We begin this
+volume with a summary of these ongoing, follow-up activities.
+
+Section II of this volume presents a detailed account of NSF programs in
+undergraduate education since NSB 86-100, Undergraduate Science, Mathematics and
+Engineering Education: Role for the National Science Foundation and
+Recommendations for Action by Other Sectors to Strengthen Collegiate Education
+and Pursue Excellence in the Next Generation of U.S. Leadership in Science and
+Technology, the last substantive review of undergraduate education in this
+nation.  Section III presents the written remarks contributed as part of the
+public hearings on undergraduate education held in October and November, 1995,
+as well as an overview of the Social Sciences workshop held in February, 1996.
+Section IV summarizes the series of national focus groups conducted by NSF in
+1995 and 1996, while Section V presents data from a variety of sources that
+contributed many-but certainly not all-essential facets to the overall analysis."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D6ABCBC3-6BB5-4049-82F1-466B55E1DB90</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Shaping the Future, Volume II: Perspectives on Undergraduate Education in Science, Mathematics, Engineering, and Technology</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:628CE316-03B0-499C-9859-504C44AB77ED
+N:NSF;National Science Foundation;null;;
+FN:National Science Foundation NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D6ABCBC3-6BB5-4049-82F1-466B55E1DB90</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/pubs/1998/nsf98128/nsf98128.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

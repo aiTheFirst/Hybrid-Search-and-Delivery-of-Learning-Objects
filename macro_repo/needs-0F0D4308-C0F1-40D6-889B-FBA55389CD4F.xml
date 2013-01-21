@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type:  Partnerships for Adaptation, Implementation, and Dissemination.
+Year Awarded: 2008.
+ 
+Description: This new program will develop into an integral component of NYU's campus-wide diversity initiative, and will also play a central role in the university's transformation into a leading institution promoting the advancement of women and minorities in all areas of academic endeavor. The initial focus will be on the promotion and enhancement of the careers of women science faculty, but the program is designed also to serve as a springboard for acceleration and solidification of NYU's progress towards an excellent and diverse faculty. The NYU ADVANCE-PAID program is guided by two goals: 1) transformation of the institutional climate at NYU through programs that facilitate the recruitment and advancement of women in science, and 2) promotion of diversity studies at NYU and other institutions. Programs to achieve these goals include institutionalizing mentoring, development training, and assessment; providing greater access to and opportunities for networking and visibility; creating a family support initiative to aid in fieldwork and travel; providing recruitment training and incentives; and creating research challenge grants. Design of the programs is informed both by the literature and by NYU's specific needs... "</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0F0D4308-C0F1-40D6-889B-FBA55389CD4F</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE  Program at New York University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C45D1CC5-3077-4B2F-A2BB-69C4ED051F14
+N:Stein;Daniel;null;;
+FN:Daniel Stein
+ORG:New York University;Physics and Mathematics
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0F0D4308-C0F1-40D6-889B-FBA55389CD4F</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://advance.as.nyu.edu/page/home</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

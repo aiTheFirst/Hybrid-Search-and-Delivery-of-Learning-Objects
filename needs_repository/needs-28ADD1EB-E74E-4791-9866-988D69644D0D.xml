@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Women nationally comprise about 20% of information technology professionals. Only 9% of American engineers are women. This paper describes efforts, through the National Science Foundation's Computer Science, Engineering, and Mathematics Scholarships program, to increase the number of graduates, especially women and other underrepresented groups, in these fields at The Community College of Baltimore County in Maryland. From fall 2001 through fall 2003, scholarship awards, generally of $3,125 per year, were made to 73 full-time students. Criteria included 2.5 Grade Point Average, and verified unmet financial need. The average awardee received the scholarship for two semesters. Half of these awards were made to women. Faculty mentoring, and a required one-week summer experience for academic support, career and transfer information, and field trips to local businesses and government agencies were used to increase retention and success. Success rates for awardees are compared with those at the college and in the state."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>28ADD1EB-E74E-4791-9866-988D69644D0D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Computer science, internet literacy, internet programming, C++, engineering, NSF, women, underrepresented, program, faculty mentoring, female, African American, career program, Hispanics, recruit, enroll, pedagogy, orientation, scholarship program, one-to-one faculty mentors, faculty tutors, student tutors, support services, mentees</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Promoting computer science, engineering, and related programs with scholarships and student support services</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7F5E5878-D1E8-4F84-BDCB-A927FC904B7F
+N:Sorkin;S.;null;;
+FN:S. Sorkin
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FD3490C1-675D-482C-870E-972D7F167586
+N:Tingling;T.;null;;
+FN:T. Tingling
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D72924AA-9863-4AA2-9FD1-F1CCB7E95EDD
+N:Beiderman;A.;null;;
+FN:A. Beiderman
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:79EBBBCE-1FF6-4F49-BFEA-02B346609BC9
+N:Walker;J.;null;;
+FN:J. Walker
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A95A4292-7E83-4C47-AC38-612313409FAE
+N:Amanda Walton;;;;
+FN:Amanda Walton
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>28ADD1EB-E74E-4791-9866-988D69644D0D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://ieeexplore.ieee.org/iel5/10731/33854/01612217.pdf?tp=&amp;isnumber=&amp;arnumber=1612217</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

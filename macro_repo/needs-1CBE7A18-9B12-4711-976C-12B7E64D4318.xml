@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>lecture</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">An audio archive of the public radio program "Engineering &amp; Life", which aims to teach the general public about engineering.
+
+Recent additions include -- The Box: How the Shipping Container made the World Smaller and the World Economy Bigger and Spying on the Bomb: American Nuclear Intelligence. Click to get podcasts. (Of course, you might well be interested in other topics from those two weeks: Shakespeare, Television with David Bianculli, Orson Welles, the Arctic, Mirrors, or the reason things fail!)</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1CBE7A18-9B12-4711-976C-12B7E64D4318</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Bill Hammack's Engineering &amp; Life Public Radio Program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3D718565-264A-40E8-B601-02AF9F9DCD0E
+N:Hammack;Bill;null;;
+FN:Bill Hammack
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-11-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:294ABE05-06C7-4496-A821-C3CE73AD6D74
+N:Johanna Mathieu;;;;
+FN:Johanna Mathieu
+TEL;TYPE=work,voice:207-240-8428
+URL:http://best.me.berkeley.edu
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-11-10</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1CBE7A18-9B12-4711-976C-12B7E64D4318</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.engineerguy.com/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,1 @@
+:An introduction to advanced control-structures with an emphasis on concurrency and writing concurrent programs at the programming-language level. Programming techniques and styles are examined to express complex forms of control flow, such as multi-level loop exit, data-structure iterators, exceptions, coroutines, and concurrency."

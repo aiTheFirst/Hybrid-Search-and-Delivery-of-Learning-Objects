@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract:
+
+"An integrated teaching and learning (ITL) program was initiated in 1992 by a team of faculty and
+students who articulated an ambitious vision for undergraduate engineering education reform: ` . . . to
+pioneer a multidisciplinary learning environment that integrates engineering theory with practice
+and promotes creative, team-oriented problem-solving skills.' The ITL Laboratory was dedicated in
+1997 to support this college-wide vision. This paper describes the development process of this new
+facility and its major features. The underlying educational value is also discussed. Outreach
+activities are described, including a unique on-line system where experimental modules are made
+available on the WorldWideWeb."
+
+&lt;citation>Lawrence E. Carlson, Jacquelyn F. Sullivan; Hands-on engineering: learning by doing in the integrated teaching and learning program; International Journal of Engineering Education; 15; 1; 20-31; 1999&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2CDFE303-C372-4864-8193-3D07F7AE95AA</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Hands-on engineering: learning by doing in the integrated teaching and learning program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D104893C-AA81-495B-9500-56DAC5CCC25E
+N:Carlson;Lawrence E.;null;;
+FN:Lawrence E. Carlson
+ORG:University of Colorado at Boulder, Colorado, USA;Integrated Teaching and Learning
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7F29F7ED-191A-488A-8398-D094DB2B4ED4
+N:Sullivan;Jacquelyn F.;null;;
+FN:Jacquelyn F. Sullivan
+ORG:University of Colorado at Boulder, Colorado, USA;Integrated Teaching and Learning
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0EAE0097-894C-497B-BF38-55AA8F38037C
+N:Donal McCarthy;;;;
+FN:Donal McCarthy
+ADR;TYPE=work,postal,parcel:;;23 Monastery CrescentClondalkin;Dublin;;;
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2CDFE303-C372-4864-8193-3D07F7AE95AA</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ijee.dit.ie/latestissues/Vol15-1/Ijee1041.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Temporal Dynamics of Learning Center (TDLC) aims to achieve an integrated understanding of the role of time and timing in learning, across multiple scales, brain systems, and social systems. The scientific goal of the center is therefore to understand the temporal dynamics of learning, and to apply this understanding to improve educational practice.
+
+Learning is an active, dynamic behavior that emerges from interactions between the developing brain of a child and a social world. Until recently not enough was known about the brain to help guide educational practice. This is rapidly changing as new discoveries are made about the brain and new techniques are available for probing the learning brain. TDLC brings together a collaborative team of researchers, educators, and communicators who bring basic science into classrooms and, conversely, use the classroom as a living laboratory to inform and guide the basic science.
+
+Learning occurs at many levels: at the level of synapses and neurons; at the level of brain systems involved in memory and reward; at the level of complex motor behaviors; at the level of expertise learning; and finally, at the level of learning via social interactions between teachers and students. TDLC initiatives address fundamental research questions such as:
+
+How is temporal information about the world learned? How do the intrinsic temporal dynamic properties of brain cells and circuits facilitate and/or constrain learning? How can the temporal features of learning be used to enhance education? What are the best theoretical ways to conceive the temporal dynamics of learning in the brain and between brains?
+
+Answering these questions cannot emerge from a single line of inquiry, so TDLC's research model has been collaborative and interdisciplinary from the beginning. The center has created communities of scientists that break down disciplinary and institutional barriers in pursuit of a common set of research questions. Researchers in machine learning, psychology, cognitive science, neuroscience, molecular genetics, biophysics, mathematics, and education focus on each set of issues from multiple perspectives, and synchronize their research by running parallel experiments in animals, people, and theoretical models.
+Image caption: A social robot can operate autonomously with children in a preschool setting. One long-term goal is to engineer systems that test whether young children can learn a foreign language through interactions with a talking robot.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>93F32138-38EC-4356-83BB-977040D8F2D1</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">cognitive science, cognition, learning sciences, dynamics of learning</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Temporal Dynamics of Learning Center - an NSF Science of Learning Center</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C38700D4-BD67-4E06-A077-CF9D26449E47
+N:Cottrell;Garrison;null;;
+FN:Garrison Cottrell
+ORG:University of California at San Diego;Computer Science and Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A2161BA8-A512-41CE-BE8F-F724CEE292ED
+N:Chiba;Andrea;null;;
+FN:Andrea Chiba
+ORG:University of California at San Diego;Cognitive Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:67618AEF-BE91-4873-9AA3-EFCDA784FE1E
+N:Sejnowski;Terry;null;;
+FN:Terry Sejnowski
+ORG:University of California at San Diego;Molecular and Cell Biology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:486B8A71-4C8A-479D-9BA4-E9FC1ADF7AE6
+N:Movellan;Javier;null;;
+FN:Javier Movellan
+ORG:University of California at San Diego;Institute for Neural Computation, and Director, Machine Percepti
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9EBF2475-C0AC-468C-9571-9F340895DBD7
+N:Bartlett;Marian;null;;
+FN:Marian Bartlett
+ORG:University of California at San Diego;Institute for Neural Computation and Machine Perception Lab
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D00B808E-8395-4931-9D62-B734B47FB8E4
+N:Gauthier;Isabel;null;;
+FN:Isabel Gauthier
+ORG:Vanderbilt University;Pscychology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9AB5201C-FFC5-47D5-A155-8A43C0E051C4
+N:Palmeri;Thomas;null;;
+FN:Thomas Palmeri
+ORG:Vanderbilt University;Psychology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3A2EC7EE-950E-4F6F-B383-D959C10F9654
+N:Tallal;Paula;null;;
+FN:Paula Tallal
+ORG:Rutgers University;Center for Molecular and Behavioral Neuroscience
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:173FDA47-6458-4672-A167-D6F88C79D1B3
+N:Poizner;Howard;null;;
+FN:Howard Poizner
+ORG:University of California at San Diego;Sensory Motor Network
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6E96DFB4-785C-4957-B4A7-CC65619E4A38
+N:Bingham;Roger;null;;
+FN:Roger Bingham
+ORG:University of California at San Diego;Science Network
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-07-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>93F32138-38EC-4356-83BB-977040D8F2D1</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://tdlc.ucsd.edu/portal/index.php</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

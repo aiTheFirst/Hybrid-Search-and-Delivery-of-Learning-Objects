@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">What are the Important Components of Targeted Recruiting? "Professional recruiters know that being strategic about recruiting
+requires consideration of several elements, including making
+decisions that are aligned with your staffing or enrollment goals.
+A clearly defined recruitment strategy sets up a framework for
+focusing your efforts and planning beyond individual events or
+campaigns. The strategy defines what activities to concentrate on
+and what activities are unimportant."
+
+Case Study: 
+
+"The Rocky Mountain Section of the Society of Women
+Engineers, Lockheed Martin, Junior Achievement of the Rocky
+Mountains, Inc., and the Womens Foundation of Colorado
+collaborate each year to produce the Girls Exploring Science,
+Engineering, and Technology (GESET) event for hundreds
+of girls."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2A9EED13-E0AD-459C-92D8-CB9F9E9D85B2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">NCWIT, gender equity, enhance interest, motivate</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NCWIT Promising Practice: Girls Exploring Science, Engineering, and Technology Event - GESET (Case Study 1)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:47F7E603-403C-4C81-84C7-5801388D9025
+N:null;null;null;;
+FN:Lecia J. Barker
+ORG:University of Colorado, Boulder;Assessment and Research Center
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:09421D4F-A26F-4187-B551-8FD33C92F91B
+N:null;null;null;;
+FN:J. McGrath Cohoon
+ORG:University of Virginia Charlottesville;School of Engineering &amp; Applied Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:343A4529-453B-406B-8E22-09B297010E70
+N:Xinhua Yang;;;;
+FN:Xinhua Yang
+TEL;TYPE=work,voice:303-273-3769
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-03-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2A9EED13-E0AD-459C-92D8-CB9F9E9D85B2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ncwit.org/images/practicefiles/GirlsExploringScienceEngineeringTechnologyGESET_TargetedRecruitmentWomenGirlsIT_Practice.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

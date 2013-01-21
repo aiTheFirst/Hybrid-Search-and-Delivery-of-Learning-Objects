@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>diagram</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Mad Hatter's Tea" won first place in Informational Graphics. The team used an excerpt from an informative book, Alice's Adventures in Microscopic Wonderland, to demonstrate the fantastic nature of reality by arranging the illustrations of three beetles in fanciful ways.
+
+While wandering through the forest of wonderland, Alice stumbles upon three beetles having tea. That's not exactly how Lewis Carroll's classic tale goes, but this recreation of the Mad Hatter's tea could certainly belong in the story.
+Freelance illustrator Colleen Champ produced her own version of the scene using micrographs by photomicrographer Dennis Kunkel. The goal was to demonstrate the fantastic nature of reality by arranging the actual images in fanciful ways, Champ says: "You cannot create anything yourself that hasn't already been created in nature."
+She used Photoshop to transform three beetles into the Mad Hatter, March Hare, and the sleepy Dormouse. They sip tea at a table made of butterfly wings, set in a field of crystallized vitamin C while aphids fly overhead. A key beneath the main illustration identifies the source of each image, including the mold spores that make up the vast underground.
+Kunkel says the work is a fruitful partnership between science and art: "She's taken images from the minute world and put them together in such a way as to make them really compelling, exciting, and funny to look at." Kunkel plans to develop a series of children's books based on Champ's images.
+The interplay between fact and fancy also impressed the judges, who used the words "innovative" and "delightful" to describe the piece. Panel of finalist judges member Michael Keegan called it a "palatable introduction" to science, saying it provides an excellent way to attract children to the subject matter.
+
+Credit: Colleen Champ and Dennis Kunkel, Concise Image Studios.
+
+Co-sponsored by AAAS and NSF, the 2008 contest drew 181 entries from 20 U.S. states and the District of Columbia and 20 countries. The winners are featured in the September 26, 2008 edition of Science. The categories included photography, illustration, informational graphics, and multimedia -- captured the crystalline beauty of diatoms, the expanse of the human circulatory system, a fairy tale tea party re-invented, and the dynamic life of a plant cell.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BA90F3AB-9D4D-4A40-9B14-550F005A7CE7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">visualization</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Mad Hatter's Tea - First Place in Information Graphics in the 2008 Science and Engineering Visualization Challenge</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DA285C7C-F003-49C4-9E25-2A9A5004869F
+N:National Science Foundation - NSF;;;;
+FN:National Science Foundation - NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BA90F3AB-9D4D-4A40-9B14-550F005A7CE7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/news/mmg/media/images/scivis2_h.jpg</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>7800000</lom:size></lom:technical></lom:lom>

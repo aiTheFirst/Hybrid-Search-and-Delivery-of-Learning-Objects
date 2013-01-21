@@ -1,0 +1,21 @@
+The Java book was published in April 2006. PDF version available for free. Review from back cover:
+"New computer science students are far more motivated when they are creating programs they care about. Reflecting that insight, this complete first course in Java introduces each new concept in the context of programs that manipulate studentsâ??own sounds, pictures, web pages, and video: programs that help them communicate.
+
+ 
+
+Mark Guzdial and Barbara Ericson draw on their innovative work at Georgia Tech, work that has significantly improved student success, and earned the recognition of the National Science Foundation. This book presents new techniques only after demonstrating why students need them to solve meaningful problems. Students can then run their digital media programs get immediate feedback that helps them stay on the right track.
+
+ 
+
+Open-ended assignments are designed to motivate, promote creativity, and encourage collaboration and friendly competition, using the simple, intuitive, lightweight DrJava development environment. At the same time, students learn to create robust, efficient Java code for any IDE or platform. 
+
+ 
+
+Skills include:
+
+    * fundamentals of object development 
+    * loops, arrays, and matrices 
+    * drawing with Javaâ??s Graphics and Graphics2D classes
+    * generating HTML databases and using basic SQL queries 
+    * understanding and modifying algorithms 
+    * program performance and reliability."

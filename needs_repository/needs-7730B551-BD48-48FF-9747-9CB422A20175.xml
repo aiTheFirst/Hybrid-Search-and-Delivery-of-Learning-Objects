@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">A large collection of earth sciences related site, both private and governmental.  Useful for either the student researching a topic for a paper or a teacher preparing a lesson plan.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"For those who have access to the internet and a graphical web browser such as Mosaic or Netscape, the following web pages provide free access to some of the leading research databases in the field. Data includes world and local earthquake seismicity maps, as well as digital records of major world earthquakes. Furthermore, these sites often include listings of numerous other resources, including books, pamphlets, and other teaching materials, and are often cross referenced to aid in searching other related web sites. Some sites also provide
+free access to online versions of their printed publications."  Contents are as follows:
+* Federal Funding Agencies of the National Earthquake Hazards Reduction Program 
+* Other Federal Agencies 
+* National consortia/Regional Organizations 
+* Agencies of the State of California 
+* City and County Organizations 
+* UC Berkeley Departments and Organized Research Units 
+* Geophysical Data Centers/Geophysical Resources 
+* Seismological Data Centers/Seismological  Resources 
+* Geodetic Data Centers 
+* Geotechnical Resources 
+* Engineering Data Centers/Engineering Resources 
+* Response, Recovery, and Mitigation Planning 
+* Emergency Preparedness 
+* Professional Societies &amp; Scientific Publications 
+* Publishing Companies 
+* Software 
+* Companies 
+* Science Museums 
+* Teaching Resources 
+* Bulletin Boards 
+* Other resource lists</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7730B551-BD48-48FF-9747-9CB422A20175</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Seismology, Earth Sciences, Earthquakes, Meteorology, Natural disasters</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Where can I find other internet resources about earth sciences and natural hazards?</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B6BB61A5-ECD4-4C63-8DC8-64B5B1340AF3
+N:University Of California At Berkeley. Seismologica;Webmaster;null;;
+FN:Webmaster University Of California At Berkeley. Seismologica
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F218A306-CF11-498B-BB44-89EF46C039B5
+N:University Of California At Berkeley. Seismologica;;;;
+FN:University Of California At Berkeley. Seismologica
+ADR;TYPE=work,postal,parcel:;;202 McCone HallUC BerkeleyBerkeley CA  94720-4760;;;;
+TEL;TYPE=work,voice:510-642-9377
+TEL;TYPE=work,fax:510-643-5811
+PHOTO;VALUE=uri:http://www.seismo.berkeley.edu/gifs/seismo_logo.gif
+URL:http://www.seismo.berkeley.edu/seismo/Homepage.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-03-22</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-03-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7730B551-BD48-48FF-9747-9CB422A20175</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.seismo.berkeley.edu/seismo/resource/internet.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

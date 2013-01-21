@@ -1,0 +1,36 @@
+This website on the history of computer programing has information about the first computers and recent computers. Lecture slides include the following topics:
+
+
+       1. The Shamanistic Tradition
+       2. Stonehenge: A Primitive Calendar
+              * Stonehenge Sites
+       3. The Abacus: A Primitive Calculator
+       4. The Forefathers of Computing Science
+       5. Pascal's Pascaline Calculator
+              * Blaise Pascal
+       6. The Difference Engine
+              * Charles Babbage
+              * Charles Babbage Sites
+       7. The Conditional
+       8. Herman Hollerith
+       9. Binary Representation
+      10. The Harvard Mark I
+      11. Alan Turing
+              * Alan Turing Sites
+
+
+
+      12. The Turing Machine
+      13. ENIAC
+      14. John von Neumann
+      15. The EDVAC Computer
+      16. Technology Advances
+      17. The Altair
+      18. The Creation of Microsoft
+      19. BASIC & Other Languages
+              * More Computer Languages
+      20. The PC Explosion
+              * PC Sites
+      21. PCs Today
+      22. The Web
+      23. Servers and Clients

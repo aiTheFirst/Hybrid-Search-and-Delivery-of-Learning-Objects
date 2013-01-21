@@ -1,0 +1,1 @@
+Lab exercise to introduce students to use of classes in C++. The objective of this exercise is to learn how to (1) declare a class, (2) define member functions and (3) test member functions. The exercise inolves a C++ console program and was developed to run on a PC using Microsoft Visual C++.

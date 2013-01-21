@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">What do girls imagine when they think of computers and technology? We asked girls in our community that question and here's what they had            to say. 
+I see a male staring at the screen all day long, typing 
+always stressed 
+talks about nothing but computer science 
+super smart.
+
+Ideas like these are common and may explain why many girls decide not to enroll in a technology summer camp or an advanced programming            class at school. But the problem isn't with girls. Take a look at computer games or course offerings and you'll find that most are designed for boys. Consider the image of computer scientists portrayed in the media and you'll also find it isn't likely to attract many            students - girls or boys - to technology. 
+
+We developed the Techbridge program to introduce girls to various            applications of technology and to encourage them to consider careers in the field. We began by talking to girls to find out what kinds of            technology projects appealed to them. They had lots of ideas: addressing real problems at school and in the neighborhood; designing            products like a school newsletter; taking field trips; and meeting            women in the field. They were also very enthusiastic about a program just for girls.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A7AC509C-24C2-4C4C-9628-D552B63715C9</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Techbridge: Encouraging Girls in Technology</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C56C1287-E23A-41E2-8691-35F4EA5F4D54
+N:Chabot Space and Science Center;Chabot Space and Science Center;null;;
+FN:Chabot Space and Science Center Chabot Space and Science Center
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-08-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A7AC509C-24C2-4C4C-9628-D552B63715C9</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.chabotspace.org/visit/programs/techbridge.asp</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

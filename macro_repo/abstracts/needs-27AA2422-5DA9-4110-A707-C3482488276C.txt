@@ -1,0 +1,1 @@
+Uses a single, coherent discussion to introduce the concept of parallel logic programming-its languages, procedural programming and debugging capabilities. Also contains an implementation (program and related code) of a parallel logic comp   utation   al model and related explanation. Numerous illustrative examples help clarify what is new and essential in PLP.

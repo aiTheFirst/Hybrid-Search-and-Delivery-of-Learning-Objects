@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">Uppsala University's Earth Science Department's website contains nice explanations of advanced research being conducted at the university.  Could be useful for showing students interested in geology what can be done with a geo education.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>expositive</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Departmental home page on Earth Sciences.  Sections included are Research, seminars, chairs, education, among others.  Especially useful is the research page, which explains research being conducted in the various departments within Earth Sciences.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A4FE7C63-F3D9-4010-869D-C92AC930062C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Earth Sciences, geoinformatics, geodynamics, geophysics, hydrology, meteorology, mineral chemistry, sedimentology, seismology</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Department of Earth Sciences, Uppsala University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:AAE57910-3BE3-43FF-BFB8-B8AE405C731A
+N:Department Of Earth Sciences;Uppsala University;null;;
+FN:Uppsala University Department Of Earth Sciences
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2000-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3B2D0809-A71A-4ABF-ACD9-04D34BF5D04A
+N:Uppsala University;;;;
+FN:Uppsala University
+ADR;TYPE=work,postal,parcel:;;UPPSALA UNIVERSITET, Box 256, 751 05 Uppsala;;;;
+TEL;TYPE=work,voice:018-471 00 00
+URL:http://www.uu.se/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2000-11-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-02-08</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-02-26</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A4FE7C63-F3D9-4010-869D-C92AC930062C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.geo.uu.se/default.aspx?pageid=1&amp;lan=1</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

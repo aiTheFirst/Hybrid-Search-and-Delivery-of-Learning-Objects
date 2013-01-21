@@ -1,0 +1,1 @@
+"On the surface, this is a book about robots. Look deeper, and you will find a book about learning object-oriented programming. Java is the specific object-oriented programming language used, but the general techniques will apply to many object-oriented languages."

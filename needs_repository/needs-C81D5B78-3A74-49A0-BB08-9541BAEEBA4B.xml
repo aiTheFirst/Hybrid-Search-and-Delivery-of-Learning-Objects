@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">"Whether you have an advanced degree in science or just an average person interested in energy, I have tried to include a little of everything in the following web-booklets."  And he has done just that.  There really is a little bit of everything in here (at least as related to energy science).  The glossary ("words defined") is an excellent resource for high school or college physics students and teachers alike.  Each "booklet" is fully cited, with great bibliographies.  The whole site is an excellent reference source and should find its way onto every physics teachers classroom computer's favorites list.  With the excellent papers, references, glossary and links, there really is something here for almost everyone.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>expositive</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A wonderful collection of energy "booklets" written by Ben Wiens in order to make energy science understandable.  Mr. Wiens has ben kind enough to provide a rating system which indicates the number of years of science education one should have to understand the "booklet."  Nicely organized into booklets, with each booklet having contents, this site is for anyone needing a general definition of a topic within energy science, or wants to do some in depth reading by going through an entire booklet.  These booklets are:
+* energy science made simple
+* encyclopedia of energy science
+* the future of fuel cells
+* urban travel issues
+* second-law analysi of gas turbines
+* the future of power production
+* energy links (a collection of sites that are extensively commented on)
+* websearching
+* energy science FAQ
+* Ben Wiens energy science downloads
+* understanding patents</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C81D5B78-3A74-49A0-BB08-9541BAEEBA4B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Energy  science, science glossaries, fuel cells, gas turbines, public transportation, thermodynamics, entropy, relativity, quantum field theory, string theory,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Ben Wiens energy science site: complex energy topics simplified</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B2B5ABA4-B9CD-4920-8518-A3C5F6EAF29D
+N:Wiens;Ben;;;
+FN:Ben Wiens
+ORG:Ben Wiens Energy Science Inc.
+TEL;TYPE=work,voice:604-520-6321
+TEL;TYPE=work,fax:604-520-6321
+PHOTO;VALUE=uri:http://www.benwiens.com/benwiens.jpg
+URL:http://www.benwiens.com/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-06-14</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-08-03</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C81D5B78-3A74-49A0-BB08-9541BAEEBA4B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.benwiens.com/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

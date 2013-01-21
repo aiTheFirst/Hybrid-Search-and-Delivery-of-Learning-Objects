@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type:  Partnerships for Adaptation, Implementation, and Dissemination.
+Year Awarded: 2006.
+
+Description: With the goal of advancing the participation of women in the academic sciences and engineering, Grand Valley State University (GVSU) and the University of Michigan (UM) propose a partnership to (1) adapt and implement interventions at GVSU from the UM NSF ADVANCE project and (2) develop a synergistic component that creates a collaborative pipeline for future faculty to benefit both institutions. The UM interventions include faculty mobilization for peer education on recruitment and development of a recruitment handbook; interactive theater to raise issues about climate in the sciences and engineering; a professional development fund to attract and retain women in the sciences and engineering at GVSU; and networking for women science and engineering faculty (within and outside the institution). At GVSU, the interventions will address institutional factors impeding women's entry and retention in full-time, tenure-track positions in science and engineering and will offer opportunities for networking and support for professional development. At UM, the collaborative pipeline will benefit future faculty, whether ABD or PhD, as they gain vital classroom experience and are exposed to an alternative career path at an institution with a predominantly undergraduate focus. Given this focus, partnering with us will also help UM build in appropriate mechanisms to assess the impact of such programs on students. Finally, this project has implications beyond GVSU and UM: it will provide a model for collaboration between colleges and universities whose primary focus is undergraduate teaching and doctoral training institutions, with greater research emphasis.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E4B7EFCD-C93A-4042-B8D0-86CE171F9EA5</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE Program at Grand Valley State University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7BD9E80D-4D62-4E04-BFAD-AE2DFD49455B
+N:Menon;Shaily;null;;
+FN:Shaily Menon
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2632D4CD-860E-4729-ADE0-DD3F5AE3E8BB
+N:Underwood;Kathleen;null;;
+FN:Kathleen Underwood
+ORG:Grand Valley State University;Women and Gender Studies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E4B7EFCD-C93A-4042-B8D0-86CE171F9EA5</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.gvsu.edu/nsfadvance/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

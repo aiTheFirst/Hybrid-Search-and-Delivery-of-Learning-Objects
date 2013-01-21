@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>diagram</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Website on the history of NASA's Ranger Program. The site has original photographs.
+
+"The Ranger program consisted of nine spacecraft missions with the ultimate objective of obtaining high-resolution photographs of the lunar surface. The development of the basic Ranger spacecraft system was initiated in 1959. The spacecraft was conceived as a fully attitude-stabilized platform from which lunar or planetary observations could be made. The Ranger spacecraft had three different configurations.
+
+      Block I Missions
+      Block I, consisting of Ranger 1 and 2, were test missions. They were launched in 1961 for nonlunar-oriented engineering development.
+
+      Block II Missions
+      These missions (Ranger 3, 4, and 5) were launched during 1962 to achieve rough lunar landings, obtain science data, and test approach television camera operations. These Ranger spacecraft experienced satisfactory vehicle performance but either missed the Moon (Ranger 3) or failed before impacting the lunar surface (Ranger 4 and 5).
+
+      Block III Missions
+      The experience of the earlier phases of the program led to the Block III missions in 1964 and 1965:  Ranger 6, 7, 8, and 9. These spacecraft were designed to achieve lunar impact trajectories and to transmit high-resolution photographs of the lunar surface during the final minutes of flight.
+
+      Ranger 6 performed satisfactorily, but the camera failed to operate before lunar impact. However, Ranger 7, 8, and 9 fulfilled the mission objective and provided more than 17,000 photographs at resolutions not previously obtained. The Ranger 7 and 8 missions provided coverage of the two types of mare terrain in which they impacted. The first type is modified by crater rays, and the second is crossed by a complex system of ridges. Ranger 9 provided coverage of the highland region, impacting in the large central highland crater Alphonsus."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>62360958-101A-4A92-8DA6-B49B73C9E5D2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">space exploration, NASA, Project Ranger, moon crash</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">The Ranger Program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9CF56F4B-13E1-42BD-BE05-7B59D2868EAC
+N:Lunar and Planetary Institute - LPI;;;;
+FN:Lunar and Planetary Institute - LPI
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-08-31</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>62360958-101A-4A92-8DA6-B49B73C9E5D2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.lpi.usra.edu/expmoon/ranger/ranger.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

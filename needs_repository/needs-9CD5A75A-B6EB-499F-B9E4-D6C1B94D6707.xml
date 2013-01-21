@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Most will likely agree that fewer and fewer women are finding their way to completing a bachelor's degree in one of the computing sciences. However, in looking at data collected by the National Science Foundation (NSF) on bachelor's degrees in Computer Science (CS), an interesting anomaly is evident when African American women are viewed as a separate trend. This paper presents some preliminary analysis and suggests that research is needed to better understand this ethnic group that has remained relatively stable in its production of bachelor's degrees in CS."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9CD5A75A-B6EB-499F-B9E4-D6C1B94D6707</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">African American, exploratory</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">African American women in the computer sciences: A group to be studied</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:913BC6E5-CB2E-41A6-B664-FF961193B41D
+N:null;null;null;;
+FN:A. M. Lopez
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FC17D50F-AD08-41A5-9E48-B4F4EF1E7302
+N:null;null;null;;
+FN:L. J. Schulte
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">ACM SIGCSE Bulletin v34 i1</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A95A4292-7E83-4C47-AC38-612313409FAE
+N:Amanda Walton;;;;
+FN:Amanda Walton
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-01-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9CD5A75A-B6EB-499F-B9E4-D6C1B94D6707</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://delivery.acm.org/10.1145/570000/563371/p87-lopez.pdf?key1=563371&amp;key2=4430125811&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=24677311&amp;CFTOKEN=91288504</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

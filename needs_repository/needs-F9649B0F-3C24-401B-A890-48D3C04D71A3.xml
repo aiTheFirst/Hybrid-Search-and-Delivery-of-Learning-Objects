@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Article from the Chronicle of Higher Education, Chronicle Careers, July 23, 1999. The article begins: 
+"Richard Feynman, the late Nobel Laureate in physics, was once asked by a Caltech faculty member to explain why spin one-half particles obey Fermi Dirac statistics. Rising to the challenge, he said, "I'll prepare a freshman lecture on it." But a few days later he told the faculty member, "You know, I couldn't do it. I couldn't reduce it to the freshman level. That means we really don't understand it."
+
+Feynman, like most professors, knew that the best way to demonstrate that you understand something is to try and teach it to someone else, particularly someone not in your specialty area. Indeed, Feynman felt quite strongly that scientists have a responsibility to explain what they do to others, particularly the taxpaying public, in ways that are both clear and compelling.
+
+Such explanations have several benefits: They can be used in the preparation of teaching and research portfolios for tenure and promotion evaluations. They can help build enthusiasm for your discipline. And they can help you integrate your research and teaching, which in turn will help you garner support from granting agencies whose reviewers often come from across the academic spectrum.
+
+This is why the National Science Foundation has made it a requirement that grant applications contain an opening paragraph describing the proposed work in a way that can be understood and appreciated by a general audience. In particular, investigators are asked to answer two questions: "What are your trying to do?" and "Why should anyone care?"
+
+For many scientists, meeting that requirement is a major undertaking."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F9649B0F-3C24-401B-A890-48D3C04D71A3</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Making Science Understandable to a Broad Audience</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:09DD41EE-54BD-43C4-8DB5-A9A486CD1D30
+N:Reis;Richard;null;;
+FN:Richard Reis
+ORG:Stanford Universtiy;Center for Teaching and Learning
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-03-31</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F9649B0F-3C24-401B-A890-48D3C04D71A3</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://chronicle.com/jobs/v45/i47/4547ctlyst.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

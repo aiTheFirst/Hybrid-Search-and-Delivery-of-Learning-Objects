@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract: During the past few years, four distance education courses in computer
+science were designed, developed, and delivered at UniversitÃ©
+Laval. These courses make use of thirteen 30-minute television
+programs that form an integral part of the teaching and
+learning content. Each television program was rigorously designed
+for its role in the corresponding course. One of these courses is discussed
+in this paper. Data taken from distance and on-campus students
+are used to address the following question: Does delivery
+mode (full television-based distance education, partial televisionbased
+distance education, in-class education) affect learning? The
+main result of this study is that there was no significant difference
+in effectiveness of the distance learning approach compared to
+more traditional approaches.
+
+&lt;citation>Marie-Michele Boulet, Serge Boudreault; Using technology to deliver distance education in computer science; Journal of Engineering Education; 87; 4; 433-436; 1998&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F0FB915D-0138-40F3-AB42-76F0E97BCA85</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Using technology to deliver distance education in computer science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C42A828A-73C6-4BD2-81C7-5A9960359C51
+N:Boudreault;Serge;null;;
+FN:Serge Boudreault
+ORG:UniversitÃ© Laval;DÃ©partement de mesure et Ã©valuation,
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B5453F91-C57B-4011-9610-CACB12029850
+N:Boulet;Marie-Michele;null;;
+FN:Marie-Michele Boulet
+ORG:UniversitÃ© Laval;DÃ©partement dâinformatique
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C16F2579-3E7D-4536-A4C1-9FEA8E7FC258
+N:Kitty Li;;;;
+FN:Kitty Li
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F0FB915D-0138-40F3-AB42-76F0E97BCA85</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.asee.org/publications/jee/PAPERS/display.cfm?pdf=554.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,3 @@
+"Princeton has been at the forefront of computing since Alan Turing, Alonzo Church and John von Neumann were among its residents. The department has experienced significant growth over the last few years, and is now home to 30 faculty, with strong groups in theory, systems, graphics/media, programming languages, computational science, security, AI, and computational biology.
+
+In addition to the general exam, two requirements must be satisfied: breadth and programming. You are expected to complete the breadth requirement by the end of year 2. In special circumstances your advisor may request an additional year provided that you have completed 4 of the 6 courses. The programming requirement must be completed by the end of year 2. "

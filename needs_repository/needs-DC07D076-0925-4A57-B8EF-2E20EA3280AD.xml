@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Committee on Women in Science, Engineering, and Medicine (CWSEM) is a standing committee of the National Research Council (NRC). Its mandate is to coordinate, monitor, and advocate action to increase the participation of women in science, engineering, and medicine.  Established in 1990 as CWSE, the committee expanded its scope in 2007 to include medicine. The committee collects and disseminates information on the education and employment of women scientists and engineers, and recommends ways to enhance womens advancement. CWSEM activities include an agenda of study projects; disseminating data on the Internet and at professional meetings; serving as an information resource for the national media; and as a liaison to other national organizations. Since its inception, CWSEM has published several reports and convened national conferences on women in science and engineering academic programs; women scientists and engineers in industry; and minority women in science, engineering, and the healthcare professions.
+
+The committee will increase the participation of women in the scientific and engineering (S&amp;E) labor force by: 
+
+1) Serving as a resource for organizations and individuals seeking information and analysis about the status of women in science, engineering, and medical employment and education;
+
+2) Formulating strategies to collect, analyze, and disseminate information on the needs and status of opportunities for women in science engineering, and medical  fields;
+
+3) Reviewing relevant policies of agencies, universities, and industry designed to enhance the role of women;
+
+4) Initiating and overseeing ad hoc committees to hold workshops and issue consensus reports with findings and recommendations for effective policies and programs to remove barriers to the participation of women in sciences, engineering and medicine;
+
+5) Serving as an institutional focal point in support of complementary activities across the NAS, NAE, IOM and the NRC.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DC07D076-0925-4A57-B8EF-2E20EA3280AD</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, Women in IT</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">CWSEM - Committee on Women in Science, Engineering and Medicine</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9700AF8B-59C9-4749-ABCD-3D5FC713F0A3
+N:CWSEM - Committee on Women in Science, Engineering and Medicine;;;;
+FN:CWSEM - Committee on Women in Science, Engineering and Medicine
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-05-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DC07D076-0925-4A57-B8EF-2E20EA3280AD</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://sites.nationalacademies.org/pga/cwsem/index.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

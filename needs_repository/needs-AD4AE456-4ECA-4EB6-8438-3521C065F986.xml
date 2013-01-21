@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Information Sciences will publish original, innovative and creative research results. A smaller number of timely tutorial and surveying contributions will be published from time to time.
+
+The journal is designed to serve researchers, developers, managers, strategic planners, graduate students and others interested in state-of-the art research activities in information, knowledge engineering and intelligent systems. Readers are assumed to have a common interest in information science, but with diverse backgrounds in fields such as engineering, mathematics, statistics, physics, computer science, cell biology, molecular biology, management science, cognitive science, neurobiology, behavioural sciences and biochemistry.
+
+The journal publishes high-quality, refereed articles. It emphasizes a balanced coverage of both theory and practice. It fully acknowledges and vividly promotes a breadth of the discipline of Informations Sciences.
+
+Topics include:
+
+Foundations of Information Science 
+Information Theory, Mathematical Linguistics, Automata Theory, Cognitive Science, Theories of Qualitative Behaviour, Artificial Intelligence, Computational Intelligence, Soft Computing, Semiotics, Computational Biology and Bio-informatics.
+
+Implementations and Information Technology 
+Intelligent Systems, Genetic Algorithms and Modelling, Fuzzy Logic and Approximate Reasoning, Artificial Neural Networks, Expert and Decision Support Systems, Learning and Evolutionary Computing, Expert and Decision Support Systems, Learning and Evolutionary Computing, Biometrics, Moleculoid Nanocomputing, Self-adaptation and Self-organisational Systems, Data Engineering, Data Fusion, Information and Knowledge, Adaptive ad Supervisory Control, Discrete Event Systems, Symbolic / Numeric and Statistical Techniques, Perceptions and Pattern Recognition, Design of Algorithms, Software Design, Computer Systems and Architecture Evaluations and Tools, Human-Computer Interface, Computer Communication Networks and Modelling and Computing with Words
+
+Applications 
+Manufacturing, Automation and Mobile Robots, Virtual Reality, Image Processing and Computer Vision Systems, Photonics Networks, Genomics and Bioinformatics, Brain Mapping, Language and Search Engine Design, User-friendly Man Machine Interface, Data Compression and Text Abstraction and Summarization, Virtual Reality, Finance and Economics Modelling and Optimisation</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>AD4AE456-4ECA-4EB6-8438-3521C065F986</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Information Sciences</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:56A5F3A0-5567-40C4-B654-CF56CAC0DF44
+N:Editor;Information Sciences;null;;
+FN:Information Sciences Editor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:326EC3A8-643D-4ACE-A856-9E0988B9466D
+N:Kyle Criner;;;;
+FN:Kyle Criner
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-04-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>AD4AE456-4ECA-4EB6-8438-3521C065F986</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.elsevier.com/wps/find/journaldescription.cws_home/505730/description#description</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

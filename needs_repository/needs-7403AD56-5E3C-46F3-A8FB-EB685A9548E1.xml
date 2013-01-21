@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"A scientific culture that welcomes a diversity of participants and addresses a broad range of questions is critical to the success of the scientific enterprise and essential for engaging the public in science. By favoring behaviors and practices that result in a narrow set of outcomes, our current scientific culture may lower the diversity of the scientific workforce, limit the range and relevance of scientific pursuits, and restrict the scope of interdisciplinary collaboration and public engagement. The scientific community will reach its full intellectual potential and secure public support through thorough, multitiered initiatives that aim to change individual and institutional behaviors, shift current reward structures to reflect a wider set of values, and explicitly consider societal benefits in the establishment of research agendas. We discuss some shortcomings and costs of the current value system and provide some guidelines for the development of initiatives that transcend such limitations."
+&lt;citation>
+MARÍA URIARTE, HOLLY A. EWING, VALERIE T. EVINER, KATHLEEN C. WEATHERS,
+"Constructing a Broader and More Inclusive Value System in Science",
+BioScience
+Article,
+Volume 57, Issue 1 (January 2007) pp. 7178.&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7403AD56-5E3C-46F3-A8FB-EB685A9548E1</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, scientific culture, diversity, science and society, reward systems, institutional structure</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Constructing a Broader and More Inclusive Value System in Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F13AEC6F-BD1C-4E47-BB14-2598AA144363
+N:null;null;null;;
+FN:Holly A. Ewing
+ORG:Bates College;Program in Environmental Studies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:23202937-1EFF-430C-81F6-2A4A69258118
+N:Uriarte;María;null;;
+FN:María Uriarte
+ORG:Columbia University;Ecology, Evolution and Environmental Biology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7AC5475D-FA72-4A52-9A28-1ADA903588E4
+N:null;null;null;;
+FN:Valerie T. Eviner
+ORG:University of California, Davis, CA;Department of Plant Sciences, Institute of Ecosystem Studies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FCA2E6D6-E0C1-4E74-928C-CF5DBD9910C9
+N:null;null;null;;
+FN:Kathleen C. Weathers
+ORG:University of California, Davis, CA;Department of Plant Sciences, Institute of Ecosystem Studies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-26</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7403AD56-5E3C-46F3-A8FB-EB685A9548E1</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.bioone.org/perlserv/?request=get-document&amp;doi=10.1641%2FB570111</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

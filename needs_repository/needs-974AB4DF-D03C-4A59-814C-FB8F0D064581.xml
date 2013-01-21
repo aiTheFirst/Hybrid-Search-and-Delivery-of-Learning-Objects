@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"This report identifies major issues and challenges in computer science education across a wide range of institutions. It includes suggestions for improving the quality and effectiveness of computer science and engineering education at the undergraduate, graduate, and K-12 levels. It argues strongly for the creation of a Resource Center for the development and distribution of computer science and engineering curricular materials, educational tools, and other support that could be shared by many institutions."  Table of Contents: Contents
+
+1. Introduction
+2. Background
+3. Areas of concern in CS&amp;E education
+    3.1. General curriculum issues
+    3.2. Undergraduate education
+    3.3. Graduate education
+    3.4. K-12 education
+    3.5. Coordination within the education community 
+4. Creating a center for CS&amp;E education
+Education Working Group Members
+References
+
+Published in:  ACM Computing Surveys 28(4), December 1996. Copyright Â© 1996 by the Association for Computing Machinery, Inc.
+
+Keywords: Computer and Information Science Education</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>974AB4DF-D03C-4A59-814C-FB8F0D064581</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Strategic Directions in Computer Science Education</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:AE04F7DA-2733-45D4-8235-5429F7E4D3F5
+N:Bowdoin College;Allen B. Tucker, Computer Science;null;;
+FN:Allen B. Tucker, Computer Science Bowdoin College
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>974AB4DF-D03C-4A59-814C-FB8F0D064581</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.bowdoin.edu/~allen/sdcr/final-draft.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>experiment</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:educational><lom:description><lom:string language="en-US">MichSeis encompasses three activities: education, earthquake monitoring, and research. Students at all levels can be involved in all three activities.
+MichSeis seismographic stations produce seismograms, that can be used by a large number of people for a variety of uses. Virtually all of the
+computer activity can be done on a Macintosh, the key program is SeismoView. This program reads computer files that contain seismograms. You can display the seismogram, zoom the amplitude and
+time axes, and produce various graphic and text output. The files are produced by a Macintosh-based seismographic station, using the program
+SeismoGraf. There are several accessory programs and HyperCard stacks that may be useful. For example, the KSCM people produced a stack that shows seismograms of the Kobe, Japan earthquake, and the "SeismoLog" stack allows any user to calculate the surface wave magnitude of an earthquake.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"MichSeis is the concept that a network of independent, yet cooperative, digital seismographic stations can be operated by schools and institutions throughout Michigan*." (*or anywhere else in the world!)
+*Any earthquakes today?
+*Where are the most recent earthquakes?
+*Seismo-Cam, What is the ground doing right now in Ann Arbor?
+*Data: seismograms for EQ location and magnitude of regional events
+*EduPhase
+*QuakeView
+*Data: Seismograms and graphics for earthquakes and other events
+*MichSeis Newsletters
+*Information on Stations and people
+*How to find epicentral distance</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>965DFBD1-EE3D-435E-86A3-19427A7842B4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Seismology, Earthquake, Earth Science,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">MichSeis</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A095852D-04A7-438D-A1A7-C6241A0CE8D8
+N:University Of Michigan;Dept. Of Geological Science;null;;
+FN:Dept. Of Geological Science University Of Michigan
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5C395ABB-73C2-40A7-A050-F7DBDDFC1D24
+N:University Of Michigan, Dept. Of Geological Scienc;;;;
+FN:University Of Michigan, Dept. Of Geological Scienc
+ADR;TYPE=work,postal,parcel:;;2534 C.C. Little Building425 E. University AvenueAnn Arbor, MI 48109-1063;;;;
+PHOTO;VALUE=uri:http://www.geo.lsa.umich.edu/SeismoObs/subgram.gif
+URL:http://www.geo.lsa.umich.edu/SeismoObs/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1999-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1999-01-06</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-02-26</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>965DFBD1-EE3D-435E-86A3-19427A7842B4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.geo.lsa.umich.edu/MichSeis/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

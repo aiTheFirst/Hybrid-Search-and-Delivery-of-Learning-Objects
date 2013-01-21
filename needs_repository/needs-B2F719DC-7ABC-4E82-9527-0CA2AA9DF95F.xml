@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"As the President's Information Technology Advisory Committee Report[1] clearly indicates, women remain a largely untapped resource in computer science fields. In order for high technology computer related fields to meet their ever-growing need for skilled programmers, it is essential that the talents and abilities of traditionally underrepresented populations be fostered. Furthermore, the relative high paying nature of high tech computer jobs may be an important equalizer in terms of the gender wage gap. Unfortunately, it appears that women's perceptions of computing as isolating, lonely, competitive, and male dominated continue to be significant barriers to their participation in the field. In addition to increasing programming efficiency, pair-programming[2] may make careers in these fields more appealing to women. The primary purpose of this study is to assess the effectiveness of pair-programming on the performance and retention of women in computer science and other related fields such as information systems management and computer engineering."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B2F719DC-7ABC-4E82-9527-0CA2AA9DF95F</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Retaining, women, gender equity, computer science, pair programming, Information Technology, underrepresented, gender, increasing programming efficiency, male, computer classes, questionnaire, study data</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Retaining Women in Computer Science: The Impact of Pair Programming Project Update ITWF/ITR Workforce PIs Meeting October, 2004</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:01E4250B-81E5-4405-9A3B-ADA3B7EBB98C
+N:null;null;null;;
+FN:L. L. Werner
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DA91202D-2E61-4289-99F9-0573E2C6AF37
+N:Bullock;H.;null;;
+FN:H. Bullock
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DD417164-8D7A-447F-B59D-3582C50C5E2B
+N:McDowell;C.;null;;
+FN:C. McDowell
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:89319602-B6D2-4D15-9F96-3BD0B39B711C
+N:Fernald;J.;null;;
+FN:J. Fernald
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:88E876A3-7221-4171-B52C-BCE0AA4378B1
+N:Hanks;B.;null;;
+FN:B. Hanks
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-11-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A95A4292-7E83-4C47-AC38-612313409FAE
+N:Amanda Walton;;;;
+FN:Amanda Walton
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B2F719DC-7ABC-4E82-9527-0CA2AA9DF95F</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.soe.ucsc.edu/~charlie/pubs/nsf_summary_nov_2004.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

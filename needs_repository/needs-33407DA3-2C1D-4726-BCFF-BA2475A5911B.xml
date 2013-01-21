@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The Rose-Hulman Department of Computer Science and Software Engineering was founded in 1977 to provide students education in the growing field of computers. The Computer Science and Software Engineering Department has grown to keep up with the increasing demand of Computer Scientists and Software Engineers. The department currently consists of 12 professors and approximately 200 students.
+
+ 
+
+Mission: To provide students with the world?s best undergraduate education in computer science and software engineering in an environment of individual attention and support. 
+
+Educational Objectives
+
+Graduates from the computer science program will be prepared for many types of careers in the computing industry and prepared for graduate study in computer science and in closely related disciplines. The educational objectives of the computer science program are to prepare students to become:
+
+   1. Graduate students and researchers.
+   2. Leaders in government and law as government employees, policy makers, governmental advisors, and legal professionals.
+   3. Entrepreneurial leaders.
+   4. Business leaders within existing organizations.
+   5. Actively involved in social and professional service locally, nationally, and globally.
+   6. Recognized by their peers and superiors for their communication, teamwork, and leadership skills.
+   7. Software professionals in a variety of organizations, including ones doing traditional software development, technological innovation, and cross-disciplinary work."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>33407DA3-2C1D-4726-BCFF-BA2475A5911B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Undergraduate Computer Science Curriculum - Rose-Hulman</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5FCD3A50-E18B-4FDB-84FC-95318348E357
+N:Rose-Hulman Institute of Technology;Department of Computer Science and Software Engineering;null;;
+FN:Department of Computer Science and Software Engineering Rose-Hulman Institute of Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-23</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>33407DA3-2C1D-4726-BCFF-BA2475A5911B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.cs.rose-hulman.edu/index.php?id=2,36,0,0,1,0</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

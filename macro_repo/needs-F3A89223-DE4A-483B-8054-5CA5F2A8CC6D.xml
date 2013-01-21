@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Paper from IJEE Special Issue, Vol. 21 (2), 2005: The Entrepreneurial Engineer: Educating Tomorrow's Innovator.
+
+Abstract:
+"Entrepreneurial education has gained increased attention within the engineering education community
+in recent years resulting in the development of several new programs or options within
+existing programs. In response to this new national focus on entrepreneurial education and as part
+of the engineering curricular development at Michigan Technological University (MTU) associated
+with the calendar conversion from quarters to semesters, the university developed the
+Enterprise Program (www.enterprise.mtu.edu), a new and innovative experience that provides all
+students on campus, but especially engineering majors, an opportunity to start up and operate their
+own business. Within engineering programs the philosophy behind the Enterprise Program is to
+provide a flexible curricular structure that leads to a traditional engineering degree while at the
+same time enabling students to participate in the operation of a real enterprise over multiple years.
+Now in its fourth year of operation, the program has grown to nineteen different enterprises
+comprised of approximately 450 students from a variety of engineering, science, business, and
+communication disciplines. This paper presents an overview of the curricular structure of the
+program, a look at one of our established enterprises, the Wireless Communication Enterprise, and
+the results of assessment performed to date. Program feedback and successes and challenges
+associated with this innovative entrepreneurial curriculum will also be discussed."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F3A89223-DE4A-483B-8054-5CA5F2A8CC6D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">capstone design, senior design, enterprise curriculum</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">The Enterprise Program at Michigan Technological University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A34086B7-DA97-408A-977E-A5734DFCD8CA
+N:Stone;David;null;;
+FN:David Stone
+ORG:Michigan Technological University;Enterprise Program
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-02-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6DDCFE1A-8BBD-4DD3-964D-3CC5D4966792
+N:null;null;null;;
+FN:Mary B. Raber
+ORG:Michigan Technological University;Enterprise Program
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-02-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3FCB6491-876A-4263-9217-6C6FA1FAF1DF
+N:Sorby;Sheryl;null;;
+FN:Sheryl Sorby
+ORG:Michigan Technological University;Enterprise Program
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-02-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8383B66C-2D1E-4F30-B688-66040E89709C
+N:Plichta;Mark;null;;
+FN:Mark Plichta
+ORG:Michigan Technological University;Enterprise Program
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-07-06</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F3A89223-DE4A-483B-8054-5CA5F2A8CC6D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ijee.dit.ie/latestissues/Vol21-2/IJEE1596.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

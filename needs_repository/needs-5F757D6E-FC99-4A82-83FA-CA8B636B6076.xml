@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">Each lesson within this curriculum is well thought out and emphasizes the use of technology in science.  Many contain further readings and links for those interested in pursuing the topic.  All are designed to be taught straight from the website or have teaching material to be downloaded and printed.  Lessons are well illustrated and exciting, with many secondary projects students can undertake.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>teacher</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Athena engages students in observing phenomena using remote-sensed data to construct knowledge about the world. Data sets and instructional pieces are related to oceans, the atmosphere, Earth resources, and space/astronomy. Real-time data is used where possible. The material is intended for direct use by students with appropriate assistance from teachers. The goal of Athena is to enhance the K-12 science curriculum, and facilitate use of the powerful computational tools in classrooms networked to the Web."
+An excellent collection of lessons ready for use in the classroom.  The sections are:
+* Space
+* Weather
+* Earth
+* Oceans
+* &amp; More
+* For teachers
+* What's new?
+Each of these sections contain subjects that contain one or more lessons about it.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5F757D6E-FC99-4A82-83FA-CA8B636B6076</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Earth science, remote sensing, ocean currents, El Nino, Earthquakes, landforms, geography, wetlands, global change, Hurricanes, cyclones, clouds, weather, Solar system, Sun (Sol),</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Athena: earth and space science for K-12</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C736FB80-AF13-478E-A8D8-0E296ED9657D
+N:Anderson;Hugh;;;
+FN:Hugh Anderson
+ORG:Science Applications International Corporation (SAIC)
+TEL;TYPE=work,voice:425-482-3310
+TEL;TYPE=work,fax:425-485-5566
+PHOTO;VALUE=uri:http://www.athena.ivv.nasa.gov/persons/saic/handerso.gif
+URL:http://www.athena.ivv.nasa.gov/persons/saic/handerso.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:76300E1B-DFD5-49E8-A4D5-69239118EFF3
+N:NASA, Learning Technologies Project (LTP);;;;
+FN:NASA, Learning Technologies Project (LTP)
+ADR;TYPE=work,postal,parcel:;;n/a;;;;
+PHOTO;VALUE=uri:http://learn.ivv.nasa.gov/graphics/ltp_head.jpg
+URL:http://learn.ivv.nasa.gov/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">6.2 1999-07-13</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-04-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5F757D6E-FC99-4A82-83FA-CA8B636B6076</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.k12.wa.us/EdTech/Athena/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

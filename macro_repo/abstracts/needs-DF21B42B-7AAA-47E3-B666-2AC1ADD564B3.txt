@@ -1,0 +1,1 @@
+Develops the theory and methods of mathematical programming for application to problems in statistics. Exploits the structure of the problem under consideration in order to develop efficient solutions. Provides extensive examples of applica   tions,    tables on minimal connected designs, BIB design with k-3, bibliographic notes and references.

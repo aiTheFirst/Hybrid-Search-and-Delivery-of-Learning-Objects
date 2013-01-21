@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A serious workforce crisis exists in the high technology sector: A quarter of the current science and engineering workforce will retire by the end of this decade. Filling these vacancies will require us, as a nation, to draw on populations which are currently under-represented in the engineering workforce. This critical issue is made all the more serious by the paradigm shift in science and technology to the nano scale. SINAM will address this national crisis through an educational program integrated with SINAM's research. Infusion of new knowledge obtained from research discoveries into education will allow us to equip our young engineers and scientists with strong fundamentals, cutting edge technological skills, and most importantly, innovative ideas. We propose three initial foci for our educational and outreach component all of which will reach out to under-represented minority and female students. These three foci intertwine and seamlessly integrate with SINAM research.
+
+Grades 7-12, Discover Nanotechnology
+
+Traditionally, the grade 7-12 science component does not provide exposure to engineering. This is an opportune point at which to expose students to opportunities in science and engineering and we believe that planting "innovative engineering seeds" in young minds will attract many of our best students to the engineering profession. However, students have a difficult time visualizing the microscopic world. SINAM will engage a team of researchers and graduate students, local high school teachers, and teachers-in-training in creating an inquiry based instructional module which will build on core science concepts by connecting modern examples of nanoscience and nanotechnology research.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2C2C9A3C-A509-4DB8-BF83-070E5871987D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanomanufacturing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Educational Resources on NanoManufacturing</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E403860B-AF79-4C6C-AB9B-05B38BE48CDC
+N:Zhang;Xiang;null;;
+FN:Xiang Zhang
+ORG:SINAM, Center for Scalable and Integrated Manufacturing
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-05-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2C2C9A3C-A509-4DB8-BF83-070E5871987D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.sinam.org/educationoverview.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

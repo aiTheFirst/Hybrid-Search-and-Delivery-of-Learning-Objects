@@ -1,0 +1,1 @@
+Program and accompanying manual  for students to learn sequent-style natural deduction for predicate logic, computation of normal forms.

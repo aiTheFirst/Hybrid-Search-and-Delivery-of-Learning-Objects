@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Brief introduction to nanotechnology hosted by one of the top university research labs - the Richard E. Smalley Institute for Nanoscale Science &amp; Technology. The larger site has educational resources for both K-12, outreach and higher education.
+"Nanotechnology is an emerging and promising field of research, loosely defined as the study of functional structures with dimensions in the 1-1000 nanometer range. Certainly, many organic chemists have designed and fabricated such structures for decades via chemical synthesis. During the last decade, however, developments in the areas of surface microscopy, silicon fabrication, biochemistry, physical chemistry, and computational engineering have converged to provide remarkable capabilities for understanding, fabricating and manipulating structures at the atomic level.
+
+Research in nanoscience is exploding, both because of the intellectual allure of constructing matter and molecules one atom at a time, and because the new technical capabilities permit creation of materials and devices with significant societal impact. The rapid evolution of this new science and the opportunities for its application promise that nanotechnology will become one of the dominant technologies of the 21st century. Nanotechnology represents a central direction for the future of chemistry that is increasingly interdisciplinary and ecumenical in application."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C6A23D12-9AB0-4C16-9A16-40C9341F149C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanotechnology, nanoscale</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">What is Nanotechnology?</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:404D743E-7FDB-4F15-9C13-D6D97B59FABA
+N:null;null;null;;
+FN:Wade
+ORG:Rice University;Richard E. Smalley Institute for Nanoscale Science &amp; Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-11</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C6A23D12-9AB0-4C16-9A16-40C9341F149C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://cohesion.rice.edu/centersandinst/cnst/nano.cfm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

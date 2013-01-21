@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">CCSP, 2008: Abrupt Climate Change. A report by the U.S. Climate Change Science Program and the Subcommittee on Global Change Research [Clark, P.U., A.J. Weaver (coordinating lead authors), E. Brook, E.R. Cook, T.L. Delworth, and K. Steffen (chapter lead authors)]. U.S. Geological Survey, Reston, VA, 459 pp.
+All of the chapters can be downloaded for free in pdf format: Chapter 1: Introduction: Abrupt Changes in the Earth's Climate System [1.7 Mb]
+
+Chapter 2: Rapid Changes in Glaciers and Ice Sheets and Their Impacts on Sea Level [1.7 Mb]
+
+Chapter 3: Hydrological Variability and Change [2.2 Mb]
+
+Chapter 4: The Potential for Abrupt Change in the Atlantic Meridional Overturning Circulation [2.8 Mb]
+
+Chapter 5: Potential for Abrupt Changes in Atmospheric Methane [1.3 Mb].
+
+"A primary objective of the U.S. Climate Change Science Program (CCSP) is to provide the best possible, up-to-date scientific information to support public discussion and government and private sector decision-making on key climate-related issues. To help meet this objective, the CCSP has identified a set of 21 synthesis and assessment products (SAP) to address its highest priority research, observation, and decision-support needs. This SAP (3.4) focuses on abrupt climate change events where key aspects of the climate system change faster than the responsible forcings would suggest and/or faster than society can respond to those changes. This report addresses Goal 3 of the CCSP Strategic Plan: Reduce uncertainty in projections of how the Earths climate and related systems may change in the future. The report (1) summarizes the current knowledge of key climate parameters that could change abruptly in the near future, potentially within years to decades and (2) provides scientific information on these topics for decision support. As such, the SAP is aimed at both the decision-making audience and the expert scientific and stakeholder community."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5049CFAF-38A8-489B-86FC-E92A486860EF</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Climate change, global warming</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Abrupt Climate Change -  	 Abrupt Climate Change Final Report, Synthesis and Assessment</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:48EB8811-6874-4E21-B50E-DBF067C5EF87
+N:U.S. Climate Change Science Program on Global Change Research;;;;
+FN:U.S. Climate Change Science Program on Global Change Research
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-12-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:111E6F18-9BE5-4436-92DF-E392B5B8CFF5
+N:Lead Author;John P. McGeehin;null;;
+FN:John P. McGeehin, Lead Author
+ORG:USGS
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-12-24</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5049CFAF-38A8-489B-86FC-E92A486860EF</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.climatescience.gov/Library/sap/sap3-4/final-report/default.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

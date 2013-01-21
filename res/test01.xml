@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Attributes>
+    <Attribute>
+        <Name>title</Name>
+        <Value>Electrical History Facts</Value>
+    </Attribute>
+    <Attribute>
+        <Name>description</Name>
+        <Value>Website on historical figures in the discovery of electricity. Biographies include: Andree Marie Ampere, Charles Augustin Coulomb, Colonel Crompton, Sir Humphry Davy, Thomas Alva Edison, Michael Faraday, Sebastian Ziani de Ferranti, John Ambrose Fleming, Benjamin Franklin, Luigi Galvani, Johann Carl Friedrich Gauss, Joseph Henry, Heinrich Hertz,James Prescott Joule, Guglielmo Marchese Marconi, James Clerk Maxwell, Sir Isaac Newton, Hans Christian Oersted, George Simon Ohm, Werner von Siemens, Joseph Wilson Swan, Nikola Tesla, James Watt, Wilhelm Eduard Weber and Alessandro Giuseppe Antonio.</Value>
+    </Attribute>
+    <Attribute>
+        <Name>content_language</Name>
+        <Value>ra</Value>
+    </Attribute>
+    <Attribute>
+        <Name>format</Name>
+        <Value>audio/wav</Value>
+    </Attribute>
+    <Attribute>
+        <Name>requirement</Name>
+        <Value>fast processor</Value>
+    </Attribute>
+    <Attribute>
+        <Name>other_platform_requirement</Name>
+        <Value>windows,office</Value>
+    </Attribute>
+    <Attribute>
+        <Name>duration</Name>
+        <Value>1200</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_type</Name>
+        <Value>mixed</Value>
+    </Attribute>
+    <Attribute>
+        <Name>intended_user_language</Name>
+        <Value>ra</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_level</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>context</Name>
+        <Value>training</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_min</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_max</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>difficulty</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_learning_time</Name>
+        <Value>900</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_concept_and_discipline</Name>
+        <Value>electrical engineering</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_skilllevel_prerequisite</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_idea_discipline</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>intended_end_user_role</Name>
+        <Value>any</Value>
+    </Attribute>
+</Attributes>

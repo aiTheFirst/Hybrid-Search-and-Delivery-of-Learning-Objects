@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">A collection of online lessons designed around different phenomena.  Teacher pages are provided for background and different elements which may be added to each lesson.  Students will learn through reading and interaction with each lesson, accompanied by a test or quiz on the lesson.  The "What's new?" and "Press releases" sections are very interesting and all students should be encouraged to read at least part of these.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Amazing Space is a set of web-based activities primarily designed for classroom use, but made available for all to enjoy."  Nice introductory lessons on subjects in astronomy.  These lessons are: 
+* Galaxies galore
+* Star light, star bright
+* Solar system trading cards
+* Hubble deep field academy
+* Astronaut challenge
+* Galileo to HST
+* The Truth about black holes
+* Comets</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D68FD138-44DB-4FA6-ADF4-1110E8BB0B80</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Astronomy, physics, galaxies, light, Solar system, Hubble Space Telescope, black holes (singularities)</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Amazing space</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:262EBD22-5A63-4146-AB8D-438832485E88
+N:Space Telescope Science Institute;(STSI);null;;
+FN:(STSI) Space Telescope Science Institute
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:AFA26462-FDDB-4D53-9E43-36ED34D31224
+N:Space Telescope Science Institute;;;;
+FN:Space Telescope Science Institute
+ADR;TYPE=work,postal,parcel:;;3700 San Martin DriveBaltimore, MD  21218;;;;
+TEL;TYPE=work,fax:410-338-4579
+PHOTO;VALUE=uri:http://amazing-space.stsci.edu/images/amazing-space-icon.gif
+URL:http://amazing-space.stsci.edu/general-info.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-04-04</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-06-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D68FD138-44DB-4FA6-ADF4-1110E8BB0B80</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://amazing-space.stsci.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

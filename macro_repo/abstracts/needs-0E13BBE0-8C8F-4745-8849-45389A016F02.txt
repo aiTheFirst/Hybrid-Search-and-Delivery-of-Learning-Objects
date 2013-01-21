@@ -1,0 +1,8 @@
+The graduate program in aerospace engineering at Georgia Tech has the following areas of specialty:
+
+    * Aerodynamics and Fluid Mechanics (AFM)
+    * Aeroelasticity and Structural Dynamics (ASD)
+    * Flight Mechanics and Controls (FMC)
+    * Propulsion and Combustion (PC)
+    * Systems Design and Optimization (SDO)
+    * Structural Mechanics & Materials Behavior (SMM).

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type: Partnerships for Adaptation, Implementation, and Dissemination;
+Year Awarded: 2006. 
+
+Description: The University of Oklahoma (OU) runs an ADVANCE PAID project tailored to the central states. The centerpiece of the activity is a biennial Big XII Workshop on Faculty Recruitment, Retention and Leadership. As a member of the Big XII Conference of Institutions of Higher Education, OU will invite each Big XII school (Baylor, Colorado, Iowa State, Kansas, Kansas State, Missouri, Nebraska, Oklahoma, Oklahoma State, Texas, Texas A&amp;M and Texas Tech) to the new event in 2007, asking them to bring a team to OU to work on faculty recruitment, retention and leadership for their campus. Teams will be required to include administrators and STEM as well as Social Sciences faculty. The second workshop in Year 4, in the fall of 2009, will showcase the fruits of these teams' labors and reinforce the collaboration between the Big XII schools to address the issues of faculty recruitment, retention and leadership with a specific focus on the advancement of STEM women in academia. The workshop activities will be centered on diversifying the faculty and building teams and strategies to promote members of underrepresented groups in the faculty and to positions of leadership. The special focus is on women in STEM disciplines, but the activities benefit all disciplines of these comprehensive universities. The workshop will make use of the best practices culled from current NSF ADVANCE Institutional Transformation (IT) programs, in particular those that have worked well at large public institutions with strong faculty governance. The workshops will dovetail with the adaptation and implementation of practices at OU to promote women in STEM disciplines, to help them succeed in academia and to move into positions of leadership.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E5AC6D75-4EC6-4F75-A5D4-9B8F21FD3538</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE  Program at Montana State University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:10A6E7D9-2C96-477A-B00F-BFBF7D130616
+N:Monahan;Sue;null;;
+FN:Sue Monahan
+ORG:Montana State University;Sociology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7D52A328-100F-4501-A936-1D700FC153D8
+N:Camper;Anne;null;;
+FN:Anne Camper
+ORG:Montana State University;Civil  Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B231CF36-8B19-4519-B9ED-373882EE8915
+N:Jacobs;Gwen;null;;
+FN:Gwen Jacobs
+ORG:Montana State University;Cell Biology and Neuroscience
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:52656E0E-096E-4F32-9974-EA9910A8F2E2
+N:Hyman;Linda;null;;
+FN:Linda Hyman
+ORG:Montana State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:21F7A506-A436-464D-973B-3BF95A762B5A
+N:Whitlock;Cathy;null;;
+FN:Cathy Whitlock
+ORG:Montana State University;Ecology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B2D6E5A4-D8C7-4814-BAC3-993AE1211F40
+N:Lutz;Paula;null;;
+FN:Paula Lutz
+ORG:Montana State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-07-03</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E5AC6D75-4EC6-4F75-A5D4-9B8F21FD3538</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.montana.edu/wrt/advance.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

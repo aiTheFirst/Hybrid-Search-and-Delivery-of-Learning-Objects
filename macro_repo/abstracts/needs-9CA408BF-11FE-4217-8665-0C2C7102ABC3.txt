@@ -1,0 +1,19 @@
+Course website with syllabus, lecture notes, assignments and reference material.
+
+This course is an introduction to modern programming languages. The course teaches students how to evaluate languages based on pragmatic considerations, such as ease of expressibility and implementation, and theoretical considerations using operational, denotational, and axiomatic semantics. It covers basic language concepts, including parameter passing mechanisms, higher order functions, abstract data types, exception handling, type inference, object-oriented programming, and concurrency. Outline of lectures:      Foundations of Programming Language Research 
+    (The Lambda Calculus 
+    Operational Semantics 
+    Axiomatic Semantics 
+    Denotational Semantics 
+    Programming Paradigms and Language Concepts),
+    Functional and Declarative Languages 
+    (Object-Oriented Languages 
+    Exception handling 
+    Parallel Languages 
+    Static Semantics), 
+    Types Checking and Type Inference 
+    (Abstract Data Types, 
+    Applications of Formal Semantics
+    (Abstract Interpretation, 
+    Partial Evaluation, 
+    Program Verification).

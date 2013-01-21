@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This is a new set criteria for capstone courses for the BS CSE program. These criteria were approved by the CSE faculty at its meeting of April 26, 2004. The previous set of criteria are also available. An item-by-item rationale for these new criteria, as well as some thoughts on how capstone courses might be organized, is available elsewhere. Some possible alternative models of how the capstone courses may be organized were also considered by the Undergrad Studies Committee, but these models are not part of the criteria.]
+
+The EC 2000 document is being revised so that the set of requirements for the capstone course(s) reads as follows:
+
+    * Students must be prepared for engineering practice through the curriculum culminating in a major design experience based on the knowledge and skills acquired in earlier coursework and incorporating engineering standards and realistic constraints. 
+
+Courses that meet the following requirements will be considered by the Undergraduate Studies Committee for designation as Capstone Design courses for the CSE program. Courses currently designated as capstone courses will be reviewed regularly to ensure that they continue to be appropriate for designation as capstone design courses.
+
+All CSE majors must take one of the capstone design courses, most commonly the one appropriate to their specific option. If a course currently designated as a capstone design course loses that designation, students who took the course when it was so designated may use it to meet their capstone course requirement.
+The current list (as of 4/28/'04) of capstone design courses is: CIS 682, 731, 758, 762, 772, 776, 778. (CIS 776 is no longer offered.)</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D05001C9-EB76-463F-851E-1C08D8083BB2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Capstone Design Courses in Computer Science and Engineering at Ohio State</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A83F2C90-EA0D-45DD-9DDB-6A52B8535C7E
+N:Ohio State University;Department of Computer Science and Engineering;null;;
+FN:Department of Computer Science and Engineering Ohio State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-02-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D05001C9-EB76-463F-851E-1C08D8083BB2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.cse.ohio-state.edu/~neelam/abet/CAPST/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

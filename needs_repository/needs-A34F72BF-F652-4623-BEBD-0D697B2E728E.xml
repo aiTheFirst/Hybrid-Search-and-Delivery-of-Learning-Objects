@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Questions of gender and science have come into the foreground in sociological theory, feminist research and human resource policy. This chapter focuses on the experiences of women in Ph.D. programs and as faculty members. Rather than examining threshold effects that might keep women out of graduate programs, or glass ceiling effects that might keep women with high quality training from progressing to the peak of academic careers we investigated the conditions under which women are at a disadvantage during their doctoral training and early stages of their academic careers. Academic practices, presumed to be meritocratic and gender-free, often work against women's professional success. Their deleterious effects on most women are sometimes hidden behind a neutral or even positive facade erected on the highly publicized achievements of a few exceptional women, some of whom deny the existence of obstacles in their path (Science, 1992). In our discussion we do not mean to imply that men do not have some of these same experiences as well as different ones. However, the lack of social and professional connections available to most women in academic science and engineering departments, in concert with overt and covert gender bias as well as differences in socialization, creates special and unique problems for women.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A34F72BF-F652-4623-BEBD-0D697B2E728E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">balancing career and family,male-dominated environment,self-esteem,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Barriers to Women in Academic Science and Engineering</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F5EB8080-0EFF-4032-BCA3-614E4A812A20
+N:Etzkowitz;Henry;null;;
+FN:Henry Etzkowitz
+ORG:Columbia University;SUNY Purchase and Computer Science Department
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1A03A16A-54D0-4DDA-B7A7-6766DBA4D371
+N:Kemelgor;Carol;null;;
+FN:Carol Kemelgor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:478001D5-F61E-41FF-958E-2A045D06D670
+N:Neuschatz;Michael;null;;
+FN:Michael Neuschatz
+ORG:American Institute of Physics
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A1ABF12D-85A7-410E-91A0-0854A5E5139C
+N:Uzzi;Brian;null;;
+FN:Brian Uzzi
+ORG:Northwestern University;Kellogg School of Managment
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C620427B-9147-4830-8642-24723B3AFF61
+N:c;;;;
+FN:c
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2005-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A44FA0BE-7A9E-4127-BB01-71C0DED343D9
+N:ACM Women in Computing Editor;;;;
+FN:ACM Women in Computing Editor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-04-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A34F72BF-F652-4623-BEBD-0D697B2E728E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://people.mills.edu/spertus/Gender/EKNU.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

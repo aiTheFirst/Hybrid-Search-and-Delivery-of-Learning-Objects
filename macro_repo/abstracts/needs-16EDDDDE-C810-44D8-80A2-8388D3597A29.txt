@@ -1,0 +1,6 @@
+BPC Alliance Partners: AccessComputing is led by the Department of Computer Science and Engineering and DO-IT at the University of Washington. Project partners include the NSF-funded Regional Alliances for Persons with Disabilities, Gallaudet University, Microsoft, and SIGACCESS of Association for Computing Machinery (ACM).
+
+Goals: The goal of the Alliance for Access to Computing Careers (AccessComputing) is to increase the participation of people with disabilities in computing careers.  Alliance collaborators apply proven practices to:
+- increase the number of students with disabilities successfully pursuing undergraduate and graduate degrees and careers in computing fields.
+- increase the capacity of postsecondary computing departments to fully include students with disabilities in computing courses and programs.
+- create a nationwide resource to help students with disabilities pursue computing fields and assist computing educators and employers, professional organizations, and other stakeholders develop more inclusive programs and share effective practices.  NOTE: This project is an extension of an award from 2005.

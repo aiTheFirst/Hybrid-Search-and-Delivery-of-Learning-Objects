@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Science is for ALL students. Whether students have learning problems or physical challenges, they should be able to experience hands-on science with their fellow classmates. Thissite offers access to selected science projects that have been modified so that all students, regardless of disability, could perform them in the same way. The modifications are seamless so that students would not realize adaptations had been made. The experiments are not new or novel, but rather familiar activities modified for a wider audience. Four activities available at this site look at how friction is used to slow down an object, how momentum affects objects, density as it affects a submarines position in the water, and how scientists design experiments, introducing the concept of variables. Safety guidelines are also highlighted. A wider range of activities in Earth, life and physical sciences, as well as general skills, are compiled in a text entitled Science Projects for ALL Students which can be purchased from Facts on File.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3CF512E0-6435-4210-AF64-97BCA8289978</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Educational theory and practice,Mathematics,Physics</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Science Projects for ALL Students</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:18DE422E-86B3-48E6-97F0-52AF32E0FAF9
+N:Facts on File, Inc.;;;;
+FN:Facts on File, Inc.
+ADR;TYPE=work,postal,parcel:;;11 Penn Plaza;New York;NY;10001;
+TEL;TYPE=work,voice:800-322-8755
+URL:http://www.factsonfile.com
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-12-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3CF512E0-6435-4210-AF64-97BCA8289978</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.fsbassociates.com/sciprojects/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

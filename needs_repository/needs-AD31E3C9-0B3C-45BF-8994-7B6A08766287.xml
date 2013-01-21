@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">ScienceDaily and Scentific American article, April 27, 2009.
+
+"Imagine producing vehicles so small they would be about the size of a molecule and powered by engines that run on sugar. To top it off, a penny would buy a million of them.
+
+The concept is nearly unthinkable, but it's exactly the kind of thing occupying National Science Foundation supported researchers at Penn State and Rice universities.
+
+For several years, Ayusman Sen, who heads Penn State's department of chemistry, and his colleague Thomas E. Mallouk, director of the Center for Nanoscale Science at Penn State, have investigated technologies that could realize these remarkable machines whose uses might include delivering medicine to specific tissue, accomplishing surgeries or communicating with the outside world from inside the human body."
+
+Image caption: James Tour and coworkers at Rice University synthesized a molecular car with four carbon-based wheels that roll on axles made from linked carbon atoms. The nano-car's molecular wheels are 5,000 times smaller than a human cell. A powerful technique that allows viewing objects at the atomic level called scanning tunneling microscopy reveals the wheels roll perpendicular to the axles, rather than sliding about like a car on ice as the car moves back and forth on a surface. (Credit: Y. Shirai/Rice University)</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>AD31E3C9-0B3C-45BF-8994-7B6A08766287</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanocar, nanotechnology, nanoscale, nano-machines</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Single-molecule Nano-vehicles Synthesized: 'Fantastic Voyage' Not So Far-Fetched</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:07F2BE0E-3A40-4E24-8B2A-609645AA088F
+N:Daily;Science;null;;
+FN:Science Daily
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1A3C0A47-E825-4FB1-A1E5-4881EA550732
+N:Scientific American;;;;
+FN:Scientific American
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-04-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>AD31E3C9-0B3C-45BF-8994-7B6A08766287</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.sciencedaily.com/releases/2009/04/090427080545.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

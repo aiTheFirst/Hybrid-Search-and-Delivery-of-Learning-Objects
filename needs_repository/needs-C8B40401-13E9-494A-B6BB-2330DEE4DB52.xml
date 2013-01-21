@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Executive summary of workshop proceedings:
+
+"Over the last 40 years, the number of women studying science and engineering (S&amp;E) has
+increased dramatically. Women now earn 51% of the S&amp;E bachelors degrees and 37% of
+PhDs, including 45% of those in biomedical fields. Nevertheless, women do not hold
+academic faculty positions in numbers commensurate with their increasing share of the
+S&amp;E talent pool. This is particularly true for African American women. The discrepancy
+exists at both the junior and senior faculty levels but is especially great at the top
+research-intensive universities. The causes of the discrepancies are controversial.
+Observers have attributed differences in career progression and success to sex
+differences in cognitive abilities, to differences in career interests and preferences, to bias
+and discrimination, to gendered institutional policies and practices, to broader societal
+gender roles and assumptions, or to a combination of these factors. A workshop was held
+to explore these issues jn December, 2005. National experts in a number of disciplines
+addressed what sex differences research tells us about capability, behavior, career
+decisions, and achievement; the role of organizational structures and institutional policy;
+cross-cutting issues of race and ethnicity; key research needs and experimental
+paradigms and tools; and the ramifications of their research for policy, particularly for
+evaluating current and potential academic faculty. The workshop report consists of three
+elements: an introduction, summaries of panel discussions including public comment
+sessions, and poster abstracts."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C8B40401-13E9-494A-B6BB-2330DEE4DB52</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, policy, academic women, tenure, promotion, family-friendly, work-life balance, policy</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Biological, Social, and Organizational Components of Success for Women in Academic Science and Engineering</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6BFFF9E0-96AC-4D5E-9A77-848195B6ED43
+N:Committee on Maximizing the Potential of Women in Academic STEM;;;;
+FN:Committee on Maximizing the Potential of Women in Academic STEM
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D5D820A9-4383-44D0-B5DC-47A32E37E43E
+N:Committee on Science, Engineering, and Public Policy;;;;
+FN:Committee on Science, Engineering, and Public Policy
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D72395D2-D628-43D1-B33E-719556E8747A
+N:National Academies;;;;
+FN:National Academies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C8B40401-13E9-494A-B6BB-2330DEE4DB52</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://books.nap.edu/openbook.php?record_id=11766</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

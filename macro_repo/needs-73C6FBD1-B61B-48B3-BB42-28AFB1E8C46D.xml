@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Textbook with rich supplemental material published by Oxford University Press.
+
+"The abundance of hype Java receives should not distract us from the fact that it has many excellent features for sequential programming: object-oriented, no explicit pointers and no pointer arithmetic, automatic garbage collection and no memory leaks, strong typing, platform independence, and many compiler and run-time checks. The Java development kit comes with a rich collection of class libraries for data structures, IO, networking, remote procedure calls, and graphics. Since threads are built-in, Java can be used for concurrent programming and developing multithreaded applications. In particular, it can be used by instructors as the concurrency platform in operating systems and related courses to give students practice and experience in concurrent programming.
+
+Designed for students and professional programmers, this books covers multithreading issues such as race conditions, critical sections, mutual exclusion, and condition synchronization. Java programs that use semaphores and monitors are shown as examples. Next, the book describes several thread communication tools: message passing, the rendezvous, and remote procedure calls, also illustrated with Java examples. These tools are used extensively in client-server programming. An algorithm animation package, written in Java, is used in several of the example programs. The book concludes with a brief introduction to parallel processing with Java in a shared-memory multiprocessor or a distributed memory cluster environment.
+Important and Unique Features
+
+    * The material is keyed to five standard operating systems texts.
+    * The book can be read by software professionals who have some architecture and systems background.
+    * All Java example programs are stand-alone applications, not applets.
+    * Each example program includes output from one or more sample runs.
+    * Algorithm animation using the XtangoAnimator class is described.
+    * Numerous programming assignments and other exercises are given."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>73C6FBD1-B61B-48B3-BB42-28AFB1E8C46D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">concurrent programming, operating systems, programming languages, Java</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Concurrent Programming Using Java</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B65408A5-6213-411F-AA99-8DAD8ABFE837
+N:Hartley;Stephen;null;;
+FN:Stephen Hartley
+ORG:Rowan University;Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>73C6FBD1-B61B-48B3-BB42-28AFB1E8C46D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://elvis.rowan.edu/~hartley/ConcProgJava/bookInfo.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

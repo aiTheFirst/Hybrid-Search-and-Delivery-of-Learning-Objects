@@ -1,0 +1,1 @@
+"This exercise teaches the students the operator approach to solving the harmonic oscillator problem."

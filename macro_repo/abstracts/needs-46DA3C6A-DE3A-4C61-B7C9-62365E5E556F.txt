@@ -1,0 +1,17 @@
+"Degrees Offered: 
+Master of Science in Engineering and
+Doctor of Philosophy
+
+Academic Tracks:
+Graduate courses are offered with varying degrees of specialization in the following general areas. Topics of specialization within each track reflect currently active research areas of the faculty.
+Biomedical Engineering
+Circuit Design
+Communications, Networks and Systems (CommNetS)
+Computer Engineering
+Electromagnetics and Acoustics
+Energy Systems
+Manufacturing Systems Engineering
+Plasma and Quantum Electronics and Optics
+Solid State Electronics
+
+Each track allows the design of a program of study to match the educational and research objectives of each student. "

@@ -1,0 +1,3 @@
+"This web site is provided by the United States Geological Surveys Western Earthquake Hazard Team as part of our effort to reduce earthquake hazard in the United States. We are based in Menlo Park, California, in the San Francisco Bay Region, with additional offices in Pasadena (in partnership with the California Institute of Technology) and in Seattle (in partnership with the University of Washington).
+
+We are part of the USGS Geologic Division, and receive funding from the USGS Earthquake Hazards Program, which is funded, in turn, by the National Earthquake Hazards Reduction Program (NEHRP)."

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The aim of this course is to provide you with an introduction to and an overview of some of the central questions, problems, and concerns that arise when the analytical lens of gender is used to examine the nature and practice of science. Some of the questions we?ll ask include: Is there a scientific basis for sex and/or gender classification? How has sexist (racist, classist) bias influenced the practice, results, and political uses of science? To what extent is scientific inquiry and, by extension scientific knowledge, objective, rational, reliable? Is science primarily a social activity? How might a feminist political agenda change, improve scientific inquiry, knowledge, and practice?
+
+
+Another question that I am particularly interested in thinking about and which I invite you to think about as well, is whether people who have traditionally been excluded from science (e.g., women, men of color) or people who can learn to "think from" the perspective of these sorts of people, might have a special sort of epistemic advantage over their more traditional counterparts. What sort of advantage might this be? How might such an advantage accrue to non-traditional scientists/science-thinkers? We?ll be discussing this issue in some detail in the course.
+
+
+A remark should be made about what I mean by "the lens of gender" in the first paragraph above. It is my view that the lens of gender must include (indeed, I would say that it is constituted by) a set of interlocking categories of analysis that include sex, gender, race, class, sexual orientation, and the like. After all, women and men are always also members of a race, of a class, etc. While few analyses are complete in the sense that they pay attention to all of these categories equally, a feminist or gendered analysis should, I believe, strive to pay attention to these sorts of categories and how they intersect.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>00F6EB2E-86D7-4340-B3AF-440628833DF0</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Gender and Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:66321F1C-DA32-4FE6-8B59-55C4E9270343
+N:Haverford College;Audre Brokes;null;;
+FN:Audre Brokes Haverford College
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-03-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>00F6EB2E-86D7-4340-B3AF-440628833DF0</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.haverford.edu/femgenstudies/Brokes.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

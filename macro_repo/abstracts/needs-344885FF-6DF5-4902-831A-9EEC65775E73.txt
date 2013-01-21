@@ -1,0 +1,5 @@
+Template for Describing a (Program, Practice, or Resource) for Increasing Womens Participation in IT 
+
+This template is for describing and documenting formal and informal interventions that attract, retain, and advance women and girls in information technology programs of study and careers. Discovering what works and under what circumstances, and sharing that information so that successful practices can be broadly adopted. The NCWIT will evaluate these practices and share them through its Digital Library. 
+
+For this particular intervention, we are targeting HS age students (sophomore-junior)  We realize that a lot of focus is on middle school age girls but in order for female students to consider taking HS level IT courses, we think there needs to be some interventions at the HS level.

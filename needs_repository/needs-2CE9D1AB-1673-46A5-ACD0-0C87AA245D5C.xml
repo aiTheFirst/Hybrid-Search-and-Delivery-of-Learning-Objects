@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Online tutorial organized around the following topics:
+
+1. Basic Concepts
+
+       1. Introduction
+       2. Abstraction
+       3. Separation
+       4. Classes, Objects, and Abstract Interfaces
+       5. Composition
+       6. Generalization
+       7. Putting It All Together 
+
+
+
+2. Using Objects of a Single Class
+
+       1. Introduction
+       2. Structure of Classes and Objects
+       3. Manipulating Objects in a Java Application
+       4. Manipulating GUI Objects in a Simple Programming Environment
+       5. Named Constants
+       6. Overloaded Methods
+       7. Overloaded Methods in Java Classes
+       8. Arrays of Objects
+       9. Managing Objects
+
+
+
+3. Using Objects of Different Classes
+
+       1. Introduction
+       2. Using Objects for Communicating Data
+       3. Sequences of Interactions
+       4. Simple Associations
+       5. Interfaces
+       6. More Complex Associations
+
+
+
+4. Implementing a New Class
+
+       1. Introduction
+       2. Implementing a Class
+       3. The Role of Aggregation
+       4. Simple Static Aggregations
+       5. More Complex Static Aggregation
+       6. Dynamic Aggregation
+       7. The "this" Variable
+       8. Copying Mutable Objects
+
+
+
+5. Designing and Developing a Class
+
+       1. Introduction
+       2. Designing a Class
+       3. Designing Complex Logic
+       4. Debugging
+       5. Organizing Related Classes in Packages
+       6. Documenting a Class
+
+
+
+6. Inheritance
+
+       1. Introduction
+       2. Using Inheritance to Share Implementation
+       3. Inheriting Methods and Data
+       4. Replacing Inherited Methods
+       5. Extending Inherited Methods
+       6. Hiding Inherited Methods
+       7. Type Casting
+       8. Dynamic Binding, Abstract Methods, and Polymorphism
+       9. Refactoring of Base Classes
+      10. Designing a Class Hierarchy
+      11. Design Patterns
+
+
+
+7. Building User Interfaces in Java
+
+       1. Introduction
+       2. Structure of a User Interface
+       3. Two Simple Applications
+       4. Event Handling
+       5. Handling Events in a Simple Application
+       6. Menus
+       7. Checkboxes
+       8. Lists
+       9. Dialogues
+      10. Scrollbars
+      11. TextFields
+      12. Text Fonts
+      13. Images
+      14. Custom Components
+      15. Layout Managers
+
+
+
+8. Input/Output in Java
+
+       1. Introduction
+       2. Binary I/O
+       3. Text I/O
+       4. Random Access File I/O
+       5. Object I/O
+       6. I/O Filtering
+
+
+
+9. Threads
+
+       1. Introduction
+       2. Independent Threads
+       3. Synchronized Threads
+       4. Distributed Concurrency.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2CE9D1AB-1673-46A5-ACD0-0C87AA245D5C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Object-Oriented Software Design and Construction with Java</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D1F7638C-DD15-4EFA-8502-59F98C3DD46F
+N:Virginia Polytechnic Institute and State University;Dennis Kafura, Computer Science;null;;
+FN:Dennis Kafura, Computer Science Virginia Polytechnic Institute and State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2CE9D1AB-1673-46A5-ACD0-0C87AA245D5C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://ei.cs.vt.edu/~kafura/java/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This is a course syllabus offered at department of Communication Studies, Concordia University. "The course will explore technology's interaction with the concept of gender how the terms of
+gender are embodied in technologies, and conversely, how technologies shape our notions of
+gender. This course will give students the opportunity to critically assess the gendered
+relations produced in areas such as entertainment and games, work, domesticity, identity,education, race and ethnicity, and the body."
+
+keywords:NCWIT (Naional Center for Women and Information Technology), gender equity</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DD7ECCCC-0D9B-4AD7-9AF9-3EDD91988E2A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">engineering,general</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">bodies + machines--interrogating gender + technology in the digital age</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2BFBB766-FFC4-4BC1-AC05-494CBBFD01BC
+N:Flanagan;Mary;null;;
+FN:Mary Flanagan
+EMAIL;TYPE=internet:mary@maryflanagan.com
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3BD3C8E5-C45A-41B5-9D62-CD6961AA4A5A
+N:premier-award judge;;;;
+FN:premier-award judge
+EMAIL;TYPE=internet:xia_teng@yahoo.com
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-02-08</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DD7ECCCC-0D9B-4AD7-9AF9-3EDD91988E2A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.maryflanagan.com/courses/bodies.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

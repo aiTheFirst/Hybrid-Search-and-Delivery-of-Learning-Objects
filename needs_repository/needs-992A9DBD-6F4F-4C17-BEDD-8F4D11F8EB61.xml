@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This is the online version of the Academic Press Dictionary of Science and Technology. The dictionary covers 130 different fields in mathematics, and the physical, medical, social, and computer sciences. It is the largest scientific dictionary ever compiled in the English language. The vocabulary ranges from common terms that have no special scientific meaning to highly specialized terms that rarely merit inclusion in a general-interest dictionary. The user can perform a search for a particular word or can browse the archive alphabetically within specific disciplines.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>992A9DBD-6F4F-4C17-BEDD-8F4D11F8EB61</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Space science,Mathematics,Physics,Technology</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Academic Press Dictionary of Science and Technology</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C2B14AC4-38A1-4422-BFF3-3D072E50B091
+N:Harcourt, Inc., Permissions Department;;;;
+FN:Harcourt, Inc., Permissions Department
+ADR;TYPE=work,postal,parcel:;;6277 Sea Harbor Drive;Orlando;FL;32887;
+TEL;TYPE=work,voice:407-345-3979
+TEL;TYPE=work,fax:407-345-4058
+URL:http://www.harcourt.com/about/permissions.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-08-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1CE40D00-98DA-4631-B769-4C0041F62536
+N:Harcourt, Inc.;;;;
+FN:Harcourt, Inc.
+ADR;TYPE=work,postal,parcel:;;6277 Sea Harbor Drive;Orlando;FL;32887;
+TEL;TYPE=work,voice:888-677-7357
+URL:http://www.harcourt.com/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-08-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>992A9DBD-6F4F-4C17-BEDD-8F4D11F8EB61</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.harcourt.com/dictionary/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

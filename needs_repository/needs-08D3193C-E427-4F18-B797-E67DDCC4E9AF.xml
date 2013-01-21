@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The San Diego Supercomputer Center presents Women in Science: A Selection of 16 Significant Contributors:
+
+1. Rosalind Elsie Franklin
+Pioneer Molecular Biologist.
+
+2. Dorothy Crowfoot Hodgkin
+A Founder of Protein Crystallography
+
+3. Grace Murray Hopper
+Pioneer Computer Scientist.
+
+4. Maria Goeppert-Mayer
+Nobelist in Physics.
+
+5. Helen Sawyer Hogg
+A Gift of Stars.
+
+6. Rózsa Péter
+Founder of Recursive Function Theory.
+	
+
+7. Roger Arliner Young
+Lifelong Struggle of a Zoologist.
+
+8. May Edward Chinn
+Physician.
+
+9. Emmy Noether
+Creative Mathematical Genius.
+
+10. Lise Meitner
+A Battle for Ultimate Truth.
+
+11. Lillian Moller Gilbreth
+Mother of Modern Management.
+	
+
+12. Annie Jump Cannon
+Theorist of Star Spectra.
+
+13. Rosa Smith Eigenmann
+"First Woman Ichthyologist of Any Accomplishments".
+
+14. Ada Byron, Countess of Lovelace
+Analyst, Metaphysician, and Founder of Scientifc Computing.
+
+15. Mary Anning
+Finder of Fossils.
+
+16. Sophie Germain
+Revolutionary Mathematician. keywords:gender equity, course syllabus.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>08D3193C-E427-4F18-B797-E67DDCC4E9AF</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Women in Science - Case Studies of 16 Women</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BE40E29D-AD72-47B4-A12A-C20E553FB9F4
+N:San Diego Supercomputer Center;Webmaster of;null;;
+FN:Webmaster of San Diego Supercomputer Center
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3BD3C8E5-C45A-41B5-9D62-CD6961AA4A5A
+N:premier-award judge;;;;
+FN:premier-award judge
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-02-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>08D3193C-E427-4F18-B797-E67DDCC4E9AF</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.sdsc.edu/ScienceWomen/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

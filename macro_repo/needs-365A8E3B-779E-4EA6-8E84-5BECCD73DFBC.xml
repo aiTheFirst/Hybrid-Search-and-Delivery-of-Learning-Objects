@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The University of Michigan proposes a pilot project to increase the representation of American Indians in computing by engaging high school and community college students in a project to build virtual museums. The proposal takes advantage of the fact that tribal communities are increasingly gaining control over their artifacts, giving them the ability to determine which stories are told regarding their history and culture, and to determine how they are represented. Building a physical museum can be an expensive task, however, and digital museums could be a more affordable first step for many tribes. Unfortunately, American Indians are profoundly underrepresented in both the computing and broader cultural heritage fields, and most tribal members do not have the computing skills necessary to build and maintain a digital museum. This proposal seeks to address the lack of computing education in Indian Country by developing a program that is pedagogically effective with a curriculum that is culturally relevant. The project will demonstrate that American Indians can be engaged in computing through experience in developing software systems to meet local interests and needs. The goal of the project is to generate interest in Computer Science and Information academic tracks among American Indians while at the same time having students build IT- based cultural heritage systems that will garner respect and enthusiasm from their peers and local communities. As the University of Michigan offers free tuition to enrolled tribal members, this project offers a direct path for American Indians to matriculate into Computer Science and Information programs and after that, into the computation and information professions. This pilot will serve as a planning grant."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>365A8E3B-779E-4EA6-8E84-5BECCD73DFBC</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: Learn by Doing: Encouraging Computation by Building Digital Tribal Museums</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F5EA637C-5455-4CA0-962F-C87360E1E04D
+N:Frost;Robert;null;;
+FN:Robert Frost
+ORG:University of Michigan at Ann Arbor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-02-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:523E9158-5593-4E60-BF7D-968B7F5FEE0E
+N:Clarkson;Gavin;null;;
+FN:Gavin Clarkson
+ORG:University of Michigan at Ann Arbor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-02-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4065C2E8-A5B8-4EE9-A3D8-43527FFC2C15
+N:Quintana;Christopher;null;;
+FN:Christopher Quintana
+ORG:University of Michigan at Ann Arbor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E9948A3-F7C0-44BB-961E-E18B9E19C978
+N:Monica Noring;;;;
+FN:Monica Noring
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-07-29</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>365A8E3B-779E-4EA6-8E84-5BECCD73DFBC</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0739183</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

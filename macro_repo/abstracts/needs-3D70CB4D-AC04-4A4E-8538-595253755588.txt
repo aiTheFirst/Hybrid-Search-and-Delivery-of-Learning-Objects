@@ -1,0 +1,5 @@
+"The ACM International Collegiate Programming Contest (ICPC) provides college students with opportunities to interact with students from other universities and to sharpen and demonstrate their problem-solving, programming, and teamwork skills.  The contest provides a platform for ACM, industry, and academia to encourage and focus public attention on the next generation of computing professionals as they pursue excellence. (from the ICPC Policies and Procedures)
+
+Introduction
+
+The contest is a two-tiered competition among teams of students representing institutions of higher education. Teams first compete in Regional Contests, held around the world from October to November each year. The winning team from each Regional Contest advances to the ACM International Collegiate Programming Contest World Finals that is typically held in March. Additional high-ranking teams may be invited to the World Finals as Wild Card teams.  These rules are subject to change."

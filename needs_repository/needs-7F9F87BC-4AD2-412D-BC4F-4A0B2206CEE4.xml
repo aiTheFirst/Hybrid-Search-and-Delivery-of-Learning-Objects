@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The diskette contains background material, tutorial documents, sample problems, and 25 practice problems with full solutions on gas-phase, acid-base, and precipitation equilibria. These topics are usually covered in second-semester General Chemistry and Quantitative Analysis courses. 
+An example of a general concepts of the courseware:
+"A chemical specie will always exist in equilibrium with other forms of itself. The other forms may exist in extremely small amounts, and might even be undetectable, but they are always present. These other forms arise due to the inherent disorder of nature that we call entropy (it's impossible to be perfect)."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7F9F87BC-4AD2-412D-BC4F-4A0B2206CEE4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Equilibrium Practice Problems</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:07B16484-F700-4EC5-9833-B1DFAD8948CD
+N:Science Hypermedia;Brian M. Tissue;null;;
+FN:Brian M. Tissue Science Hypermedia
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8CEEEDC9-39D8-43A1-A625-18E3DB56BBF9
+N:Science Hypermedia;;;;
+FN:Science Hypermedia
+ADR;TYPE=work,postal,parcel:;;1400 Gladewood DriveBlacksburg, VA 24060;;;;
+PHOTO;VALUE=uri:http://
+URL:http://www.scimedia.com/scimedia/eqdisk.htm
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1996-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:244C30DD-1B91-46D6-949E-37A961A3EFAF
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1998-10-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7F9F87BC-4AD2-412D-BC4F-4A0B2206CEE4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://elchem.kaist.ac.kr/vt/chem-ed/equilibr/equilibr.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

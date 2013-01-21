@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Community website with gallery, modules, workshops, live visualizations, news and links.
+
+Project statement:
+"The integration of nano-science and technology concepts into upper-division high school and lower-division college curricula will require innovative educational approaches that will help students understand the structures and properties of matter on a scale below 100 nanometers, i.e., the nanoscale. This Interactive Nano-Visualization in Science and Engineering Education (IN-VSEE) project will create a consortium of university and industry scientists, community college and high school science faculty and museum educators with a common vision of creating an interactive World Wide Web (WWW) site to develop a new educational thrust based on remote operation of advanced microscopes and nanofabrication tools coupled to powerful surface characterization methods. The centerpiece of this project is the revolutionary scanning probe microscope (SPM), which has evolved rapidly into a relatively simple, yet powerful, technique capable of imaging and manipulating materials at resolutions down to the atomic scale. The proposed emphasis on SPM will allow students and teachers nationwide to operate and learn about nanotechnology using this Nobel-prize-winning technique. The key objective of IN-VSEE is to bring the exciting world of nanotechnology into the classroom to help inspire today's students to become tomorrow's scientists and engineers.
+
+IN-VSEE is a unique initiative that enables a science or engineering class ("operator") to select and investigate materials over the WWW. Using a "fishbowl" format, other classes ("observers") will be able to observe the operator class conducting an experiment. Operator classes will remote-control the SPM from their classroom with the SPM images broadcast over WWW in real-time. The observers will actively participate by communicating with the operator class via WWW-Chat or video conferencing. IN-VSEE will have a chain reaction effect by creating dialogue and being shared over WWW with other classrooms.This same approach will serve as a model for the national use of other instruments beside the SPM.
+
+Several interactive experiments are proposed by IN-VSEE that emphasize nanoimaging, structure-property
+relationships, structure-function correlations, and nanofabrication. Such experiments will provide the following
+significants improvements in science and engineering education:
+
+    * Create a new level of excitement about careers in science and engineering
+    * Educate students in the rational design of experiments
+    * Increase understanding of materials and their properties at the atomic level
+    * Empower students and teachers with computer-aided image analysis
+    * Increase students' interest in science and engineering by solving problems in real- life industrial contexts
+    * Provide direct access to sophisticated instrumentation via the WWW
+    * Develop a new educational paradigm to begin to prepare the future generation of scientists and engineers for the new age of nanotechnology
+    * Provide a novel mechanism for integration of nanotechnology into education in the traditional disciplines of science and engineering".</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>31A98A5B-3994-4857-9ED4-2B8E52FB4AF7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">IN-VSEE  Interactive Nano-Visualization in Science and Engineering</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0A4D01F3-CD49-4F4D-836E-839A7FC72C35
+N:B. Ramakrishna;;;;
+FN:B. Ramakrishna
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-09-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>31A98A5B-3994-4857-9ED4-2B8E52FB4AF7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://invsee.asu.edu/Invsee/invsee.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

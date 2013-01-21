@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Researchers have created a tiny "carpet cloak" that conceals objects under it from detection using light near the human-visible part of the spectrum. While the carpet itself is visible, the bulge of the object underneath it "disappears" from the view of instruments that use this near-infrared light.
+
+These three images depict how light striking an object covered with the carpet cloak acts as if there were no object. (Image by Thomas Zentgraf)
+Researchers say they're hopeful that with more precise fabrication their strategy should yield a true "invisibility carpet that works in the area of the color spectrum utilized by human eyes, and at a larger size.
+
+The carpet works such that shining a beam of light on the bulge shows a reflection identical to that of a beam reflected from a flat surface.
+
+"We have come up with a new solution to the problem of invisibility based on the use of dielectric [nonconducting] materials, said Xiang Zhang of the Univers
+ity of California Berkeley and Lawrence Berkeley National Laboratory in California, leader of the research team."
+
+Image caption: These three images depict how light striking an object covered with the carpet cloak acts as if there were no object. (Image by Thomas Zentgraf)</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5748621B-0237-4A27-BE67-1865501D3BCB</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanotechnology, ivisibility cloak, SINAM</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Tiny "invisibility cloak" is like a magic</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:752F5869-A805-472E-A332-1EF74DE424AB
+N:Berkeley Lab and World Science Staff;;;;
+FN:Berkeley Lab and World Science Staff
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-05-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5748621B-0237-4A27-BE67-1865501D3BCB</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.world-science.net/othernews/090504_carpet.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

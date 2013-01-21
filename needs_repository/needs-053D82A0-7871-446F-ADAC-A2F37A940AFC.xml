@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The Berkeley EECS major, offered through the College of Engineering (COE), combines fundamentals of computer science and electrical engineering in one major. The EECS Department offers two undergraduate programs: Electrical and Computer Engineering (ECE), and Computer Science and Engineering (CSE). Students working for the B.S. degree select an Option within their program and are then assigned an appropriate advisor on the basis of their selection.
+
+Within the ECE program, students may choose to further specialize their course of study by selecting one of the following options within the EECS curriculum:
+
+    *
+      Electronics (Option I)
+
+      For students interested in integrated circuits, including fabrication technology, solid state devices, digital and analog circuits analysis and design, VLSI design, and computer-aided design and manufacturing; and for students interested in microelectromechanical systems, electromagnetics, acoustics, optoelectronics, plasmas, cryoelectronics, and antennas and propagation.
+    *
+      Communications, Networks and Systems (Option II)
+
+      For students with interests in networks, control, robotics, digital and analog communications, computer networks, signal processing, systems design and optimization, or power systems planning and operation; or for students with an interest in biology or medicine as well as electrical engineering, including biological sensors and signals, signal and image processing, and analysis and modeling of biological systems.
+    *
+      Computer Systems (Option III)
+
+      For students interested in machine architecture and logic design, operating systems, database systems, programming systems and languages, or digital devices and circuits.
+    *
+      General Course of Study (Option V)
+
+      For students whose interests are broad or are not yet focused on a specific field, this very flexible program enables students to explore several of the areas of electrical engineering and computer sciences."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>053D82A0-7871-446F-ADAC-A2F37A940AFC</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Undergraduate Electrical Engineering Curriculum - University of California at Berkeley</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D7DFD7F0-BB77-4862-816A-D14401B5A243
+N:University of California at Berkeley;Department of Electrical Engineering and Computer Science;null;;
+FN:Department of Electrical Engineering and Computer Science University of California at Berkeley
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-08</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>053D82A0-7871-446F-ADAC-A2F37A940AFC</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.eecs.berkeley.edu/education/degrees.shtml#ece</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

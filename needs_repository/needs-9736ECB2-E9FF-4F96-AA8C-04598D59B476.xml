@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The number of women earning bachelors degrees in computer science (CS) peaked at 15126 in 1986 but plunged to 7063 by 1995. Since then, the number has increased slightly to 10 474 in 2000 [18, tab. 2- 22]. Yet, a survey of incoming freshman in 2002 revealed that only 3.2 percent of women planned to major in CS, compared to 14.6 percent of men [17, p. 2-6]. Although a growing number of women earn master's degrees in CS (from 2786 in 1995 to 4868 in 2000), there is a marked decline in the number of women earning doctoral degrees (from 186 in 1995 to 155 in 2001) [18, tabs. 2-24, 2-26].
+
+The problem of disproportional representation of women in the CS discipline in post-secondary education has become a major concern [2], [28]. In recent years, scholars have identified a number of possible factors that affect the enrollment and retention of female students in CS programs. These factors include exposure to computers and gender socialization [27], gender bias in software design [8], motivational differences [13], differences in learning strategies and behaviors [10], [24], negative attitudes toward women in CS programs [6], and masculine CS culture [12]."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9736ECB2-E9FF-4F96-AA8C-04598D59B476</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">women, retention, recruitment, enrollment, classroom social system, gender equity</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Importance of gender homophily in the computer science classroom</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:523069A0-15E4-4A73-A781-B08EE8507397
+N:Varma;R.;null;;
+FN:R. Varma
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:83441925-2506-4781-9DAF-58BFF76AA331
+N:LaFever;M.;null;;
+FN:M. LaFever
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A95A4292-7E83-4C47-AC38-612313409FAE
+N:Amanda Walton;;;;
+FN:Amanda Walton
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9736ECB2-E9FF-4F96-AA8C-04598D59B476</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://ieeexplore.ieee.org/iel5/44/4231754/04233107.pdf?tp=&amp;isnumber=&amp;arnumber=4233107</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

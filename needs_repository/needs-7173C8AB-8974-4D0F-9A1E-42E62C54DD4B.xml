@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract: We present several activities used in the two-week PipeLINK summer program for high school girls. These hands-on activities and interactive talks, presented mostly by female faculty, undergraduates, and graduate students, showed the girls the wide range of opportunities in the field of computer science.
+Keywords: Gender Equity, Women and Information Technology</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7173C8AB-8974-4D0F-9A1E-42E62C54DD4B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">studies and solutions,,,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Activities to Attract High School Girls to Computer Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:472F5651-90BD-4CC7-B7A7-08D153081360
+N:Rodger, E. L. Walker;S. H.;null;;
+FN:S. H. Rodger, E. L. Walker
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C620427B-9147-4830-8642-24723B3AFF61
+N:c;;;;
+FN:c
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1996-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">ACM SIGCSE Bulletin v28 i1</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A44FA0BE-7A9E-4127-BB01-71C0DED343D9
+N:ACM Women in Computing Editor;;;;
+FN:ACM Women in Computing Editor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-04-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7173C8AB-8974-4D0F-9A1E-42E62C54DD4B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://portal.acm.org/citation.cfm?id=236583&amp;coll=ACM&amp;dl=ACM&amp;CFID=43880277&amp;CFTOKEN=8583245</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

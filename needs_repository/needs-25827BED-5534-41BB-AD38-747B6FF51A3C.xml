@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Describes over 250 projects on girls in science, technology, engineering, and mathematics (STEM) funded by the National Science Foundation. Excellent index for identifying interventions. Pp.
+101-113 list 16 projects on girls and IT carried out with funding from the Program for Gender Equity, for girls from middle school through college and for teachers. The book is organized around the following downloadable chapters:
+Introduction (PDF / 1,091 kb)
+
+Chapter 1: Teaching With a Difference (PDF / 1,142 kb)
+
+Chapter 2: A Welcoming New Environment (PDF / 339 kb)
+
+Chapter 3: Courses that Feed, Not Weed (PDF / 768 kb)
+
+Chapter 4: New Dimensions in Diversity (PDF / 564 kb)
+
+Chapter 5: Changing the Learning Environment (PDF / 280 kb).</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>25827BED-5534-41BB-AD38-747B6FF51A3C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, girls</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">New Formula for America's Workforce: Girls in Science and Engineering</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D0147AC7-A0DE-425F-97A3-6F085667D112
+N:NcNees;P.;null;;
+FN:P. NcNees
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">NSF 03-207</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A44FA0BE-7A9E-4127-BB01-71C0DED343D9
+N:ACM Women in Computing Editor;;;;
+FN:ACM Women in Computing Editor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-02-09</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>25827BED-5534-41BB-AD38-747B6FF51A3C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/pubs/2003/nsf03207/start.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

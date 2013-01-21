@@ -1,0 +1,1 @@
+Advanced tutorial is almost a textbook on Prolog programming for use in either building expert systems or experimenting with various expert system techniques. Keywords: expert systems, artificial intelligence, Prolog

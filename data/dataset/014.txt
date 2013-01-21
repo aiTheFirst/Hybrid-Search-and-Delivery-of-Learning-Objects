@@ -1,0 +1,1 @@
+Tutorials on algorithms from Papatheodorou's book "Introduction to Algorithms designing and analysis". 5.1 Introduction. 5.2 Greed (and hill elevation). 5.3 Order Projects by Deadlines. 5.4 Minimum Genetic Tree. Prim Algorithm. Kruskal Algorithm. 5.5 Heuristic Algorithms. 5.6 Dynamic Programming. 5.7 Minimum Routes 5.7.1 Dijkstra Algorithm. 5.8 Backtracking.

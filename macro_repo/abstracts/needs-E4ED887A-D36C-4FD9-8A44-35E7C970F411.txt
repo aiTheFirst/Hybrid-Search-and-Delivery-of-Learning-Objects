@@ -1,0 +1,17 @@
+Abstract: This paper describes the use of CyclePadâan articulate virtual
+laboratory for creating and analyzing thermodynamics cyclesâat
+three different types of educational institutions: a research university,
+an engineering technology program in a large state university,
+and a military academy. Case studies of each site were
+created based on classroom observations, student surveys, and
+interviews with faculty. In comparing these three institutions, we
+found that the context of the school and the ways in which professors
+chose to implement CyclePad led to different student experiences.
+Depending on the types of problems that students
+worked on, they found the software more or less helpful in increasing
+their understanding of thermodynamics. Students in
+the class that had the most constraints on its curriculum, where
+little change was possible, were less able to take full advantage of
+the softwareâs capabilities.
+
+<citation>Julie Baher; Articulate virtual labs in thermodynamics education: A multiple case study; Journal of Engineering Education; 88; 4; 429-434; 1999</citation>

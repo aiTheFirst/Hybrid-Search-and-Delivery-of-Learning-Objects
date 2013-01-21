@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"How do you get a fourth-grader excited about history? How do you even begin to persuade high school students that mathematical functions are relevant to their everyday lives? In this volume, practical questions that confront every classroom teacher are addressed using the latest exciting research on cognition, teaching, and learning.
+
+How Students Learn: History, Mathematics, and Science in the Classroom builds on the discoveries detailed in the bestselling How People Learn. Now, these findings are presented in a way that teachers can use immediately, to revitalize their work in the classroom for even greater effectiveness.
+
+Organized for utility, the book explores how the principles of learning can be applied in teaching history, science, and math topics at three levels: elementary, middle, and high school. Leading educators explain in detail how they developed successful curricula and teaching approaches, presenting strategies that serve as models for curriculum development and classroom instruction. Their recounting of personal teaching experiences lends strength and warmth to this volume.
+
+The book explores the importance of balancing students knowledge of historical fact against their understanding of concepts, such as change and cause, and their skills in assessing historical accounts. It discusses how to build straightforward science experiments into true understanding of scientific principles. And it shows how to overcome the difficulties in teaching math to generate real insight and reasoning in math students. It also features illustrated suggestions for classroom activities.
+
+How Students Learn offers a highly useful blend of principle and practice. It will be important not only to teachers, administrators, curriculum designers, and teacher educators, but also to parents and the larger community concerned about children s education."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1F9CC5E6-FF28-4677-9D2A-82D566B680D0</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">learning science, teaching and learning</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">How Students Learn: History, Mathematics, and Science in the Classroom</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:13286ED0-76EC-4E08-B30B-4B3EDCAADC26
+N:Committee on How People Learn, NRC;;;;
+FN:Committee on How People Learn, NRC
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-04-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1F9CC5E6-FF28-4677-9D2A-82D566B680D0</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://books.nap.edu/catalog.php?record_id=10126</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

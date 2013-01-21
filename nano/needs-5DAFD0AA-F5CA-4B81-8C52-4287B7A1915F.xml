@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Online reference that starts:
+"Manufactured products are made from atoms. The properties of those products depend on how those atoms are arranged. If we rearrange the atoms in coal we can make diamond. If we rearrange the atoms in sand (and add a few other trace elements) we can make computer chips. If we rearrange the atoms in dirt, water and air we can make potatoes.
+
+Todays manufacturing methods are very crude at the molecular level. Casting, grinding, milling and even lithography move atoms in great thundering statistical herds. It's like trying to make things out of LEGO blocks with boxing gloves on your hands. Yes, you can push the LEGO blocks into great heaps and pile them up, but you can't really snap them together the way you'd like.
+
+In the future, nanotechnology will let us take off the boxing gloves. We'll be able to snap together the fundamental building blocks of nature easily, inexpensively and in most of the ways permitted by the laws of physics. This will be essential if we are to continue the revolution in computer hardware beyond about the next decade, and will also let us fabricate an entire new generation of products that are cleaner, stronger, lighter, and more precise.
+
+It's worth pointing out that the word "nanotechnology" has become very popular and is used to describe many types of research where the characteristic dimensions are less than about 1,000 nanometers. For example, continued improvements in lithography have resulted in line widths that are less than one micron: this work is often called "nanotechnology." Sub-micron lithography is clearly very valuable (ask anyone who uses a computer!) but it is equally clear that conventional lithography will not let us build semiconductor devices in which individual dopant atoms are located at specific lattice sites. Many of the exponentially improving trends in computer hardware capability have remained steady for the last 50 years. There is fairly widespread belief that these trends are likely to continue for at least another several years, but then conventional lithography starts to reach its limits.
+
+If we are to continue these trends we will have to develop a new manufacturing technology which will let us inexpensively build computer systems with mole quantities of logic elements that are molecular in both size and precision and are interconnected in complex and highly idiosyncratic patterns. Nanotechnology will let us do this.
+
+When it's unclear from the context whether we're using the specific definition of "nanotechnology" (given here) or the broader and more inclusive definition (often used in the literature), we'll use the terms "molecular nanotechnology" or "molecular manufacturing."
+
+Whatever we call it, it should let us
+
+    * Get essentially every atom in the right place.
+    * Make almost any structure consistent with the laws of physics that we can specify in molecular detail.
+    * Have manufacturing costs not greatly exceeding the cost of the required raw materials and energy. "</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5DAFD0AA-F5CA-4B81-8C52-4287B7A1915F</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Nanotechnology</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:20956BCA-04B0-409F-B731-0AA4C9584716
+N:Zyvex.com;Ralph Merkley;null;;
+FN:Ralph Merkley Zyvex.com
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-12-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5DAFD0AA-F5CA-4B81-8C52-4287B7A1915F</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.zyvex.com/nano/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

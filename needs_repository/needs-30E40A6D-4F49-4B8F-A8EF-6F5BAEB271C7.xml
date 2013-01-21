@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Report of the National Science Board of the National Science Foundation NSB-07-122.
+
+"This report of the National Science Board (Board) lays out our findings and recommendations for the
+National Science Foundation (NSF) to support innovations in engineering education programs. The
+Board, established by Congress in 1950, provides oversight for, and establishes the policies of, NSF. It
+also serves as an independent body of advisors to the President and Congress on national policy issues
+related to science and engineering research and education.
+In March 2005, the Board undertook an examination of recent recommendations addressing changes
+in engineering education and implications for the engineering workforce. This effort built upon the
+work of the National Academy of Engineering (NAE) in its report, The Engineer of 2020: Visions of
+Engineering in the New Century, as well as recent Board policy reports that identified issues of concern
+for the domestic engineering workforce.
+Moving Forward to Improve Engineering Education synthesizes the results of two Board-sponsored
+workshops and significant Board deliberations. The first workshop was held at the Massachusetts
+Institute of Technology in October 2005 and included a range of experts representing broad interests
+in engineering education. For the second workshop, held at the Georgia Institute of Technology in
+November 2006, 23 leading deans of engineering (or equivalent) and the NSF Assistant Director for
+Engineering participated in discussions that identified needs for change in engineering education and
+model programs to address those needs.
+Throughout the process, the Board maintained a dialogue with NAE and coordinated with the
+NAE Engineer of 2020 project. Our recommendations in this final report address issues of public
+perception of engineering, retention of students in engineering majors, responsiveness of engineering
+education to change in the global environment, and needs for additional data to support policy and
+planning."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>30E40A6D-4F49-4B8F-A8EF-6F5BAEB271C7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">engineering education reform</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Moving Forward to Improve Engineering Education</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D70185A7-EFDA-4BBF-B6CE-5B500B38E51C
+N:National Science Board, National Science Foundation;;;;
+FN:National Science Board, National Science Foundation
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>30E40A6D-4F49-4B8F-A8EF-6F5BAEB271C7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/pubs/2007/nsb07122/index.jsp</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

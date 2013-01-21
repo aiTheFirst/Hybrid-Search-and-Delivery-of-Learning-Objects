@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Status: On going;
+Year Awarded: 2000.
+
+The goal of the UMES ADVANCE Program is to make major changes at the University which will increase the number of women in STEM disciplines, help women within these disciplines earn promotion, gain tenure, transition to leadership roles and reduce isolation within their departments. The three objectives are to:
+
+Increase the percentage of tenured women faculty in the STEM disciplines at UMES from 9% to 21% by enhancing the academic infrastructure at UMES to promote career advancement for women faculty in STEM disciplines.
+
+Change administrative policies and procedures at UMES and add new administrative programs to
+
+promote career advancement for women faculty in STEM disciplines.
+
+Develop the UMES ADVANCE Women's Center which will utilize a holistic approach toward women faculty career development.
+
+There are many barriers and obstacles that must be overcome by women in academia especially minority
+
+women, and this is most pronounced in the STEM disciplines. Through institutional transformation, and
+
+organizational commitment, the UMES ADVANCE program will remove these barriers by developing methods and broadening the knowledge base to address the under-representation of minority women in STEM disciplines. The program will introduce both novel strategies and modified existing approaches outlined by organizations such as the Association of Women in Science and other ADVANCE programs. Such activities will increase opportunities that will address women's development, advancement and increased productivity by focusing on a combination of activities including sabbatical leave for UMES women faculty in the STEM disciplines, establishment of a joint UMES/UMBC ADVANCE Academic Exchange Program, revision of the UMES leave policy for dependent care, establishment of an Administrative Fellowship Program, revision of tenure and promotions criteria in the STEM.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>910EE9D9-506D-455F-A5C3-970160E9A8CD</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE Program at the University of Maryland Eastern Shore</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3E60005D-776C-40EE-B248-8E9BA988AA1F
+N:Johnson;Linda;null;;
+FN:Linda Johnson
+ORG:University of Maryland Eastern Shore
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-10-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>910EE9D9-506D-455F-A5C3-970160E9A8CD</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0547730</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

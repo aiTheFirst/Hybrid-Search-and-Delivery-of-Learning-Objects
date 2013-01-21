@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">In May, 2006, DePauw University received an HP Technology for Teaching grant to encourage the transformation of learning and teaching. A follow up grant was received in summer 2007 to build on the previous project. Dave Berque is using HP mobile technology to enhance introductory computer science courses by engaging students in collaborative problem solving activities that are enabled through HP Tablet PCs and DyKnow software tools. Collaborating with Terri Bonebright (Psychology), Carol Smith (Instructional Learning Services), Scott Thede (Computer Science), and undergraduate researchers, the group is using a multi-method evaluation approach to measure the impact of the project.
+
+The scope of the project has been extended beyond the initial proposal and the HP Tablet PCs have been used for formal course redesigns in Cognitive Psychology and Education Studies. Evaluation and dissemination activities have generated interest in using the granted equipment in multiple additional courses. In fact, in total the equipment has been used in 37 courses enrolling 616 students in 10 disciplines.
+
+This student-produced mini-documentary showcases some ways that students and faculty at DePauw University are using Tablet PCs and DyKnow software to enhance teaching and learning in multiple disciplines.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EC676534-F723-4EAE-8CD6-920DF04E7249</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">HP Technology for Teaching, tablet PCs, computer science, psychology, DyKnow, group work</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Enhancing Computer Science Courses (and Beyond) with HP Tablet PCs and DyKnow Software</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:54CDB1ED-A7C4-4AD6-825D-A58A0C458D64
+N:Berque;Dave;null;;
+FN:Dave Berque
+ORG:DePauw University;Computer Science Department
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E4F1F045-FB23-4FA8-A83D-21638DD6466C
+N:Bonebright;Terri;null;;
+FN:Terri Bonebright
+ORG:DePauw University;Psychology Department
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B179A446-B21E-49D3-A8D6-7C54706D2CDC
+N:Smith;Carol;null;;
+FN:Carol Smith
+ORG:DePauw University;Instructional Learning Services
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:525C30E7-7299-46C4-A5F6-BD48A1FB7D97
+N:Ingrid Burbey;;;;
+FN:Ingrid Burbey
+ADR;TYPE=work,postal,parcel:;;950 Shilo Way;Blacksburg;VA;;
+TEL;TYPE=work,voice:540/951-7710 (home)
+URL:www.filebox.vt.edu/users/iburbey
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EC676534-F723-4EAE-8CD6-920DF04E7249</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.cfkeep.org/html/snapshot.php?id=82870413533291</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

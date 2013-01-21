@@ -1,0 +1,1 @@
+"Although the model of Web service interoperability is straightforward, it introduces new development practices and methodologies that can be difficult to learn. However, it can be a short-lived hurdle if you recognize certain patterns to design issues."

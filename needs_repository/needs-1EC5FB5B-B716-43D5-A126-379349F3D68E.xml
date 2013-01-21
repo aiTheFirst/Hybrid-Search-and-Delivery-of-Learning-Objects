@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This website illustrates how and why NASA's Earth-orbiting satellites measure ocean productivity. Materials highlight key scientific research topics such as harmful algal blooms and ocean optics. This resource help teachers and students discover linkages among marine ecology, phytoplankton, the behavior of light at the ocean surface, and satellite derived ocean color data. Exercises and concepts are also keyed to nationally accepted K-12 science education content standards to facilitate classroom usage.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1EC5FB5B-B716-43D5-A126-379349F3D68E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Biological oceanography,Biology,Ecology,Physical oceanography,Physics</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">From the Top of the World...to the Bottom of the Food Web</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:73A445A4-FD50-4817-8758-BC4D065E74A4
+N:Bigelow Laboratory for Ocean Sciences,;;;;
+FN:Bigelow Laboratory for Ocean Sciences,
+ADR;TYPE=work,postal,parcel:;;P.O. Box 475;West Boothbay Harbor;ME;04575;
+TEL;TYPE=work,voice:207-633-9600
+TEL;TYPE=work,fax:207-633-9641
+URL:http://www.bigelow.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2002-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-06-12</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1EC5FB5B-B716-43D5-A126-379349F3D68E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.bigelow.org/foodweb/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

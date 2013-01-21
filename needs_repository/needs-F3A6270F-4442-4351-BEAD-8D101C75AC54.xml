@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Totally Amazing Careers in Science is a new biography series for middle school students.
+
+Each book features twelve engaging biographies of living scientists with a focus on female role models. 60% of the scientists are women.
+
+These remarkable scientists and engineers shared their stories and provided personal photographs. They describe what they do, how they got into it, and why they enjoy it.
+
+Next to each biography there are fun activities to do related to each career (crossword puzzles, word jumbles, things to wonder about). Each book conveys the excitement of science and the wide variety of science careers available. It also prompts young girls (and boys) to think about the things they like to do and the possibility of pursuing a career in science.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F3A6270F-4442-4351-BEAD-8D101C75AC54</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">science careers</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Totally Amazing Careers in Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1C02F4A3-41C7-4E53-B182-B05A15F32E65
+N:National Institute for women in Trades, Technology &amp; Science;;;;
+FN:National Institute for women in Trades, Technology &amp; Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:525C30E7-7299-46C4-A5F6-BD48A1FB7D97
+N:Ingrid Burbey;;;;
+FN:Ingrid Burbey
+ADR;TYPE=work,postal,parcel:;;950 Shilo Way;Blacksburg;VA;;
+TEL;TYPE=work,voice:540/951-7710 (home)
+URL:www.filebox.vt.edu/users/iburbey
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-06-26</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F3A6270F-4442-4351-BEAD-8D101C75AC54</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.womentechstore.com/sciencecareerbooks.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

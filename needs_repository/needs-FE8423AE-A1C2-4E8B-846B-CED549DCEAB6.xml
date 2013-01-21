@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Imagine the Universe is dedicated to discussion about the universe, how it is evolving, and the kinds of objects and phenomena it contains. This site is intended for students age 14 and up, and for anyone interested in learning about our universe. 
+
+This website provides explanations of the concepts and principles used to study and understand the universe, an exploration of some of the objects that make up the universe as well as the mysteries that astronomers and astrophysicists are currently working on, and a look at the tools and methods used by scientists to study the universe. There are a wide range of topics, including Active Galactic Nuclei,
+Astronomy,
+Binary Star Systems,
+Black Holes,
+Cataclysmic Variables,
+Comets,
+Cosmic Rays,
+Dark Matter,
+Diffuse Background,
+Earth,
+Galaxies,
+Gamma-ray Bursts,
+Gamma-ray Detectors,
+General Astronomy,
+Gravitational Waves,
+History of Gamma-ray, Astronomy,
+History of X-ray Astronomy,
+Infrared,
+Multiwavelength Astronomy,
+Neutron Stars,
+Pulsars,
+Quasars,
+Radio,
+Stars,
+Stellar Coronae,
+Sun,
+Supernova And Their Remnants,
+Ultraviolet,
+Visible,
+White Dwarfs,
+X-ray Astronomy,
+X-ray Binaries,
+X-ray Telescopes And Detectors,
+X-ray Transients.
+
+Each topic has related articles written for two levels of expertise and links to specific national standards for science and mathematics. The Teacher's Corner provides lesson plans and materials correlated to the National Standards for math and science teachers. Each month, the site features NASA news items and focus articles about NASA scientists, satellite data, instrument technology, celestial bodies, and movies related to the science of the Universe. Additional features include real satellite data, Ask a High Energy Astronomer, and links to other astronomy, physics, and science education information on the web.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>FE8423AE-A1C2-4E8B-846B-CED549DCEAB6</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Imagine the Universe</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9BC3A009-DB2D-4F1A-B2A5-8A082B2FF0BE
+N:NASA - National Aeronautics and Space Administration;Jim Lochner, High-Energy Astrophysics Science Archive Research;null;;
+FN:Jim Lochner, High-Energy Astrophysics Science Archive Research NASA - National Aeronautics and Space Administration
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-02-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>FE8423AE-A1C2-4E8B-846B-CED549DCEAB6</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://imagine.gsfc.nasa.gov/docs/homepage.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Academe Online, Feature Article, June 2009.
+
+We still haven't solved the problems that kept women out of science decades ago.
+
+Excerpt:
+"On January 14, 2005, Sue Rosser, one of this article's co-authors, was an invited speaker at a conference of the National Bureau of Economic Research at Harvard University. The same day, economist Lawrence Summers, who was then Harvard's president, delivered his now-infamous speech to the conference about why elite institutions have so few tenured women scientists and engineers on their faculties. His remarks fueled a national debate about women and science.
+
+Summers drew on anecdotes and popular but outdated science or pseudo-science to make three points about the paucity of women scientists and engineers: (1) women are unwilling or unable to work the eighty-hour weeks required for success in science at top-flight academic institutions; (2) innate or biological factors, not socialization, probably account for sex differences in mathematical aptitude and also for adult choices of fields of academic study and occupation; and (3) discrimination, which he defined as a ï¿½tasteï¿½ for hiring people like oneself, does not exist in academia, because market forces eliminate it when less elite institutions hire highly qualified women and minorities, thereby gaining a competitive advantage."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>89D32770-09E1-4782-927F-531D59F5A5FA</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, academic women, tenure, promotion, family-friendly, work-life balance, policy</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Why Are We Still Worried about Women in Science?</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FA759F6C-4C47-47FF-86CE-07313397BE2A
+N:Rosser;Sue;null;;
+FN:Sue Rosser
+ORG:San Francisco State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E8C10EB4-DF40-4C54-AFDC-138998CCE8F1
+N:null;null;null;;
+FN:Mark Zachary Taylor
+ORG:Georgia Tech University;International Affairs
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>89D32770-09E1-4782-927F-531D59F5A5FA</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.aaup.org/AAUP/pubsres/academe/2009/MJ/Feat/ross.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

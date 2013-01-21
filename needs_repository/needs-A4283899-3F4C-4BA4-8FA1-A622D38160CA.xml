@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract - An interdisciplinary team from Loyola College in 
+Maryland's departments of Engineering, Physics, Computer 
+Science, and Writing and Media has created the Internet 
+Science Institute; a project to use the Web to make lab-based 
+learning attractive and accessible. Part of the project's core 
+philosophy is to teach science by having students participate 
+in the scientific method. The first of a series of planned 
+modules has been developed to test such fundamental issues 
+as Web usability, the incorporation of multimedia, overall 
+module and site structure, and learning effectiveness. The 
+topic of the first module is the motion of the pendulum and 
+the structure that we used guides students through three 
+levels of experience. The first is a "hands-on" lab that 
+utilizes readily available materials.  A more "refined" lab 
+experience then layers on more detail to the phenomena 
+under discussion, and focuses on data acquisition, test and 
+measurement issues. The final section of the module is based 
+on mathematical models and simulations (JAVA applets) and 
+conceptually focuses on the most sophisticated aspects of the 
+phenomena or their broader application.  
+These modules are part of a larger Web site, the 
+Internet Science Institute, which is planned to incorporate 
+many other Web and local resources, such as electronic 
+bulletin boards and cataloged resources. With this "layered" 
+approach to the learning modules we hope to achieve 
+maximal effectiveness and usability across a broad spectrum 
+of a potential audience both at Loyola College and in the 
+wider education community. For example, the approach is 
+flexible enough so that a middle school student could learn 
+what parameters govern a pendulum's period and a college 
+or even graduate student could explore the Web materials 
+and links on non-linear dynamics, differential equations, and 
+chaos. We are especially interested in bringing such 
+experiences in science learning to non-science college 
+majors.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A4283899-3F4C-4BA4-8FA1-A622D38160CA</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Learning science by doing science on the Web</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:02A8496D-F016-4531-B04A-6675773A5BB5
+N:Sapnar;Megan;null;;
+FN:Megan Sapnar
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:54753179-F0ED-4A44-B6BC-2312CB7A802B
+N:Keilson;Suzanne;null;;
+FN:Suzanne Keilson
+ORG:Loyola College;College Arts and Sciences
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D032CB5C-4AE9-4803-BB19-2C7F8F940480
+N:King;Elliot;null;;
+FN:Elliot King
+ORG:Loyola College;Digital Media Lab
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3EA63ECE-9058-4C65-B5F1-23F66CEC31ED
+N:Jonathan Yu;;;;
+FN:Jonathan Yu
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A4283899-3F4C-4BA4-8FA1-A622D38160CA</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://fie.engrng.pitt.edu/fie99/papers/1261.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

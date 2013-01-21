@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Because arguments based on atomic orbitals focus on the bonds formed between valence electrons on an atom, they are often said to involve a valence-bond theory.
+
+The valence-bond model can't adequately explain the fact that some molecules contains two equivalent bonds with a bond order between that of a single bond and a double bond. The best it can do is suggest that these molecules are mixtures, or hybrids, of the two Lewis structures that can be written for these molecules.
+
+This problem, and many others, can be overcome by using a more sophisticated model of bonding based on molecular orbitals. Molecular orbital theory is more powerful than valence-bond theory because the orbitals reflect the geometry of the molecule to which they are applied. But this power carries a significant cost in terms of the ease with which the model can be visualized. "</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>742D6DD5-987D-4C42-9C2B-2C9542F79C74</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Molecular Orbital Theory</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5928728B-D24D-44AE-9EBB-3A5083C6A792
+N:Purdue University College of Science;;;;
+FN:Purdue University College of Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-11-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:326EC3A8-643D-4ACE-A856-9E0988B9466D
+N:Kyle Criner;;;;
+FN:Kyle Criner
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-11-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>742D6DD5-987D-4C42-9C2B-2C9542F79C74</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://chemed.chem.purdue.edu/genchem/topicreview/bp/ch8/mo.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

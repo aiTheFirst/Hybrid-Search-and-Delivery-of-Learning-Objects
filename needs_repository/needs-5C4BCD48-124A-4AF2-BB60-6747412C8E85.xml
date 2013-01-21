@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The National Science Foundation (NSF) along with the journal Science, published by the American Association for the Advancement of Science (AAAS), today announced the winners of their sixth annual International Science &amp; Engineering Visualization Challenge.
+
+The winning entries included breathtaking photographs and graphics that reveal intricate details of our world--the three-dimensional path made by a rapidly spinning string cutting through space and the unique anatomy of the half-meter-long Loligo pealei squid whose tiny suckers are 400 micrometers in diameter.
+
+"I wanted to reveal the tiny world we trample through, creating scenes that at first glance are parallel to our macroscopic world, until you look a little closer," said Colleen Champ, a first-place winner with Dennis Kunkel in the Informational Graphics category. "The 'Mad Hatter's Tea' is one scene from many, depicting a quote from the fanciful mind of Lewis Carroll," she added. This scene will be featured on the cover of the Sept. 26, 2008, issue of Science.
+
+Illustrators, photographers, computer programmers and graphics specialists from around the world were invited to submit visualizations that would intrigue, explain and educate. More than 180 entries were received from 21 countries."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5C4BCD48-124A-4AF2-BB60-6747412C8E85</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">visualization</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF Press Release - 2008 Science and Engineering Visualization Challenge Winners Announced</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:40A27DDE-8DFA-46A4-8156-A661715303B5
+N:National Science Foundation - NSF;;;;
+FN:National Science Foundation - NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5C4BCD48-124A-4AF2-BB60-6747412C8E85</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/news/news_summ.jsp?org=NSF&amp;cntn_id=112304&amp;preview=false</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

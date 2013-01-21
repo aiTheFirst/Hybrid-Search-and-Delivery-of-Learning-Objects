@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"A residential summer program, the New Experiences for Women in Science and Technology (Newton) Academy, was developed to encourage high school girls' interest in the physical sciences and engineering. The goal of the Newton Academy was to increase and/or maintain interest and participation in the physcial sciences among high school girls. This study, part of a larger evaluation of the academy, reports the results of a fellow-up of the 1998 Newton Academy participants 1 year after participation. It focuses on the participants' interests in the physical sciences and related careers as measured by the Strong Interest Inventory before and 1 year after participation. The results of participant interviews conducted to further illuminate the findings from the quantitative data are also presented."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C62CE1A9-2348-48B1-A9F4-93C45BCB0C2B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">science, technology, women, girls, engineering, peer attitudes, African American, Hispanic, female, gender differences, meta-analysis, mathematics, careers, career interest, quantitative measures, role models, team-building sessions, follow-up assessments, male, pretest, posttest, interviews, career influences, analysis of interview data, career-related activities.</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Science career interests among high school girls one year after participation in a summer science program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E3696A01-D1FF-4342-A908-AE473F2FC175
+N:null;null;null;;
+FN:K. A. Phillips
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CCEDFDD8-1288-4684-A6B7-A76369E6CEA4
+N:null;null;null;;
+FN:L. H. Barrow
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:01C449DA-F550-40FA-B286-750D0278057B
+N:Chandrasekhar;M.;null;;
+FN:M. Chandrasekhar
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9C1E56CD-3E36-4FB4-9B4F-7C9D4B5327FD
+N:Eric Eisinger;;;;
+FN:Eric Eisinger
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-07-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C62CE1A9-2348-48B1-A9F4-93C45BCB0C2B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.begellhouse.com/journals/00551c876cc2f027,63f2c7ea525fea21,0dd3339a63a6c9df.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

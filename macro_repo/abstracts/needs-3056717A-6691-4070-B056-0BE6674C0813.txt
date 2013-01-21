@@ -1,0 +1,22 @@
+Manual published by the U.S. Army Corps of Engineers (USACE). This manual is organized into the following Chapters, each downloadable in PDF format:
+
+Transmittal Letter
+Table of Contents
+Acknowledgments
+Abstract
+Chapter 1 - Introduction and Process Capabilities
+Chapter 2 - Planning and Technical Assessment (File size: 1.3 MB.)
+Chapter 3 - Field Investigations (File size: 1.1 MB.)
+Chapter 4 - Slow Rate Process Design (File size: 3.6 MB.)
+Chapter 5 - Rapid Infiltration Process Design (File size: 1 MB.)
+Chapter 6 - Overland Flow Process Design (File size: 1.6 MB.)
+Chapter 7 - Small Systems (File size: 1.6 MB.)
+Chapter 8 - Energy Requirements and Conservation (File size: 1.3 MB.)
+Chapter 9 - Health and Environmental Effects
+Appendix A - Slow Rate Design Example
+Appendix B - Rapid Infiltration Design Example
+Appendix C - Overland Flow Design Example
+Appendix D - Location of Land Treatment Systems
+Appendix E - Distribution System Design for Slow Rate (File size: 3.7 MB.)
+Appendix F - Estimated Storage Days for Land Treatment Using EPA Computer Programs
+Appendix G - Glossary of Terms/Conversion Factors

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The pipeline for women and minorities entering CS/IT is shrinking. Using a combination of multimedia e-learning and mentoring, we seek to widen the pipeline in both first year college courses and grades 7-12. We are developing multimedia that complements a new first semester Computer Science (CS0) textbook. For grades 7-12, we plan to establish outreach teams consisting of undergraduate and graduate student Teaching Fellows, teachers and administrators, faculty members, and industry professionals. This year, two outreach teams will adapt multimedia designed for CS0 for use in middle schools. Preliminary results show that the multimedia promotes learning of Java programming "objects first," for both undergraduates and high school students. One outreach team will adapt these Java materials for use in a high school. Another team will adapt multimedia introducing the field of CS for use in a middle school, seeking to clear up common misconceptions about Computer Science."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1564DF72-91E7-4095-A69C-956725D63E34</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">pipeline, women, minorities, e-learning, CS0, computer science, programming, attract, retain, mentoring, role models, CIMEL, community, underrepresented, middle school, high school</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Multimedia for computer science: from CS0 to grades 7-12</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:623A31F9-37CD-4BFC-A819-8ADF2975604A
+N:null;null;null;;
+FN:G. D. Blank
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9D377630-72E0-40B0-BF28-525EC72ECE18
+N:null;null;null;;
+FN:W. M. Pottenger
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C29B87F1-480A-4F5D-8D75-B3C4DF4607C4
+N:Sahasrabudhe;S.;null;;
+FN:S. Sahasrabudhe
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7A9D0CD2-C0B6-4BF5-A8DC-1A50C92F40E8
+N:Li;S.;null;;
+FN:S. Li
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5D9511A1-0C71-4D11-A8C4-E38013334290
+N:Wei;F.;null;;
+FN:F. Wei
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2D98124E-4297-4A9B-8B20-A75A075775D4
+N:Odi;H.;null;;
+FN:H. Odi
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9C1E56CD-3E36-4FB4-9B4F-7C9D4B5327FD
+N:Eric Eisinger;;;;
+FN:Eric Eisinger
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-07-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1564DF72-91E7-4095-A69C-956725D63E34</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.cse.lehigh.edu/~cimel/papers/EdMedia03.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

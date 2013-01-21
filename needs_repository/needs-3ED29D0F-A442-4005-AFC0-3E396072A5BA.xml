@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Academe Online Feature Article, 2009.
+
+Excerpt:
+
+"The University of Maryland Baltimore County has a winning strategy for encouraging students of color to pursue careers in science.
+
+In the late 1980s, the University of Maryland Baltimore County launched a major initiative to find out why more students were not succeeding in science, technology, engineering, and mathematicsknown collectively as the STEM disciplines despite the universitys long-standing commitment to those fields. A review of student data revealed that the performance of African American students in particular was substantially below that of white and Asian students. So we convened focus groups made up of students, faculty, and staff to learn more about student underperformance, and we followed up with meetings among department chairs and faculty to consider strategies for supporting students better.
+
+We recommended several measures: encouraging group study; strengthening tutorial centers; having faculty give students feedback early in the semester; raising admission standards; helping students appreciate how much time and effort are required to be successful; and enhancing the firstyear experience by, for example, improving orientation and explaining how to succeed as students."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3ED29D0F-A442-4005-AFC0-3E396072A5BA</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">underrepresented minoritiesl African Americans, Hispanics, American Indians, Alaska Natives,  Native Hawaiians, Pacific Islanders, policy, retention, recruitment, mentoring</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Change Institutional Culture, and You Change Who Goes into Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6B5E848A-F833-4D9B-A237-0F945F306BC2
+N:null;null;null;;
+FN:Freeman  Hrabowski
+ORG:University of Maryland, Baltimore County
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:521E20AF-E827-47AB-9C13-39C0D16D95C2
+N:null;null;null;;
+FN:Kenneth  Maton
+ORG:University of Maryland, Baltimore County;Psychology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3ED29D0F-A442-4005-AFC0-3E396072A5BA</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.aaup.org/AAUP/pubsres/academe/2009/MJ/Feat/hrab.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

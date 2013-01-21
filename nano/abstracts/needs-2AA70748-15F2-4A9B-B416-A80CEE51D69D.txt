@@ -1,0 +1,11 @@
+This web-based software teaches the user concepts about nanotechnology and nanocomputers. A nanometer is a billion of a meter and spans approximately 10 atomic diamters.  Nanotechnology is the technology for designing and applying &quot;nanosystems.&quot; The software is broken down in the following sections:
+- Tutorial Introduction
+- Guide to Selected Introductory Information from the Web
+- Tutorial Introduction
+- What are Nanotechnology &amp; Nanocomputers?
+- Proposed Technologies for Future Nanocomputers    The software features information on the following topics:
+- Overview of Nanoelectronics 
+- Overview of Quantum Dots 
+- Overview of Molecular-Scale Electronics
+- Feature Article on Nanoelectronics from High Technology Careers Magazine
+- Overview of Nanoelectronics on Texas Instruments Corp

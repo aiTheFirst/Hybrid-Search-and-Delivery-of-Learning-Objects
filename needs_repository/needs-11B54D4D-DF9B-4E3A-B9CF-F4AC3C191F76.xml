@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">Though useful for reference, this site is best as a science "free-for-all."  Used, possibly, for students that have finished work early, or in small groups, working on any of the on-line activities.  Webcasts could be used in classrooms as supplements to regular lessons.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The home page of one of the greatest science learning museums in the United States.  High quality, on-line activities, science news, and essays.  
+* Origins - Exploring CERN, the worlds largest particle accelerator
+* Live webcasts - lectures, experiments, collection of archived webcasts
+* The Brain explorer - activites exploring perception
+* Science wire - news articles on latest science
+* The Learning studio - interactive exhibits, and activities
+* Observatory - astronomical information
+* Sport science - science concepts using sports examples
+* Solar max - a page dedicated to the sun (and 2000's solar maximum)</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>11B54D4D-DF9B-4E3A-B9CF-F4AC3C191F76</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">science museums, science activities, science education, astronomy, biology, perception, particle accelerators</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Exploratorium: the museum of science, art, and human perception</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9A342E9F-3E02-409F-A78D-A297AD945AC4
+N:The Exploratorium;webmaster at;null;;
+FN:webmaster at The Exploratorium
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E33EB54C-41E6-4CD0-8F3F-9EB6185F660C
+N:The Exploratorium;;;;
+FN:The Exploratorium
+ADR;TYPE=work,postal,parcel:;;3601 Lyon StreetSan Francisco, CA94123;;;;
+TEL;TYPE=work,voice:415-563-7337
+PHOTO;VALUE=uri:http://www.exploratorium.edu/images/menu/cherrios/oh03.jpg
+URL:http://www.exploratorium.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-03-23</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-03-23</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>11B54D4D-DF9B-4E3A-B9CF-F4AC3C191F76</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.exploratorium.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

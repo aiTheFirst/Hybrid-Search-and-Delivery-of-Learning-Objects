@@ -1,0 +1,6 @@
+Website for course on solving problems.  "The domain of problems is restricted to those whose solutions require writing a computer program in C++ or Java. But some of the problem-solving skills transcend the domain.
+
+One goal for those attending and doing problems is to recognize how to solve a variety of problems such as those encountered in programming contests. Another goal is to be able to implement solutions once the solution is recognized.
+
+In general this course is intended for those already knowledgeable about programming. 
+One goal is to prepare three-person teams to compete in the annual ACM programming contest which is definitely a team contest. Teams compete in the fall to earn the right to travel to the world finals. Duke has sent a team to the world finals from 1994 to 2006 except in 1996, so in twelve out of thirteen years since. The finals have been held in Vancouver, Bevery Hills, Prague, Orlando, Honolulu, Shanghai, the Netherlands in the past seven years."

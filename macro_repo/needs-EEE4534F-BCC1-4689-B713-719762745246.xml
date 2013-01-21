@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract:
+"The Technology Innovation Program (TIP) is a cooperative
+educational venture between the Department of Chemical Engineering
+and the School of Business at Queenâs University at
+Kingston, Canada. First incorporated into the curriculum of senior
+year business and chemical engineering students in the 1994-
+1995 school year, TIP provides an invaluable opportunity for these
+students to work together in multi-disciplinary teams on real projects
+for industry clients. An academically rigorous exercise, TIP
+uses non-traditional instructional means such as problem-based
+learning, multi-disciplinary teams, and self-directed project work
+to create a learning environment paralleling that of the professional
+engineer or business person. Although it is still evolving, the
+Technology Innovation Program provides a model for other educational
+ventures seeking to bridge engineering and business, and
+to establish valuable links between the university and industry,
+while simultaneously easing the graduating studentâs transition
+into the workplace."
+&lt;citation>Barrie Jackson, John R. Gordon, James D. Chisholm; A learning experience: The technology innovation program; Journal of Engineering Education; 85; 4; 309-315; 1996&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EEE4534F-BCC1-4689-B713-719762745246</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">A learning experience: The technology innovation program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0D6A400F-2921-4D52-BE22-A0DF32171EE1
+N:Chisholm;James D.;null;;
+FN:James D. Chisholm
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-05-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DE360E56-51EE-46B9-9CBF-5DA1049E8856
+N:Jackson;Barrie;null;;
+FN:Barrie Jackson
+ORG:Queens University;School of Business
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-05-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:88C08E3A-0918-4FC4-AEE8-9D2E04E71A65
+N:Gordon;John R.;null;;
+FN:John R. Gordon
+ORG:Queens University;School of Business
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EEE4534F-BCC1-4689-B713-719762745246</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.asee.org/publications/jee/PAPERS/display.cfm?pdf=214.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

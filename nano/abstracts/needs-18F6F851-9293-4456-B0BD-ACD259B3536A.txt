@@ -1,0 +1,8 @@
+Introduction to nanoscience with subtopics: Nanoscale
+B - Why Nano Properties
+C - Science Basics	
+D - Visualization
+E - The Nano Paradigm.
+"Nanoscience refers to anything which has the characteristic size of its defining property as nanometer-ish or from 0.1 nm to 100 nm. This range refers to the atomic and molecular domain, which is where the nanoscience action is. To understand nanotechnology, one must understand the basic science behind nanotechnology and why properties change at the nanoscale. Being able to visualize the nanoscale is important, but to really understand the advantage of nanotechnology check out the nano paradigm."
+
+Caption: Nanoscale refers to phenomena in which one or more dimensions are of a molecular (nanometer) size. "Nano" means one billionth of, in length scales, a meter, or "human" scale.

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">Los Alamos National Laboratory's library staff have assembled a fine collection of reference material in the earth sciences.  Though many of the databases and journals have restricted or limited use, many of the other links are fine reference tools for those researching earth science topics.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This site contains many earth science related resources available online.  They include: 
+* Electronic journals (mostly available at LANL only but citations for some are available)
+* Databases and Indexes
+* Book Series
+* Illustrated Glossary of Geoogic Terms (an excellent glossary with continuing updates for images)
+* AGI Directory
+* Association for Women Geoscientists
+* Digital Elevation Data Catalogue
+* Global Change Master Directory
+* American Water Works Association White Papers
+* National Archive of Geological Photographs (British Geological Survey)
+* Virtual Geomorphology (an electronic textbook)
+with many more available sorted by subject:
+* Cartography
+* Earthquakes
+* Geophysics
+* Global Change
+* Hydrology
+* Mineralogy
+* Modelling
+* Natural Hazards
+* Oil and Gas
+* Ozone
+* Remote Sensing
+* Solid Waste
+* Volcanology
+* Weather, Meteorology &amp; Climate</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8C11BFA4-03EA-4B70-99DB-CDD1C2A36EE4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Earth sciences, reference tools, cartography, earthquakes, geophysics, global change, hydrology, mineralogy, modelling, natural hazards, oil, gas, ozone, remote sensing, solid waste, volcanology, climate, weather</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Los Alamos National Laboratory: Earth Sciences Library Resources</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C97347C5-8659-4B86-A6C0-267035E38992
+N:Los Alamos Natinal Laboratory Research Library;Reference Librarian;null;;
+FN:Reference Librarian Los Alamos Natinal Laboratory Research Library
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:320C71DA-7E36-4D84-9D75-43C6DCEB2796
+N:Los Alamos Natinal Laboratory Research Library;;;;
+FN:Los Alamos Natinal Laboratory Research Library
+ADR;TYPE=work,postal,parcel:;;MS-P362PO Box 1663Los Alamos, NM  87545-1362;;;;
+TEL;TYPE=work,voice:505-667-4448
+URL:http://lib-www.lanl.gov/fancy-index.htm
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-03-21</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-04-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8C11BFA4-03EA-4B70-99DB-CDD1C2A36EE4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://lib-www.lanl.gov/infores/geo/geo.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

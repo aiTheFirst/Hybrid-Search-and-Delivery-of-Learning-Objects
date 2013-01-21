@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This web-based software teaches the user concepts about materials science. The software contains several topics ranging from a three-body problem to a vortex core states in superconductors. Material Science contains examples, and questions to help the user learn about the topics. The software covers the following topics:
+- Jupiter! The Three-Body Problem
+- Order Parameters, Broken Symmetry
+- Topology 
+- LASSPTools 
+- The Ising Model
+- Waves, Optics, and Particles Coarsening. 
+- Crackling Noise
+- Hysteresis, the return-point memory effect, and avalanche distributions    The software contains information on the following topics:
+- Precursors to martensitic phase transitions
+- Melting a copper cluster 
+- Layer-by-Layer Forever 
+- Elastic Theory has Zero Radius of Convergence 
+- Electromigration and Voids. 
+- Double Jumps: Altered Arrhenius Laws. 
+- Frustrated nonlinear sigma model of metallic glasses 
+- Elastic dipole model explaining universal low-temperature properties 
+- Zero temperature entropy distributions at slow cooling rates 
+- Slow relaxation in frustrated Ising and Frenkel-Kontorova systems 
+- Scaling theory of the liquid-to-glass transition 
+- Slow relaxation in the Griffiths phase in spin glasses 
+- Spin glasses on a Bethe lattice 
+- Sliding of charge-density waves 
+- Structure of the blue phases as networks of disclination lines 
+- Ideal blue phase template on the surface of a sphere in four dimensions 
+- Quasicrystalline model for the blue fog phase 
+- Defect theory of the rippled P-beta' phase of lyotropic smectics 
+- Boojums in chiral smectic liquid crystal films 
+- Instanton methods applied to defect tunneling in the presence of phonons 
+- Photoinduced soliton pair formation in polyacetylene 
+- Statistics of the quasiparticles in the RVB state 
+- Cusps in Inhomogeneous Broadening: Level Repulsion and Dirt 
+- Atomic Tunneling from a STM/AFM Tip 
+- Vortex core states in superconductors 
+- Ground state of an interacting anyon system
+This courseware was originally cataloged at http://www.my-edu2.com/eduframe.htm.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4835C990-5C1D-4604-B0FF-3FD668AA71DD</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Material Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:40D11E25-FA9B-4A23-AA75-79FB116F2017
+N:Sethna;James;null;;
+FN:James Sethna
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:299ED280-F07D-4146-9DD5-AD95E986E8CC
+N:Cornell University;;;;
+FN:Cornell University
+ADR;TYPE=work,postal,parcel:;;Cornell UniversityInformation and Referral CenterDay Hall LobbyIthaca, NY 14853-2801 USA;;;;
+PHOTO;VALUE=uri:http://www.info.cornell.edu/CUHomePage/images/banner.gif
+URL:http://www.cornell.edu
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1999.03.02</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-09-10</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4835C990-5C1D-4604-B0FF-3FD668AA71DD</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.lassp.cornell.edu/sethna/sethna.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

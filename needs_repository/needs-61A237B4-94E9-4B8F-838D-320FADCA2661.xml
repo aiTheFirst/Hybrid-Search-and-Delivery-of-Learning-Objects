@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A Report on its Review of Undergraduate Education
+                               by
+                  the Advisory Committee to the
+                  National Science Foundation
+          Directorate for Education and Human Resources.
+Under the auspices of the Education and Human Resources (EHR)
+Directorate of the National Science Foundation (NSF), a committee
+of the Advisory Committee to EHR has conducted an intensive review
+of the state of undergraduate education in science, mathematics,
+engineering, and technology (SME&amp;T) in America.  The purpose of
+this review was to "consider the needs of all undergraduates
+attending all types of U.S.  two- and four-year colleges and
+universities," addressing "issues of preparation of K-12 teachers
+in these fields, the needs of persons going into the technical work
+force, the preparation of majors in these areas, and the issue of
+science literacy for all." [Reference 1; list following Executive
+Summary]
+
+This is the final report of the committee, which was to be "action
+oriented, recommending ways to improve undergraduate education in
+SME&amp;T ...  not just to the NSF but, as appropriate, to mission-
+oriented Federal agencies, business and industry, academic institu-
+tions and their faculties and administrations, professional
+societies, private sector organizations, state and local govern-
+ment, and to other stakeholders in undergraduate education."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>61A237B4-94E9-4B8F-838D-320FADCA2661</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Shaping the Future: New Expectations for Undergraduate Education in Science, Technology, Engineering, and Mathematics (1996)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FA6C9878-2105-475E-807C-63D4D8882C72
+N:NSF;National Science Foundation;null;;
+FN:National Science Foundation NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>61A237B4-94E9-4B8F-838D-320FADCA2661</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.nsf.gov/pubs/stis1996/nsf96139/nsf96139.txt</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

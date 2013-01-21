@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This National Academies study presents new and surprising findings about career differences between female and male full-time, tenure-track, and tenured faculty in science, engineering, and mathematics at the nation's top research universities. Much of this congressionally mandated book is based on two unique surveys of faculty and departments at major U.S. research universities in six fields: biology, chemistry, civil engineering, electrical engineering, mathematics, and physics. A departmental survey collected information on departmental policies, recent tenure and promotion cases, and recent hires in almost 500 departments. A faculty survey gathered information from a stratified, random sample of about 1,800 faculty on demographic characteristics, employment experiences, the allocation of institutional resources such as laboratory space, professional activities, and scholarly productivity.
+
+This book paints a timely picture of the status of female faculty at top universities, clarifies whether male and female faculty have similar opportunities to advance and succeed in academia, challenges some commonly held views, and poses several questions still in need of answers. This book will be of special interest to university administrators and faculty, graduate students, policy makers, professional and academic societies, federal funding agencies, and others concerned with the vitality of the U.S. research base and economy.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4B53C160-D8A0-4675-B36F-EFE28D84B316</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, academic women, tenure, promotion</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Gender Differences at Critical Transitions in the Careers of Science, Engineering, and Mathematics Faculty</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:76089906-5127-4172-A3B6-F2247E540E88
+N:Committee on National Statistics (CNSTAT), National Academies;;;;
+FN:Committee on National Statistics (CNSTAT), National Academies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CD33BD7E-085A-46F3-BE34-18554DD792AE
+N:Policy and Global Affairs (PGA), National Academies;;;;
+FN:Policy and Global Affairs (PGA), National Academies
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3247A68C-3DCD-4F7B-9BFE-63B8F298082A
+N:Behavioral and Social Sciences and Education (DBASSE);;;;
+FN:Behavioral and Social Sciences and Education (DBASSE)
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-12</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4B53C160-D8A0-4675-B36F-EFE28D84B316</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nap.edu/catalog.php?record_id=12062#description</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

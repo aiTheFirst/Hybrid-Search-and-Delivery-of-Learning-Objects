@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Third World Organization for Women in Science (TWOWS) is an independent,         non-profit and non-governmental body based at the offices of the Third         World Academy of Sciences (TWAS) in Trieste, Italy. 
+
+The idea of setting up a third world organization for women in science         was first discussed at the "Conference on the Role of Women in the         Development of Science and Technology in the Third World" which was         convened by TWAS and the Canadian International Development Agency (CIDA)         in Trieste from 3 to 7 October 1988. The participants of the conference         -- including 218 leading women scientists from 63 developing 
+
+countries -- recommended that a study group be set up to explore the possibility         of creating the organization.          The group was subsequently formed, and at         its meeting in Trieste from 20 to 22 March 1989 it decided to establish         the Third World Organization for Women in Science and to adopt a constitution         for the organization. 
+
+TWOWS was officially launched in Cairo, Egypt, on the occasion of its First          General Assembly, a         major conference convened by TWOWS from 10 to 13 January 1993 and generously         supported by the Kuwait Foundation for the Advancement of Sciences (KFAS). The          Second General Conference in Cape Town, South Africa, in 1999 was generously hosted by the Foundation for Research          Development (FRD) and the Department of Arts, Culture and Science &amp; Technology of          South Africa (DACST). 
+
+TWOWS is the first international forum to unite eminent women scientists         from the South with the objective of strengthening their role in the development         process and promoting their representation in scientific and technological         leadership. Gender Equity</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C25E9801-E2BC-409B-AF8A-90B9D2B301A6</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">other</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Third World Organization for Women in Science-Website</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3425DAC0-2F6F-4BCC-84DA-796974E04859
+N:Third World Organization for Women in Science;(TSOWS);null;;
+FN:(TSOWS) Third World Organization for Women in Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-07-31</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C25E9801-E2BC-409B-AF8A-90B9D2B301A6</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.mentornet.net/Documents/Files/Techknowledge.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

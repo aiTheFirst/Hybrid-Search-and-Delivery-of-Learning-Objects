@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Attributes>
+    <Attribute>
+        <Name>title</Name>
+        <Value>Structural Engineering Java Applet</Value>
+    </Attribute>
+    <Attribute>
+        <Name>description</Name>
+        <Value>The name of this applet is Inertia.class. It calculates moment of inertia, section modulus, radius of gyration, and other section properties of rectangular, I, and composite sections. These section properties are needed for design of steel, concrete, and timber structures. The composite sections are often used in bridge structures. The composite I section shown on the blue screen of the applet, consists of two parts the top slab and the I section. The top slab is usually made of cast in place, precast, prestressed concrete or timber. The I section is usually made of steel, cast in place, precast, or prestressed concrete or ti</Value>
+    </Attribute>
+    <Attribute>
+        <Name>content_language</Name>
+        <Value>fr</Value>
+    </Attribute>
+    <Attribute>
+        <Name>format</Name>
+        <Value>video/mpeg</Value>
+    </Attribute>
+    <Attribute>
+        <Name>requirement</Name>
+        <Value>color monitor</Value>
+    </Attribute>
+    <Attribute>
+        <Name>other_platform_requirement</Name>
+        <Value>windows,office</Value>
+    </Attribute>
+    <Attribute>
+        <Name>duration</Name>
+        <Value>500</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_type</Name>
+        <Value>mixed</Value>
+    </Attribute>
+    <Attribute>
+        <Name>intended_user_language</Name>
+        <Value>en-US</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_level</Name>
+        <Value>5</Value>
+    </Attribute>
+    <Attribute>
+        <Name>context</Name>
+        <Value>any</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_min</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_max</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>difficulty</Name>
+        <Value>5</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_learning_time</Name>
+        <Value>900</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_concept_and_discipline</Name>
+        <Value>electrical engineering</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_skilllevel_prerequisite</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_idea_discipline</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>intended_end_user_role</Name>
+        <Value>student</Value>
+    </Attribute>
+</Attributes>

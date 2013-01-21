@@ -1,0 +1,1 @@
+Publisher-endorsed, free on-line version of the popular textbook (publ. MIT Press) on beginning computer programming. Uses the Scheme language and concrete "design recipes".

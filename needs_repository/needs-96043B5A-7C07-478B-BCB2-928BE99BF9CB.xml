@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This is a very good set of lessons all around the earth sciences.  "Following are Earth Science lessons Scott Johnson  an
+elementary school teacher in Lincoln Elementary in Grand Forks, has developed. These lessons
+are geared toward and tested by 5-8 grade students."  These are very good, all designed in the same manner so interface confusion should be minimal, and allows students to proceed at their own pace. 
+Chapter 1, Plate tectonics 
+	includes 3 large lessons, with many sections 
+	for teacher and student use
+Chapter 2, Earthquakes and Volcanoes
+	3 large lessons with same types of materials 		available
+Chapter 3, cones, eruptions and pyroclasts
+	3 large lessons with same types of materials 		available
+Chapter 4, Rockes and minerals
+	5 lessons
+Chapter 5 Prehistoric Earth
+	1 lesson</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>96043B5A-7C07-478B-BCB2-928BE99BF9CB</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Earth sciences, Volcanology, earthquakes, plate tectonics, earth sciences,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Earth Science Lessons</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0DB5AA23-18DA-419A-AD18-6DDC2A3ED9CB
+N:Johnson;Scott;;;
+FN:Scott Johnson
+ORG:Lincoln Elementary School
+PHOTO;VALUE=uri:http://volcano.und.nodak.edu/vwdocs/vwteam/sjohnson.jpg
+URL:http://volcano.und.nodak.edu/vwdocs/vwteam/sjohnson.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9715251F-FC3A-4BF5-84B2-3603BE733076
+N:Volcano World;;;;
+FN:Volcano World
+ADR;TYPE=work,postal,parcel:;;n/a;;;;
+PHOTO;VALUE=uri:http://volcano.und.nodak.edu/pics/frontpage/front.jpg
+URL:http://volcano.und.nodak.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-03-07</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-03-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>96043B5A-7C07-478B-BCB2-928BE99BF9CB</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://volcano.oregonstate.edu/vwdocs/vwlessons/lessons/lesson.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

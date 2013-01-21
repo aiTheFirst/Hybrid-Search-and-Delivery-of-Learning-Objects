@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Goals:
+The University of South Dakota (USD), partnering with Sinte Gleska University (SGU) and the U.S. Geological Survey?s Center for Earth Resources Observation and Science (EROS), proposes to engage more Native Americans in computing through the Getting American Indians to Information Technology (GAIN-IT) project. The project will focus on the Lakota people of the Rosebud Indian Reservation and it will implement and test a a range of mechanisms to increase their participation in computing. The project will develop and implement a community-based summer camp for families to provide them with opportunities to explore context-based computing activities focused on Lakota language skills development and land resources exploration. In addition, it will provide a summer background preparation program (with school-year follow-up) for high school students to prepare them for computing majors in college, a computing-major readiness program for SGU freshmen and sophomore students, distance-education and web-based USD computing courses to help SGU students complete undergraduate degrees in computing, a 3-2 B.S./M.S. transfer program in computing for SGU students, and a faculty development program for SGU faculty members to obtain master?s and/or Ph.D. degrees in computing at USD.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>211EDEE6-331E-4ACD-BBD3-48108CA66DF9</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">BPC-NSF, BPC-DP</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: Getting American Indians to Information Technology (GAIN-IT)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:AE0456F6-F946-4F3D-A7B9-8A9650349E44
+N:Asaithambi;Asai;null;;
+FN:Asai Asaithambi
+ORG:University of South Dakota
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7156783E-54F5-4E13-9894-07BAF0C920A6
+N:Struckman-Johnson;David;null;;
+FN:David Struckman-Johnson
+ORG:University of South Dakota
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CCB70594-A589-421E-8B26-6298F1974623
+N:null;null;null;;
+FN:Douglas R. Goodman
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E2207ECD-BCC0-4ED2-9AB6-FB3D7CC64F78
+N:null;null;null;;
+FN:Robert W. Wood
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BE7013B6-6D26-40B8-9EF3-A16FBBA20B90
+N:BPC Admin;;;;
+FN:BPC Admin
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-10-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>211EDEE6-331E-4ACD-BBD3-48108CA66DF9</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0739320</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

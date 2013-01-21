@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">MentorNet (www.MentorNet.net), the E-Mentoring Network for Women in Engineering and Science, is a nonprofit organization which has created and implemented the organizational, educational, and technical infrastructures for a large-scale
+program to link women studying engineering and related sciences and professionals working in industry or government for
+structured, supported online mentoring relationships, and related networking and other learning opportunities. Using user-friendly interfaces of the Web and e-mail, MentorNet has also created back-end systems to create a dynamic database, internal and external relationship managment system, and a customized bi-directional matching algorithm to create optimal mentoring matchine between students and professionalsin the database.
+
+Published in: 2002 ECI Conference on e-Technologies in Engineering 
+Education: Learning Outcomes Providing Future Possibilities 
+Davos, Switzerland 
+Editors: Jack R. Lohmann and Michael L. Corradini
+
+Keywords: Non-Profit
+Post-Secondary
+Women
+Industry
+Mentoring
+Mentor
+Engineering
+Science
+Gender Equity</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A3F446C4-2638-4754-A459-143918018ACD</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">other</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">MentorNet: Large Scale E-Mentoring for Women in Science, Engineering, Technology (SET) Fields</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F13D6C74-27F1-4F8C-95C8-8A342E992F2A
+N:MentorNet;MentorNet;null;;
+FN:MentorNet MentorNet
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-07-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A3F446C4-2638-4754-A459-143918018ACD</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://services.bepress.com/cgi/viewcontent.cgi?article=1023&amp;context=eci/etechnologies</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

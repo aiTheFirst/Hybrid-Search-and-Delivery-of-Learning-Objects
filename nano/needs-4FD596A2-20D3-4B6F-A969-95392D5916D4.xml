@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Article for Nanotechnology Now, April 2008.
+
+Excerpt:
+"Nanomanufacturing (SINAM) was created in 2003, after the National Science Foundation awarded the UCLA Henry Samueli School of Engineering and Applied Science a grant worth nearly $18 million over five years to establish a new Nanoscale Science and Engineering Center (NSEC) that would focus on developing cost-effective nanomanufacturing technologies by working closely with industry.
+
+Besides wanting to bridge the gap between scientific research and economically feasible manufacturing solutions, SINAM knew it needed to also address critical high tech work force needs through an integrated research and education program.
+
+One aspect of the center's educational outreach program is geared towards middle and high school students, grades 7 - 12. Knowing that traditionally the science curriculum for those grades does not provide any exposure to engineering, SINAM, with the help of Sarah Tolbert, professor of chemistry and biochemistry, put in place a program called, "Discover the Exciting World of Nanotechnology," where students are given the opportunity to learn about photolithography by creating their own circuit boards.
+
+Led by Adrienne Lavine, chair of the mechanical and aerospace engineering department and KiMi Wilson, education and outreach coordinator for SINAM, the team has already brought this personal hands-on experience to several schools in the last couple years including Camino Nuevo Middle School and Camino Nuevo High School, both of Los Angeles, and New City Charter School of Long Beach."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4FD596A2-20D3-4B6F-A969-95392D5916D4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanomanufacturing, nanotechnology</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">UCLA's Center for Scalable and Integrated Nanomanufacturing (SINAM) Reaches out to Young Minds to Replenish the Engineering Work</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6B88CD42-41DC-4519-858B-3A8C14AE1E49
+N:Kromhout;Wileen;null;;
+FN:Wileen Kromhout
+ORG:University of California at Los Angeles
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-05-23</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4FD596A2-20D3-4B6F-A969-95392D5916D4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nanotech-now.com/news.cgi?story_id=28881</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The lack of clarity of purpose in undergraduate education is the outcome of a complex set of changes in higher education that need serious attention. Among these crucial elements are (a) changes in faculty career pathways as well as faculty roles and responsibilities; (b) changes in the demographics of the student body and patterns of enrollment and participation in postsecondary education; and (c) escalating demands created by changes in both the campus experience and the workplace that are driven by widespread use of technology and the emergence of high-technology industries and applications."
+
+This posting, a bit longer than most, Engaged and Engaging Science: A Component of a Good Liberal Education is by Judith A. Ramaley, visiting senior scientist at the National Academy of Science and professor of Biomedical Sciences; fellow of the Margaret Chase Smith Center for Public Policy at the University of Maine; and president-elect, Winona State University; and Rosemary R. Haggett, director, Division of Undergraduate Education, National Science Foundation. The article is from the Winter, 2005 issue of Peer Review, Volume 7, Number 2. Peer Review is a publication of the Association of American Colleges and Universities [www.aacu.org/peerreview]</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>56DA050B-7A3A-4ADB-893A-87D81FE6B522</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">cognitive flexibility, liberal education, general education</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Msg. #0646 ENGAGED AND ENGAGING SCIENCE; A COMPONENT OF A GOOD LIBERAL EDUCATION</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3EF64C04-8B32-4206-B5C0-D56E7F796DE8
+N:Reis;Richard;null;;
+FN:Richard Reis
+ORG:Stanford University;Center for Teaching and Learning
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>56DA050B-7A3A-4ADB-893A-87D81FE6B522</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://ctl.stanford.edu/Tomprof/postings/646.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

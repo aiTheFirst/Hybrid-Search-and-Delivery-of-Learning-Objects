@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>diagram</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The winning photography entry, "Glass Forest," depicts at the microscale level a community of diatoms, unicellular algae characterized by a peculiar glass-like cell wall, attached to the basal segment of a marine invertebrate and captured by Scanning Electron Microscope. Diatoms are tiny creatures, but they play a big role in creating breathable air; they produce as much as 40% of the world's oxygen. They can also possess an ethereal beauty, as the winning entry, "The Glass Forest" by Mario De Stefano of The Second University of Naples, Italy, shows. De Stefano used a scanning electron microscope to capture these images of the diatom Licmophora ehrenbergii from the Mediterranean Sea off the coast of Italy.
+The title refers to the fact that diatoms are unique in using silica to build their cell walls and to the interactions between the diatom and its host, which echo the interplay of a forest. Each green, triangle-shaped diatom measures about 30 micrometers across. There are about 100,000 species of diatoms, the largest of which can reach up to 2 millimeters in length.
+The micrograph shows L. ehrenbergii clinging to the marine invertebrate Eudendrium racemosum, in brown. De Stefano intended the image to depict the complex interactions that occur among organisms on the microscopic scale. "This is the study of a community, ... the same community as you would find in a rainforest."
+Panel of finalist judges member Malvina Martin praises "The Glass Forest" for its arresting beauty: "This is an invisible piece of our world that plays such an important role. Everyone was pretty awed by that." 
+
+Credit: Maria De Stefano, The Second University of Naples.
+
+The link takes you to the high-resolution JPG version of the image.
+
+Co-sponsored by AAAS and NSF, the 2008 contest drew 181 entries from 20 U.S. states and the District of Columbia and 20 countries. The winners are featured in the September 26, 2008 edition of Science. The categories included photography, illustration, informational graphics, and multimedia -- captured the crystalline beauty of diatoms, the expanse of the human circulatory system, a fairy tale tea party re-invented, and the dynamic life of a plant cell.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DD89327C-DAC6-441A-BFE7-7A8A8B93BB17</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">visualization</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Glass Forest - Winner of the 2008 Science and Engineering Visualization Challenge</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8D8324E4-445B-42AC-9897-142E19D48C71
+N:National Science Foundation - NSF;;;;
+FN:National Science Foundation - NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DD89327C-DAC6-441A-BFE7-7A8A8B93BB17</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/news/mmg/media/images/scivis1_h.jpg</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

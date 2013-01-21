@@ -1,0 +1,4 @@
+The ability to manipulate the spatial distribution of molecular LEGOs (the fundamental building blocks for
+bottom-up nanomanufacturing) inside a bulk fluid and then transport them to specific locations on a solid surface is fundamental
+for the effective construction of multi-dimensional structures at predefined regions. Nano-fluidic circuitry, developed by SINAM
+researchers, is capable of transporting molecules inside micro- and nano-fluidic environments allowing them to be deposited.

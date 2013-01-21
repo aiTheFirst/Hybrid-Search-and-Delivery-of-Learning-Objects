@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"How People Learn" provides a broad overview of research on learners and learning and on teachers and teaching.
+
+This research has important implications for "how our society educates: for the design of curricula, instruction, assessments, and learning environments. The U.S. Department of Education's Office of Educational Research and Improvement (OERI), which funded How People Learn, has posed the next question: What research and development could help incorporate the insights from the report into classroom practice? Responding to that question is the focus of this report.
+
+To address OERI's question, the Committee on Learning Research and Educational Practice first considered how research and practice are generally linked. A small number of teachers are engaged in design experiments with researchers or explore research on their own. They constitute a direct link between research and practice. But for the most part, the influence of research on practice is filtered through educational materials, through pre-service and in-service teacher education, through public policy, and through public opinionï¿½often gleaned from mass media reporting and from people's own experiences in schools.
+
+The committee sees the influence of research on these mediating arenas as weak. The research base on learning and teaching has not been consolidated in a way that gives consistent, clear messages in formats that are useful for practice. As a result, the various mediating arenas that influence practice are often not aligned either with research findings or with each other. In synthesizing a broad body of research, How People Learn provides an opportunity to provide research-based messages that are clear and directly relevant to classroom practice.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>206ECB06-0538-4DF4-B133-C5C9511D3FCF</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">cognition, learning science, teaching and learning research, pedagogy</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">How People Learn: Bridging Research and Practice</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:29B6331C-99CF-4FF9-9DC1-833BE7E6F785
+N:National Academies Press - NAP;Commission on Behavioral and Social Sciences and Education CBAS;null;;
+FN:Commission on Behavioral and Social Sciences and Education CBAS National Academies Press - NAP
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>206ECB06-0538-4DF4-B133-C5C9511D3FCF</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nap.edu/books/0309065364/html/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

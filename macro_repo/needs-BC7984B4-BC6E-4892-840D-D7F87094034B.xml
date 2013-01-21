@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>diagram</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">To the Moon, a companion website to PBS's NOVA television program, covers the science and engineering story of how we got to the moon for a K-12 audience or for a general adult audience. This media-rich site contains images and videos with captions from the Apollo missions, games and activities, journal excerpts from the last man on the Moon (Eugene Cerran), and a discussion of where humans may have come from. The Space Pioneers section offers audio and text about space from those who have experienced it, such as Jim Lovell and Buzz Aldrin. There are also useful links to related resources.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BC7984B4-BC6E-4892-840D-D7F87094034B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Space science, space exploration</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NOVA PBS - To the Moon</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:28D622E0-B4E0-4EFE-AFFC-51A567328BE8
+N:PBS, Nova program;;;;
+FN:PBS, Nova program
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:04117E10-2B26-4A1D-AFE4-76D3280CD2A0
+N:WGBH, NOVA;;;;
+FN:WGBH, NOVA
+ADR;TYPE=work,postal,parcel:;;125 Western Ave.;Boston;MA;02134;
+TEL;TYPE=work,voice:617-300-2000
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2006-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2006-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BC7984B4-BC6E-4892-840D-D7F87094034B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.pbs.org/wgbh/nova/tothemoon/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

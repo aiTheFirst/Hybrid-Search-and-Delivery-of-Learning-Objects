@@ -1,0 +1,6 @@
+"Underlying the Nanoworlds Learning Resource is Nanopedia, The Web Encyclopedia of Nanotechnology. On the one hand, Nanoworlds provides learning modules for formal education; on the other, Nanopedia is a searchable knowledge base.
+
+You are now located at the entry point, or root, of Nanopedia. From here, it branches out in four directions: the science of the Nanoscale, Nanoengineering, the impact of nanotechnology on Society and Applications, and the Future of Nanotechnology as depicted in art, fiction and earnest speculation."
+There is an overview and then links to four main topics areas: nanoscience, nanoengineering, impacts and applications and futurism, fiction and art."
+
+Site map: Site Map. Aside from special paths and formal course support, Nanopedia is a heirarchical, as opposed to alphabetical, knowledge base.

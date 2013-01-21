@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The Department of Chemical and Biological Engineering offers graduate programs leading to the Master of Science and Doctor of Philosophy degrees in chemical engineering. The master's program emphasizes the enhancement of professional knowledge and skills including research techniques. The doctorate is a research degree emphasizing more extensive and original approaches to problem solving. Students may work directly toward the doctorate.
+
+Incoming students are assigned a temporary advisor to help plan their programs until they select their major professor. The department encourages degree candidates to select major professors and begin research work as soon as possible after enrolling. 
+
+Highlights of our program include:
+
+    *
+
+      The UW-Madison Department of Chemical Engineering has a tradition of excellence dating back to 1905.
+    *
+
+      For nearly a century, the program has consistently ranked as one of the best in the world.
+    *
+
+      A combination of coursework and research creates a unique intellectually stimulating atmosphere.
+    *
+
+      The faculty offers cutting-edge research opportunities in nanotechnology, biotechnology, complex fluids, atomic, molecular, and multiscale modeling, environmental engineering, and atomic-scale design of surface reactivity.
+    *
+
+      Research in the department is highly interdisciplinary, capitalizing on programs of national prominence such as the NSF Materials Research Science and Engineering Center (MRSEC) and the NSF Nanoscale Science and Engineering Center (NSEC), and the nation's largest NIH-funded Biotechnology Training Program.
+    *
+
+      The UW campus has uniformly strong programs in all areas of the biological, chemical, and physical sciences."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DD436E39-08CA-422B-BAAC-4F9939ED6B57</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Graduate Chemical and Biological Engineering - University of Wisconsin at Madison</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:591344E1-3802-4BD4-B807-785AB1700D3C
+N:University of Wisconsin at Madison;Department of Chemical and Biological Engineering;null;;
+FN:Department of Chemical and Biological Engineering University of Wisconsin at Madison
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-13</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DD436E39-08CA-422B-BAAC-4F9939ED6B57</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.engr.wisc.edu/che/prospective/grad/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

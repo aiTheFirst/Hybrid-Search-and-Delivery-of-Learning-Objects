@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"This introduction to mathematical logic starts with propositional calculus and first-order logic. Topics covered include syntax, semantics, soundness, completeness, independence, normal forms, vertical paths through negation normal formulas, compactness, Smullyan's Unifying Principle, natural deduction, cut-elimination, semantic tableaux, Skolemization, Herbrand's Theorem, unification, duality, interpolation, and definability.
+
+The last three chapters of the book provide an introduction to type theory (higher-order logic). It is shown how various mathematical concepts can be formalized in this very expressive formal language. This expressive notation facilitates proofs of the classical incompleteness and undecidability theorems which are very elegant and easy to understand. The discussion of semantics makes clear the important distinction between standard and nonstandard models which is so important in understanding puzzling phenomena such as the incompleteness theorems and Skolem's Paradox about countable models of set theory.
+
+Some of the numerous exercises require giving formal proofs. A computer program called ETPS which is available from the web facilitates doing and checking such exercises."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>97979B2B-891D-440F-B395-B97E95018A0D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">mathematical logic, artificial intelligence</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">An Introduction to Mathematical Logic and Type Theory: To Truth Through Proof</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D4B4EB49-F437-47CD-8677-77EC25683E33
+N:Andrews;Peter;null;;
+FN:Peter Andrews
+ORG:Carnegie Mellon University;Computer Science
+EMAIL;TYPE=internet:andrews@cmu.edu
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+EMAIL;TYPE=internet:agogino@needs.org
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-07-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>97979B2B-891D-440F-B395-B97E95018A0D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.springer.com/west/home/generic/search/results?SGWID=4-40109-22-33641956-0</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

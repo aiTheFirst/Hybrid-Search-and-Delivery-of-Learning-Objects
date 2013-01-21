@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This web-based software teaches the user concepts about nanotechnology and nanocomputers. A nanometer is a billion of a meter and spans approximately 10 atomic diamters.  Nanotechnology is the technology for designing and applying &amp;quot;nanosystems.&amp;quot; The software is broken down in the following sections:
+- Tutorial Introduction
+- Guide to Selected Introductory Information from the Web
+- Tutorial Introduction
+- What are Nanotechnology &amp;amp; Nanocomputers?
+- Proposed Technologies for Future Nanocomputers    The software features information on the following topics:
+- Overview of Nanoelectronics 
+- Overview of Quantum Dots 
+- Overview of Molecular-Scale Electronics
+- Feature Article on Nanoelectronics from High Technology Careers Magazine
+- Overview of Nanoelectronics on Texas Instruments Corp</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2AA70748-15F2-4A9B-B416-A80CEE51D69D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">The State of Nanosystems and Nanotechnology Worldwide</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D864CCC4-5A55-4151-9269-1BDEB65BE4E3
+N:Mumzhiu;Daniel;null;;
+FN:Daniel Mumzhiu
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:78D04269-39C1-44A3-A2D2-DF3F11911E45
+N:MITRE Nanosystems Group;;;;
+FN:MITRE Nanosystems Group
+ADR;TYPE=work,postal,parcel:;;The MITRE CorporationBedford Complex202 Burlington RoadBedford, MA;;;;
+URL:http://www.mitre.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1998.10.21</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-09-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2AA70748-15F2-4A9B-B416-A80CEE51D69D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.mitre.org/tech/nanotech/nanosystems/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

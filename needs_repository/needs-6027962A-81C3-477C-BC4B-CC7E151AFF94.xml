@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Space Sciences Laboratory (SSL) at Berkeley was initiated in 1958 by a committee of the faculty who recognized that the new technology of rockets and satellites opened new realms of investigation and research to the physical, biological, and engineering sciences.
+
+The Laboratory began its operations in January of 1960 with the appointment of its first director, Professor Samuel Silver, starting life in a corner of the old Leuschner Observatory on the main campus. 
+
+The laboratory soon outgrew its space. Through a sustaining grant, which provided the Space Sciences Laboratory with a core of funds for interdisciplinary research in the physical, biological, engineering, and social sciences, gave the Laboratory a foundation on which to build faculty programs and to generate new areas of graduate training through research. It was an invaluable instrument for developing the work in the space sciences on the Berkeley campus.
+
+The NASA Facilities Grant made possible the building of the original Space Sciences Laboratory buildings. The growth of many projects and new programs represented the fulfillment of one of the aims of the Space Sciences Laboratory, namely, to stimulate faculty and student participation space research. But the second major objective, that of developing the multidisciplinary substance of space research and the special character of space science, could not be realized in a physically fragmented Laboratory. The construction of the new building brought most of the work together under one roof and led to the type of interactionof students in many diciplines that is one of the ideals of any educational program.
+
+The grant for the Space Sciences Laboratory building was awarded by the National Aeronautics and Space Administration in 1962. The plans, executed by the architectural firm of Anshen and Allen of San Francisco, were designed to promote interaction and mixing of research students and faculty and to provide a good working environment, that is, there should be an easy consciousness of the environment; it should not be overwhelming nor oppressive.
+
+The Laboratory is located in a wooded site with a view of the bay which is one of the most beautiful on the Berkeley campus. The architects were asked to design a building to fit the setting and give the people inside a feeling of ready enjoyment of the beautiful surroundings. Upon its dedication on Thursday, October 27, 1966, the laboratory fulfilled the hopes and objectives of its designers and its occupants.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>6027962A-81C3-477C-BC4B-CC7E151AFF94</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">space sciences, satellites</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Space Sciences Laboratory at UC Berkeley</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:93ABEC9E-1002-4085-A194-F556ADB48616
+N:Space Sciences Laboratory, UC Berkeley;;;;
+FN:Space Sciences Laboratory, UC Berkeley
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-04-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>6027962A-81C3-477C-BC4B-CC7E151AFF94</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ssl.berkeley.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

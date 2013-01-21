@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Based upon work by Brown University Students, and compiled
+by women students and faculty at NECUSE colleges (The New England Consortium for Undergraduate Science Education), this guide is for 
+science teachers interested in achieving gender equity in their classrooms.  It focuses on ways to make the scienc classroom a 
+friendlier, more effective environment for women.
+
+"Attrition of women from science is well documented. (NSF, April, 1989. Siebert, 1992. NRC, 1991.) Although both men and women leave the "pipeline" along the way, studies have repeatedly shown that a higher percentage of women leave, especially during the undergraduate years.
+
+A common assumption is that students who leave the sciences are less able in the sciences than those who continue. The number of students graduating with SME (science, math and engineering) degrees is therefore believed to be determined by the quality of the students within the pipeline. However, many studies have shown that ability is not always the deciding factor in determining a college major.
+
+    Switchers [from SME fields] and nonswitching seniors did not appear to differ ... in ability. They shared strong similarities in their self-reported mean GPA scores (Seymour 1992b).
+
+    Most switchers did not have more conceptual difficulties with science and mathematics, or inclination to work less hard, than the non-switchers (Seymour 1992a).
+
+A number of factors contribute to the high attrition for women (and under-represented minority men) in science.
+
+    Aspects of the structure and culture of SME [Science, Mathematics and Engineering] departments and engineering schools inadvertently encourage attrition and impede retention efforts, for the whole student population and for important subsets of it (Seymour 1992a).
+
+In this handbook we describe the aspects of culture that researchers believe contribute to attrition from SME majors, and we give concrete suggestions for addressing each of these issues. If implemented, these changes may prevent very capable students from leaving the sciences and may also attract students initially not involved in the sciences. We hope that this handbook will help faculty members become more aware of the issues that affect women in science and will provide them with ideas on how to address these issues in their own classrooms.
+
+Many of the changes suggested here are based upon sociological, psychological, and educational research on gender differences with regard to science learning and attrition from science. To the authors of this document, these differences imply that to teach for equality we must first recognize that teaching habits differentially affect various populations in our classrooms.
+
+It has been argued by many educators that by using teaching techniques that recognize a variety of learning styles in our classrooms, we would not serve only women but would attract more students, including men, who are not learning under the standard lecture-style, large-class, science education system. Some faculty who have considered the challenge of teaching for a more diverse "audience" have claimed that more inclusive teaching is simply good teaching. We believe this to be largely true, with two caveats. First, some suggestions (such as out-of-classroom strategies) have less to do with good classroom teaching and more to do with creating a welcoming climate. Second, by concentrating on good teaching alone, we often ignore gender-related differences."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2A67A1D0-C724-42D1-AEF9-47864489419A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">curriculum,gender differences,education,teacher influence</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Achieving Gender Equity in Science Classrooms</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F3A05752-CE0D-466A-8ED6-5A09DD1324EC
+N:David Targan, Editor;NECUSE Colleges;null;;
+FN:NECUSE Colleges David Targan, Editor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D9C7A9AE-0EB2-46D9-8DE7-6F93418A4023
+N:Office of the dean of the college, Brown University;;;;
+FN:Office of the dean of the college, Brown University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1996-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A44FA0BE-7A9E-4127-BB01-71C0DED343D9
+N:ACM Women in Computing Editor;;;;
+FN:ACM Women in Computing Editor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-04-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2A67A1D0-C724-42D1-AEF9-47864489419A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.brown.edu/Administration/Dean_of_the_College/homepginfo/equity/Equity_handbook.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

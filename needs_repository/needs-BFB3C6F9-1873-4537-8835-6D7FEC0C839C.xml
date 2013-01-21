@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Our Electrical Engineering program is devoted to the idea of design-build-test.  Cadets graduating the program have the necessary skills to see projects through from requirements to working devices that meet real needs for people.  The program has been accredited by the Accreditation Board for Engineering and Technology (ABET) since 1985.
+If you are a cadet interested in Electrical Engineering, contact ANY instructor of the Department to be directed to an Academic Counselor.
+Degrees we offer are:
+-Bachelor of Science in Electrical Engineering
+-Bachelor of Science in Electrical Engineering with Honors
+The Honors degree provides cadets at the top of their year groups the opportunity to excel and be acknowledged for scholarly accomplishments beyond those of the standard program.
+Cadet studies in Electrical Engineering consist of a base of fundamental skills and knowledge followed by an opportunity to focus on a particular technology-based "thread" of study.  The threads are:
+-Robotics.
+-Communications.
+-Information assurance.
+-Electronics.
+-Computer architecture.
+For further information, the links at the left will take you to a listing of courses in the EE major and our objectives--what our graduates are able to do as a result of their good work in their EE major.
+Our laboratory and fabrication facilities are first rate, including our support staff of dedicated professional technicians.
+Outside the classroom, many electrical engineering majors participate in clubs and activities that are great fun and professionally rewarding.  A few examples...
+-Our Ham Radio club communicates around the world, including periodic contacts with the International Space Station.
+-The Electronic Experimenters' Club provides, at no charge, kits, parts, tools, and faculty help for cadets who are interested in building their own electronic equipment.
+Finally, we sponsor exciting summer opportunities for cadets to apply their knowledge in research and operational settings at locations throughout the world, normally for four to seven week periods."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BFB3C6F9-1873-4537-8835-6D7FEC0C839C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Undergraduate Computer Engineering Curriculum - United States Military Academy</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9AC38996-4E88-4201-A313-8AEF5CE8F7C8
+N:USMA Department of Electrical Engineering and Computer Science;;;;
+FN:USMA Department of Electrical Engineering and Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:590813E9-AE6B-41CD-B811-79D36250FC66
+N:Arianne Gieringer;;;;
+FN:Arianne Gieringer
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-07-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BFB3C6F9-1873-4537-8835-6D7FEC0C839C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.eecs.usma.edu/outreach/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

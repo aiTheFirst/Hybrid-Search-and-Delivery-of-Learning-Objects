@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>experiment</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Strange Matter is an extensive, interactive resource about the wonders of materials.  It includes a teacher curriculum/activity guide for integrating materials science into their 5th-8th grade science curriculums, including hands on activities that are based on the National Science Education Standards. Additionally, there is a section of a site that guides families on experiments they can do at home. The site includes the categories of ZOOM (examining structure), TRANSFORM (materials processing) , CRUSH (mechanical properties of materials) and IMPROVE (design for performance). 
+
+
+Strange Matter was developed and is managed by the Materials Research Society with additional support from the National Science Foundation and the Ontario Science Center.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>35527541-A3CB-479C-B5C8-71D2BF6FF28F</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">strange matter, materials science demonstrations, materials properties, materials processing, materials structure, materials performance</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Strange Matter - Materials Science Demonstrations</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C88A3DBE-0A5C-4BFA-BB6C-1B3AD500BF75
+N:Materials Research Society;;;;
+FN:Materials Research Society
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CFB5EBF0-0568-4C98-9C4F-5F347C003B15
+N:Kristen Constant;;;;
+FN:Kristen Constant
+TEL;TYPE=work,voice:515-294-3337
+TEL;TYPE=work,fax:515-294-3337
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-29</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>35527541-A3CB-479C-B5C8-71D2BF6FF28F</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.strangematterexhibit.com/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

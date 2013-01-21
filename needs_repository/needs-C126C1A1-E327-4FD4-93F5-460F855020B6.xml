@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Inspirational article about Randy Pausch's last lecture in Computer Science at Carnegie Mellon. The article has a link to the online videos of this lecture and begins:
+"Randy Pausch didn't want his last lecture to be about dying. He is, unfortunately, dying -- of pancreatic cancer, and he knows it's a painful way to go. But when he walked up to the podium last month to address more than 450 colleagues, students, and friends at Carnegie Mellon University, he intended to demonstrate that his focus remains, as it always has been, on living. So he did a couple of one-handed push-ups, sprinkled his remarks with jokes, donned props including a Mad Hatter hat, and generally showed that one way to cheat death is to laugh in its face.
+
+Mr. Pausch, a 46-year-old professor of computer science and cofounder of the university's Entertainment Technology Center, agreed to give the talk in part so that his three young children, ages 5, 2, and 1, could one day hear his message, on "Really Achieving Your Childhood Dreams."
+
+Sure, he could have just delivered the advice in front of a video camera at home -- and he thought about taking that route -- but he felt that an audience lends his message greater weight. "A couple of hundred people in a room, looking and listening and laughing and applauding -- hopefully at the appropriate times -- that gives a lot of validation to my kids that a lot of people believe in this, and a lot of people who knew me believe that I did my best to try to live this way," he said in an interview on Tuesday.
+
+Since the video hit the Internet, though, the last lecture designed for an audience of three has, to Mr. Pausch's surprise, been viewed by more than 100,000 people, has drawn fan e-mail messages and letters from around the world, and has turned the professor into a media sensation."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C126C1A1-E327-4FD4-93F5-460F855020B6</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">woman in information technology, early programming, educational games</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">His Video Message Out, a Professor of Computer Science Contemplates the Last Months Ahead</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:588F5EC5-A3BF-442F-8637-2462569F225E
+N:Young;Jeffrey;null;;
+FN:Jeffrey Young
+ORG:Chronicle of Higher Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-10-03</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C126C1A1-E327-4FD4-93F5-460F855020B6</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://chronicle.com/daily/2007/10/2007100302n.htm?=attn</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

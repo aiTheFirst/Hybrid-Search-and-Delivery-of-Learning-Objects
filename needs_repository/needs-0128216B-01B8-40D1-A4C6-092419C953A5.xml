@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract: Although the industrial partners of academe are unanimous in
+their desire to hire engineering graduates who are experienced in
+working productively in small groups, implementing small group
+work in a computer science class can be difficult. The obvious assignment,
+a group programming project, proved to be a poor
+choice when implemented in my computer graphics class. An examination
+of the literature in this area shows that a group programming
+project has many features in common with a group term
+paper, the assignment that has been uniquely identified as the
+worst choice for small group work. Fortunately, there are better
+choices for cooperative learning in computer science. Assignments
+with âthe three Sâsâ: Same problem, Specific choice, and Simultaneous
+reporting of group choices, work well. This was implemented
+in my class by having students work multiple choice quizzes designed
+to require high level learning skills. Quizzes were first
+worked by individuals, then by small groups. The small group answers
+are then compared and discussed in class. This generates the
+type of interaction between the professor and students which creates
+positive cooperative learning experiences. Promising results
+have been seen with this method, from both the student and the
+professorâs perspective.
+
+&lt;citation>Deborah A. Trytten; Progressing from small group work to cooperative learning: A case study from computer science; Journal of Engineering Education; 90; 1; 85-92; 2001&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0128216B-01B8-40D1-A4C6-092419C953A5</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Progressing from small group work to cooperative learning: A case study from computer science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5D68CC1D-95A1-4EC1-8090-5D31DC47C006
+N:Trytten;Deborah A.;null;;
+FN:Deborah A. Trytten
+ORG:University of Oklahoma;School of Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C16F2579-3E7D-4536-A4C1-9FEA8E7FC258
+N:Kitty Li;;;;
+FN:Kitty Li
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0128216B-01B8-40D1-A4C6-092419C953A5</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.asee.org/publications/jee/PAPERS/display.cfm?pdf=336.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

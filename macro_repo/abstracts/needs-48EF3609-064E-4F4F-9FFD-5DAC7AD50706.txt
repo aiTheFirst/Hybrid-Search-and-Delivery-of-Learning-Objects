@@ -1,0 +1,1 @@
+Textbook that focuses both on high-level approaches to programming--the functional, object-oriented, and rule-based paradigms--and on the implementation of language constructs that support these approaches.

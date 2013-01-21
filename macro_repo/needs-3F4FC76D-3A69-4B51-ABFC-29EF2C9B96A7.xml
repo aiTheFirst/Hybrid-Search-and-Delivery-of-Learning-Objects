@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Far too often in the United States, our approach to educational problems
+has been to start pilot program after pilot program.While that unleashes a lot
+of bright ideas, it does not lead to sustained results. Another way of putting it is,
+weve lighted a least a million pilots in this country, but we havent ignited the
+central heating system.
+Todays challenges require a new kind of philanthropy  a much more
+entrepreneurial philanthropy  that produces measurable results. Todays leaders
+in the private sector want to see hard metrics that show programs are working.
+Todays investors want to know that programs have sustainability and wont
+disappear when the calendar changes.
+We believe the National Math and Science Initiative is establishing the kind
+of 21st Century paradigm for public-private partnership that has been needed.
+NMSI is expanding programs with proven, quantifiable records of success and
+marshalling the funding that is essential to incubate that success across the
+country. In effect, NMSI serves as a holding company, providing not just financial
+support, but on-going expertise to ensure that grantees grow strong enough to
+stand on their own footing.
+We believe that funding to scale provides the clarity and common sense
+that many philanthropists and business leaders have been seeking. Funding to
+scale helps ensure that their contributions will leave a lasting legacy. This paper is
+designed to explain how that model of philanthropy works. I hope you will agree
+that making good programs more accessible to more people is the approach our
+country needs to move forward.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3F4FC76D-3A69-4B51-ABFC-29EF2C9B96A7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Scaling innovation</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Taking Successful Programs to Scale and Creating Lasting Results</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:11158656-373C-4267-93B9-9578EB8F28E2
+N:Math and Science Initiative;;;;
+FN:Math and Science Initiative
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-08-05</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3F4FC76D-3A69-4B51-ABFC-29EF2C9B96A7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.bpcportal.org/exittracking.dyn?path=http%3A%2F%2Fwww.nationalmathandscience.org%2Fimages%2Fpdf%2Fwhitepaper16r_lr.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

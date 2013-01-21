@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">AISICS is a free two-week residential summer program where students will work with professors, college students, and invited American Indian community members to develop interactive story projects that combine computer game technology with traditional American Indian culture. At AISICS, students will learn about computer science and technology fields and they will be introduced to a university environment. Students will also have the opportunity to tour various departments at UCI so that they will be better informed when selecting a major. In the Communication Skills segment of the program, students will create videos to post on YouTube, give short presentations to other students, and complete a college application form.
+
+All students in the program will receive follow-up mentorship by UCI staff and students throughout their remaining years of high school, which will include guidance in choosing their coursework, financial aid, and applying to a university.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2A923583-606A-42DF-A22A-B172C9EB5399</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">BPC-NSF, BPC-DP</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: American Indian Summer Institute in Computer Science: LInking Native Culture to Computer Game Culture (AISICS)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:ADC87814-5CCB-4E58-A175-8B9EE4B96B28
+N:Frost;Daniel;null;;
+FN:Daniel Frost
+ORG:University of California at Irvine
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CFCE8456-1962-4454-ADEE-04B9847A8EAF
+N:null;null;null;;
+FN:Amelia C. Regan
+ORG:University of California at Irvine
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9F11D226-3B31-41A5-83D9-D2FCE0C414AE
+N:null;null;null;;
+FN:William M. Tomlinson
+ORG:University of California at Irvine
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E9948A3-F7C0-44BB-961E-E18B9E19C978
+N:Monica Noring;;;;
+FN:Monica Noring
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2A923583-606A-42DF-A22A-B172C9EB5399</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.airp.uci.edu/aisics.php</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

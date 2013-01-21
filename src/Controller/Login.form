@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane1">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="jTabbedPane1" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+    </Container>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="name" type="java.lang.String" value="Form" noResource="true"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="2"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="csdlo" pref="783" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="csdlo" min="-2" pref="372" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="csdlo">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="csdlo" noResource="true"/>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="loginPanel">
+          <Properties>
+            <Property name="name" type="java.lang.String" value="loginPanel" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Login">
+                <Property name="tabTitle" type="java.lang.String" resourceKey="loginPanel.TabConstraints.tabTitle"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="310" max="-2" attributes="0"/>
+                      <Component id="submitbutton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                      <Component id="exitbutton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="331" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace pref="337" max="32767" attributes="0"/>
+                      <Component id="Title" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="330" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="255" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="password" alignment="1" pref="264" max="32767" attributes="1"/>
+                          <Component id="username" alignment="1" pref="264" max="32767" attributes="1"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="wronguser" min="-2" pref="156" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="wrongpass" min="-2" pref="161" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Title" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="username" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="password" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="submitbutton" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="exitbutton" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="99" max="-2" attributes="0"/>
+                              <Component id="wronguser" min="-2" pref="26" max="-2" attributes="1"/>
+                              <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                              <Component id="wrongpass" min="-2" pref="29" max="-2" attributes="1"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="101" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="Title">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="Title.font"/>
+                <Property name="text" type="java.lang.String" resourceKey="Title.text"/>
+                <Property name="name" type="java.lang.String" value="Title" noResource="true"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JTextField" name="username">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="username.font"/>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" resourceKey="username.text"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder bevelType="1"/>
+                  </Border>
+                </Property>
+                <Property name="name" type="java.lang.String" value="username" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JPasswordField" name="password">
+              <Properties>
+                <Property name="font" type="java.awt.Font" resourceKey="password.font"/>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" resourceKey="password.text"/>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+                    <BevelBorder bevelType="1"/>
+                  </Border>
+                </Property>
+                <Property name="name" type="java.lang.String" value="password" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JButton" name="submitbutton">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="Controller.EE4913App" id="EE4913App" methodName="EE4913App"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="submitbutton.text"/>
+                <Property name="name" type="java.lang.String" value="submitbutton" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="submitbuttonActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JButton" name="exitbutton">
+              <Properties>
+                <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                  <action class="org.jdesktop.application.Application" id="quit" methodName="quit"/>
+                </Property>
+                <Property name="text" type="java.lang.String" resourceKey="exitbutton.text"/>
+                <Property name="name" type="java.lang.String" value="exitbutton" noResource="true"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="exitbuttonActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="wronguser">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" resourceKey="wronguser.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="wronguser.text"/>
+                <Property name="name" type="java.lang.String" value="wronguser" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JLabel" name="wrongpass">
+              <Properties>
+                <Property name="foreground" type="java.awt.Color" resourceKey="wrongpass.foreground"/>
+                <Property name="text" type="java.lang.String" resourceKey="wrongpass.text"/>
+                <Property name="name" type="java.lang.String" value="wrongpass" noResource="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+              </AuxValues>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="createUserPanel">
+          <Properties>
+            <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+            <Property name="name" type="java.lang.String" value="createUserPanel" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Create New User">
+                <Property name="tabTitle" type="java.lang.String" resourceKey="createUserPanel.TabConstraints.tabTitle"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel2">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="jPanel2" noResource="true"/>
+                <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[761, 948]"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="writing_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="reading_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="speaking_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="listening_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="prioritygoal_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qualifications_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="age_label" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="language_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="goal_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="activity_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="status_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="cognitive_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="physical_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="skill_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="role_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="keywords_label" min="-2" max="-2" attributes="0"/>
+                              <Component id="io_label" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="language_in" alignment="0" pref="115" max="32767" attributes="1"/>
+                              <Component id="age_in" alignment="0" pref="115" max="32767" attributes="1"/>
+                              <Component id="writing_in" alignment="1" pref="115" max="32767" attributes="1"/>
+                              <Component id="reading_in" alignment="0" pref="115" max="32767" attributes="1"/>
+                              <Component id="speaking_in" alignment="1" pref="115" max="32767" attributes="1"/>
+                              <Component id="listening_in" alignment="0" pref="115" max="32767" attributes="1"/>
+                              <Component id="prioritygoal_in" alignment="1" pref="115" max="32767" attributes="1"/>
+                              <Component id="qualifications_in" alignment="1" pref="115" max="32767" attributes="1"/>
+                              <Component id="goal_in" alignment="1" pref="115" max="32767" attributes="1"/>
+                              <Component id="activity_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="status_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="cognitive_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="physical_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="skill_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="role_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="keywords_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                              <Component id="io_in" alignment="0" pref="115" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="io_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="keywords_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="role_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="skill_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="physical_weight" alignment="1" pref="154" max="32767" attributes="0"/>
+                              <Component id="cognitive_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="status_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="activity_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="goal_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="qualifications_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="prioritygoal_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="listening_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="speaking_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="reading_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="writing_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="language_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="age_weight" alignment="0" pref="154" max="32767" attributes="0"/>
+                              <Component id="jLabel1" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jButton1" alignment="1" max="32767" attributes="1"/>
+                              <Component id="status" alignment="1" max="32767" attributes="1"/>
+                              <Component id="jPanel3" alignment="1" max="32767" attributes="1"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                          <Component id="age_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="age_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="age_weight" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="language_in" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                                          <Component id="language_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="language_weight" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="writing_weight" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="writing_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="writing_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="reading_weight" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="reading_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="reading_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="1">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jPanel3" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                  <Component id="status" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="speaking_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="speaking_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="speaking_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="listening_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="listening_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="listening_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="prioritygoal_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="prioritygoal_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prioritygoal_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="qualifications_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="qualifications_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="qualifications_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="goal_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="goal_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="goal_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="activity_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="activity_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="activity_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="status_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="status_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="status_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="cognitive_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="cognitive_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cognitive_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="physical_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="physical_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="physical_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="skill_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="skill_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="skill_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="role_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="role_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="role_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="keywords_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="keywords_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="keywords_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="io_weight" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="io_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="io_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="reading_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="reading_label.text"/>
+                    <Property name="name" type="java.lang.String" value="reading_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="speaking_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="speaking_label.text"/>
+                    <Property name="name" type="java.lang.String" value="speaking_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="qualifications_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="qualifications_in.text"/>
+                    <Property name="name" type="java.lang.String" value="qualifications_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="goal_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="goal_label.text"/>
+                    <Property name="name" type="java.lang.String" value="goal_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="age_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="age_in.text"/>
+                    <Property name="name" type="java.lang.String" value="age_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="speaking_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="speaking_in.text"/>
+                    <Property name="name" type="java.lang.String" value="speaking_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="listening_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="listening_label.text"/>
+                    <Property name="name" type="java.lang.String" value="listening_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="prioritygoal_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="prioritygoal_in.text"/>
+                    <Property name="name" type="java.lang.String" value="prioritygoal_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="prioritygoal_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="prioritygoal_label.text"/>
+                    <Property name="name" type="java.lang.String" value="prioritygoal_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="language_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="language_in.text"/>
+                    <Property name="name" type="java.lang.String" value="language_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="qualifications_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="qualifications_label.text"/>
+                    <Property name="name" type="java.lang.String" value="qualifications_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="language_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="language_label.text"/>
+                    <Property name="name" type="java.lang.String" value="language_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="reading_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="reading_in.text"/>
+                    <Property name="name" type="java.lang.String" value="reading_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="goal_in">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="goal_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="age_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="age_label.text"/>
+                    <Property name="name" type="java.lang.String" value="age_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="writing_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="writing_in.text"/>
+                    <Property name="name" type="java.lang.String" value="writing_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="12"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="writing_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="writing_label.text"/>
+                    <Property name="name" type="java.lang.String" value="writing_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="listening_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="listening_in.text"/>
+                    <Property name="name" type="java.lang.String" value="listening_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="age_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="age_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel1">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" resourceKey="jLabel1.font"/>
+                    <Property name="horizontalAlignment" type="int" value="0"/>
+                    <Property name="text" type="java.lang.String" resourceKey="jLabel1.text"/>
+                    <Property name="name" type="java.lang.String" value="jLabel1" noResource="true"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JSlider" name="writing_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="writing_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="language_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="language_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="reading_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="reading_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="speaking_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="speaking_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="listening_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="listening_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="prioritygoal_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="prioritygoal_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="qualifications_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="qualifications_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="goal_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="goal_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="activity_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="activity_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="status_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="status_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="cognitive_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="cognitive_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="physical_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="physical_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="skill_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="skill_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="role_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="90"/>
+                    <Property name="name" type="java.lang.String" value="role_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="keywords_weight">
+                  <Properties>
+                    <Property name="value" type="int" value="10"/>
+                    <Property name="name" type="java.lang.String" value="keywords_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="io_weight">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="io_weight" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="activity_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="activity_in.text"/>
+                    <Property name="name" type="java.lang.String" value="activity_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="status_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="status_in.text"/>
+                    <Property name="name" type="java.lang.String" value="status_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="cognitive_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="cognitive_in.text"/>
+                    <Property name="name" type="java.lang.String" value="cognitive_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="physical_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="physical_in.text"/>
+                    <Property name="name" type="java.lang.String" value="physical_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="skill_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="skill_in.text"/>
+                    <Property name="name" type="java.lang.String" value="skill_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="role_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="role_in.text"/>
+                    <Property name="name" type="java.lang.String" value="role_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="keywords_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="keywords_in.text"/>
+                    <Property name="name" type="java.lang.String" value="keywords_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="io_in">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="io_in.text"/>
+                    <Property name="name" type="java.lang.String" value="io_in" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Container class="javax.swing.JPanel" name="jPanel3">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" resourceKey="jPanel3.background"/>
+                    <Property name="name" type="java.lang.String" value="jPanel3" noResource="true"/>
+                  </Properties>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="user_label" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pass_label" min="-2" max="-2" attributes="0"/>
+                                  <Component id="passVer_label" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="passVer_in" alignment="0" pref="108" max="32767" attributes="1"/>
+                                  <Component id="pass_in" alignment="0" pref="108" max="32767" attributes="1"/>
+                                  <Component id="user_in" alignment="0" pref="108" max="32767" attributes="1"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="user_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="user_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="pass_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pass_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="passVer_in" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="passVer_label" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Component class="javax.swing.JLabel" name="user_label">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" resourceKey="user_label.text"/>
+                        <Property name="name" type="java.lang.String" value="user_label" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JTextField" name="user_in">
+                      <Properties>
+                        <Property name="name" type="java.lang.String" value="user_in" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JTextField" name="pass_in">
+                      <Properties>
+                        <Property name="name" type="java.lang.String" value="pass_in" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JTextField" name="passVer_in">
+                      <Properties>
+                        <Property name="name" type="java.lang.String" value="passVer_in" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="pass_label">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" resourceKey="pass_label.text"/>
+                        <Property name="name" type="java.lang.String" value="pass_label" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="passVer_label">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" resourceKey="passVer_label.text"/>
+                        <Property name="name" type="java.lang.String" value="passVer_label" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Component class="javax.swing.JLabel" name="activity_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="activity_label.text"/>
+                    <Property name="name" type="java.lang.String" value="activity_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="status_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="status_label.text"/>
+                    <Property name="name" type="java.lang.String" value="status_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="cognitive_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="cognitive_label.text"/>
+                    <Property name="name" type="java.lang.String" value="cognitive_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="physical_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="physical_label.text"/>
+                    <Property name="name" type="java.lang.String" value="physical_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="skill_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="skill_label.text"/>
+                    <Property name="name" type="java.lang.String" value="skill_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="role_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="role_label.text"/>
+                    <Property name="name" type="java.lang.String" value="role_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="keywords_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="keywords_label.text"/>
+                    <Property name="name" type="java.lang.String" value="keywords_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="io_label">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="io_label.text"/>
+                    <Property name="name" type="java.lang.String" value="io_label" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton1">
+                  <Properties>
+                    <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                      <action class="Controller.EE4913App" id="createNewUser" methodName="createNewUser"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" resourceKey="jButton1.text"/>
+                    <Property name="name" type="java.lang.String" value="jButton1" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JLabel" name="status">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" resourceKey="status.font"/>
+                    <Property name="foreground" type="java.awt.Color" resourceKey="status.foreground"/>
+                    <Property name="horizontalAlignment" type="int" value="0"/>
+                    <Property name="text" type="java.lang.String" resourceKey="status.text"/>
+                    <Property name="name" type="java.lang.String" value="status" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="editUserPanel">
+          <Properties>
+            <Property name="horizontalScrollBarPolicy" type="int" value="31"/>
+            <Property name="name" type="java.lang.String" value="editUserPanel" noResource="true"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="Edit User">
+                <Property name="tabTitle" type="java.lang.String" resourceKey="editUserPanel.TabConstraints.tabTitle"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Container class="javax.swing.JPanel" name="jPanel4">
+              <Properties>
+                <Property name="name" type="java.lang.String" value="jPanel4" noResource="true"/>
+                <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+                  <Dimension value="[761, 911]"/>
+                </Property>
+              </Properties>
+
+              <Layout>
+                <DimensionLayout dim="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="passNew_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="writing_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="reading_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="speaking_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="listening_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="prioritygoal_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qualifications_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="age_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="language_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="goal_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="activity_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="status_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="cognitive_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="physical_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="skill_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="role_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="keywords_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="io_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="passVer_label1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="passVer_in1" alignment="0" pref="105" max="32767" attributes="1"/>
+                              <Component id="passNew_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="language_in1" alignment="0" pref="105" max="32767" attributes="1"/>
+                              <Component id="age_in1" alignment="0" pref="105" max="32767" attributes="1"/>
+                              <Component id="writing_in1" alignment="1" pref="105" max="32767" attributes="1"/>
+                              <Component id="reading_in1" alignment="0" pref="105" max="32767" attributes="1"/>
+                              <Component id="speaking_in1" alignment="1" pref="105" max="32767" attributes="1"/>
+                              <Component id="listening_in1" alignment="0" pref="105" max="32767" attributes="1"/>
+                              <Component id="prioritygoal_in1" alignment="1" pref="105" max="32767" attributes="1"/>
+                              <Component id="qualifications_in1" alignment="1" pref="105" max="32767" attributes="1"/>
+                              <Component id="goal_in1" alignment="1" pref="105" max="32767" attributes="1"/>
+                              <Component id="activity_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="status_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="cognitive_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="physical_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="skill_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="role_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="keywords_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                              <Component id="io_in1" alignment="0" pref="105" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="io_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="keywords_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="role_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="skill_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="physical_weight1" alignment="1" pref="143" max="32767" attributes="0"/>
+                              <Component id="cognitive_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="status_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="activity_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="goal_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="qualifications_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="prioritygoal_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="listening_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="speaking_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="reading_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="writing_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="language_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="age_weight1" alignment="0" pref="143" max="32767" attributes="0"/>
+                              <Component id="jLabel2" alignment="0" min="-2" pref="135" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jPanel5" alignment="1" max="32767" attributes="1"/>
+                                      <Group type="102" alignment="1" attributes="0">
+                                          <Component id="LoadUser" pref="157" max="32767" attributes="0"/>
+                                          <EmptySpace max="-2" attributes="0"/>
+                                          <Component id="jButton2" min="-2" pref="134" max="-2" attributes="1"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="status1" pref="318" max="32767" attributes="1"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+                <DimensionLayout dim="1">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                          <Component id="age_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="age_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="age_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                          <Component id="language_in1" alignment="3" min="-2" pref="27" max="-2" attributes="0"/>
+                                          <Component id="language_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Component id="language_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="writing_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                          <Component id="writing_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="writing_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="1" attributes="0">
+                                      <Component id="reading_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                          <Component id="reading_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="reading_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="1">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="3" attributes="0">
+                                      <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      <Component id="LoadUser" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jPanel5" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="status1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="speaking_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="speaking_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="speaking_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="listening_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="listening_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="listening_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="prioritygoal_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="prioritygoal_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="prioritygoal_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="qualifications_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="qualifications_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="qualifications_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="goal_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="goal_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="goal_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="activity_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="activity_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="activity_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="status_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="status_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="status_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="cognitive_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="cognitive_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cognitive_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="physical_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="physical_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="physical_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="skill_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="skill_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="skill_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="role_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="role_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="role_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="keywords_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="keywords_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="keywords_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="io_weight1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                                  <Component id="io_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="io_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="passNew_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="passNew_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="passVer_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="passVer_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                </DimensionLayout>
+              </Layout>
+              <SubComponents>
+                <Component class="javax.swing.JLabel" name="reading_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="reading_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="reading_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="speaking_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="speaking_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="speaking_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="qualifications_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="qualifications_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="qualifications_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="goal_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="goal_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="goal_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="age_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="age_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="age_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="speaking_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="speaking_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="speaking_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="listening_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="listening_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="listening_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="prioritygoal_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="prioritygoal_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="prioritygoal_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="prioritygoal_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="prioritygoal_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="prioritygoal_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="language_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="language_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="language_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="qualifications_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="qualifications_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="qualifications_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="language_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="language_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="language_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="reading_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="reading_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="reading_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="goal_in1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="goal_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="age_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="age_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="age_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="writing_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="writing_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="writing_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="writing_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="writing_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="writing_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="listening_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="listening_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="listening_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="age_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="age_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="jLabel2">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" resourceKey="jLabel2.font"/>
+                    <Property name="horizontalAlignment" type="int" value="0"/>
+                    <Property name="text" type="java.lang.String" resourceKey="jLabel2.text"/>
+                    <Property name="name" type="java.lang.String" value="jLabel2" noResource="true"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JSlider" name="writing_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="writing_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="language_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="language_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="reading_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="reading_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="speaking_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="speaking_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="listening_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="listening_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="prioritygoal_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="prioritygoal_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="qualifications_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="qualifications_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="goal_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="goal_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="activity_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="activity_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="status_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="status_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="cognitive_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="cognitive_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="physical_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="physical_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="skill_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="skill_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="role_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="role_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="keywords_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="keywords_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JSlider" name="io_weight1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="io_weight1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="activity_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="activity_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="activity_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="status_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="status_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="status_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="cognitive_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="cognitive_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="cognitive_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="physical_in1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="physical_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="skill_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="skill_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="skill_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="role_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="role_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="role_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="keywords_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="keywords_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="keywords_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="io_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="io_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="io_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Container class="javax.swing.JPanel" name="jPanel5">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" resourceKey="jPanel5.background"/>
+                    <Property name="name" type="java.lang.String" value="jPanel5" noResource="true"/>
+                  </Properties>
+
+                  <Layout>
+                    <DimensionLayout dim="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Component id="user_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pass_label1" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="pass_in1" pref="126" max="32767" attributes="0"/>
+                                  <Component id="user_in1" alignment="0" pref="126" max="32767" attributes="1"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                    <DimensionLayout dim="1">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="user_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="user_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="pass_label1" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="pass_in1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                    </DimensionLayout>
+                  </Layout>
+                  <SubComponents>
+                    <Component class="javax.swing.JLabel" name="user_label1">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" resourceKey="user_label1.text"/>
+                        <Property name="name" type="java.lang.String" value="user_label1" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JTextField" name="user_in1">
+                      <Properties>
+                        <Property name="name" type="java.lang.String" value="user_in1" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JLabel" name="pass_label1">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" resourceKey="pass_label1.text"/>
+                        <Property name="name" type="java.lang.String" value="pass_label1" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                      </AuxValues>
+                    </Component>
+                    <Component class="javax.swing.JPasswordField" name="pass_in1">
+                      <Properties>
+                        <Property name="text" type="java.lang.String" resourceKey="pass_in1.text"/>
+                        <Property name="name" type="java.lang.String" value="pass_in1" noResource="true"/>
+                      </Properties>
+                      <AuxValues>
+                        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="12"/>
+                      </AuxValues>
+                    </Component>
+                  </SubComponents>
+                </Container>
+                <Component class="javax.swing.JLabel" name="activity_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="activity_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="activity_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="status_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="status_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="status_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="cognitive_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="cognitive_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="cognitive_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="physical_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="physical_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="physical_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="skill_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="skill_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="skill_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="role_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="role_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="role_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="keywords_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="keywords_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="keywords_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="io_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="io_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="io_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JButton" name="jButton2">
+                  <Properties>
+                    <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                      <action class="Controller.EE4913App" id="saveUser" methodName="saveUser"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" resourceKey="jButton2.text"/>
+                    <Property name="name" type="java.lang.String" value="jButton2" noResource="true"/>
+                  </Properties>
+                  <Events>
+                    <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+                  </Events>
+                </Component>
+                <Component class="javax.swing.JLabel" name="status1">
+                  <Properties>
+                    <Property name="font" type="java.awt.Font" resourceKey="status1.font"/>
+                    <Property name="foreground" type="java.awt.Color" resourceKey="status1.foreground"/>
+                    <Property name="horizontalAlignment" type="int" value="0"/>
+                    <Property name="text" type="java.lang.String" resourceKey="status1.text"/>
+                    <Property name="name" type="java.lang.String" value="status1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JButton" name="LoadUser">
+                  <Properties>
+                    <Property name="action" type="javax.swing.Action" editor="org.netbeans.modules.swingapp.ActionEditor">
+                      <action class="Controller.EE4913App" id="loadUserProfile" methodName="loadUserProfile"/>
+                    </Property>
+                    <Property name="text" type="java.lang.String" resourceKey="LoadUser.text"/>
+                    <Property name="name" type="java.lang.String" value="LoadUser" noResource="true"/>
+                  </Properties>
+                </Component>
+                <Component class="javax.swing.JLabel" name="passVer_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="passVer_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="passVer_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="passVer_in1">
+                  <Properties>
+                    <Property name="name" type="java.lang.String" value="passVer_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JLabel" name="passNew_label1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="passNew_label1.text"/>
+                    <Property name="name" type="java.lang.String" value="passNew_label1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+                <Component class="javax.swing.JTextField" name="passNew_in1">
+                  <Properties>
+                    <Property name="text" type="java.lang.String" resourceKey="passNew_in1.text"/>
+                    <Property name="name" type="java.lang.String" value="passNew_in1" noResource="true"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="9"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

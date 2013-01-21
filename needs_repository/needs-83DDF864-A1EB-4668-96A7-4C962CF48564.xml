@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Article on Robert Hooke. "In tribute to his genius and dedication to science and creative thought...
+and his breakthrough contributions to Microscopy!"
+by Maurice Smith - March 13th 2000.
+
+Excerpt:
+"Robert Boyle is now recognized as one of the founders of modern chemistry. What is not so apparent, nor recognized, is that it was Robert Hooke who actually created the air pump on which Boyle's experiments could be conducted. Much of Boyle's work on gasses may have been inspired, if not strongly based, on work carried out by Hooke on the science of springs and elasticity.
+
+Robert Boyle wondered if the air pushed back in the same way that a spring will push back when it is compressed. He knew that compressed springs obeyed Hooke's law: that the amount of force with which they push back increases in proportion to the extent to which they are compressed-for every centimetre of compression the force increases by the same amount. He was curious to see if the "spring" of gases, as he called pressure, behaved in the same manner.
+
+Which begs the question of: was it Robert Hooke who provided much of the thinking and intuitive-modelling behind the discoveries made by Boyle on the nature of gases?
+
+It is interesting to note that Hooke's Law, announced in 1676 by Robert Hooke, in connection with springs was concealed by Hooke in an anagram for two years, to prevent rivals from claiming to have made the discovery themselves."
+
+"Hooke's first major published work was Micrographia 3 - one of the most significant works ever published as it established the foundation of using microscopy to advance biological science. It was published on November 23rd 1664 and was ready for sale in bookshops by 1665. Within its skillfully illustrated pages, is the scientific work of Robert Hooke achieved in his first 30 years. His observations at the microscope are extensive and detailed - many of which led other notable scientists to engage their interest in his findings."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>83DDF864-A1EB-4668-96A7-4C962CF48564</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Robert Hooke, Hooke's Law, Robert Boyle</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Robert Hooke - The Father of Modern Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:569FF1FA-594F-4594-BD1D-221F9A837C29
+N:Microscopy UK, Micscape Magazine;;;;
+FN:Microscopy UK, Micscape Magazine
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-04-05</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>83DDF864-A1EB-4668-96A7-4C962CF48564</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.microscopy-uk.org.uk/mag/artmar00/hooke2.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

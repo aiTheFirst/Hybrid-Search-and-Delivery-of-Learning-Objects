@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Blog on the "Creating Passionate Users" site. It also has many entries from the community discussion. It begins:
+"If you studied math, science, or engineering at a four-year college in the US, much of what you learned is useless, forgotten, or obsolete. All that money, all that time, all that wasted talent. If all we lost were a few years, no big deal. But the really scary part is that we never learned what matters most to true experts in math, science, and engineering. We never really learned how to DO math, science, and engineering.
+
+Toward the end of his life, legendary mathematician Jacques Hadamard asked 100 of the top scientists of his time how they did whatever it was that they did (math, physics, etc.) Hadamard's survey found a massive disconnect between how we teach math and science and how mathematicians and scientists actually work. The majority of his contemporaries apparently claimed that using the logical, left-brain symbols associated with their work was NOT how they did their work. These were simply the tools they used to communicate it. What they used to do the works was much... fuzzier. Intuition. Visualization. Sensation (Einstein talked of a kinesthetic element). Anthropomorphizing. Metaphors.
+
+We are in sooooo much trouble.
+
+What experts use to do their work are the things we don't teach. We focus almost exclusively on how to talk about the work. Obviously this doesn't mean nobody learns to do it... we have plenty of expert engineers, scientists, and mathematicians, who become great either in spite of faulty teaching or because they lucked out and had excellent, clueful instructors and mentors. But we also hear more and more teachers, experts, and employers railing against the sorry state of our advanced technical educations today. The problem is, many of these same teachers, experts, and employers have a tough time articulating what's wrong, let alone how to fix it."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4E776FAB-27B6-49DE-BB7A-481B867D651D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Why does engineering/math/science education in the US suck?</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7C6B9187-27A4-441F-8D80-7CB8FA3D8064
+N:Sierra;Kathy;null;;
+FN:Kathy Sierra
+ORG:Headrush
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-09-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>4E776FAB-27B6-49DE-BB7A-481B867D651D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://headrush.typepad.com/creating_passionate_users/2006/11/why_does_engine.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

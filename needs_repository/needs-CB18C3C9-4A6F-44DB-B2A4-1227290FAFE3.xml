@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Listed at this National Park Service site are links for scientific initiatives in the Park System as well as Park resource data. Park Science is an online quarterly research and resource management bulletin. The United States-National Park Service (NPS) Research Permit and Reporting System assists potential investigators with procedural and application guidelines. Research in the Parks indexes web-accessible developments in Park-based physical, biological, and cultural studies. Linked agency programs include the governmental-academic collaborations of the Cooperative Ecosystem Studies Units (CESUs) and the wildland fuels taskforce, the Joint Fire Science Program. Linked educational program sites include those for Sabbaticals in the Parks and the Canon National Parks Science Scholars Program for graduate internships. The first Data Resource link concerns public use statistics in the Park System. An Environmental Contaminants Encyclopedia provides a search tool for information on 118 substances of import to general environmental toxicology. The NPS Geographical Information Systems (GIS) sites, in addition to providing background on the NPS GIS program, logistics of GIS implementation, agency GIS contacts, and a link list for park-specific applications of spatial information systems, also provide downloadable data and scripts. Available national data include satellite imagery and coverages of Park boundaries, land status, and trail systems. Arc Macro Language Scripts (AMLs) include those for: ArcPLOT palettes, data management, rasters, and vectors. An ArcView extension called AlaskaPak provides various utilities useful for natural and cultural resource needs. Also available are tools for GIS metadata collection. A final linked Data Resource site is for the NPS Inventory and Monitoring program, established to help prevent the loss or denigration of natural resources and/or ecosystem integrity in the Park System.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>CB18C3C9-4A6F-44DB-B2A4-1227290FAFE3</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Technology,Biology,Environmental science,Ecology</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Science in the National Parks and Data on Park Resources</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BB31A4B9-1FD6-4C4C-96AF-95E4CB1C1D56
+N:National Park Service;;;;
+FN:National Park Service
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>CB18C3C9-4A6F-44DB-B2A4-1227290FAFE3</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www1.nature.nps.gov/datasci/index.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

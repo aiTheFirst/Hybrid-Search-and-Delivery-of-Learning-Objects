@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Attributes><Attribute><Name>title</Name><Value>Computational Programming and Viz</Value></Attribute><Attribute><Name>description</Name><Value>This web-based software and course website introduces the following topics:
+- Programming (in C within MATLAB) 
+- Scientific Computing and Problem Solving 
+- Computational Science Tools 
+- Internet (email &amp;amp; WWW info servers) 
+- Xwindows environment 
+- Computation using MATLAB 
+- Graphics using MATLAB 
+- How to validate computed results 
+- Communication Skills     The software is also divided into the following modules:
+- Introduction to the Xterm Lab BA-113 
+- Introduction to Programming 
+- Introduction to User Defined Functions 
+- Introduces modular programming
+- Programming logic, loops, selectoin statements and explores the accuracy of floating point arithmetic
+- MATLAB online documentation
+- Review Language Constructs and work with Strings (March 11) 
+- MATLAB Strings
+- MATLAB Graphics
+- Vectorization of Code
+- Symbolic Mathematics
+- Low Level File I/O 
+This software was originally cataloged at http://www.mathworks.com/products/education/texamples/</Value></Attribute><Attribute><Name>content_language</Name><Value>en-US</Value></Attribute><Attribute><Name>format</Name><Value/></Attribute><Attribute><Name>requirement</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>other_platform_requirement</Name><Value/></Attribute><Attribute><Name>duration</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_type</Name><Value/></Attribute><Attribute><Name>intended_user_language</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_level</Name><Value>LOMv1.0</Value></Attribute><Attribute><Name>context</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_min</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_max</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>difficulty</Name><Value>LOMv1.0</Value></Attribute><Attribute><Name>typical_learning_time</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_concept_and_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_skilllevel_prerequisite</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_idea_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>intended_end_user_role</Name><Value/></Attribute></Attributes>

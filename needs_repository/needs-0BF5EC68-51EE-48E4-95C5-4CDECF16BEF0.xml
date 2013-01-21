@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Housed at the Museum of Science in Boston, the National Center for Technological Literacy works with educators, administrators, organizations, and industry representatives across the United States to integrate engineering as a new teaching discipline and to inspire the next generation of engineers and innovators.  This NCTL staff participates in following outreach activities. 
+
+1. Advocacy and Standard Development: 
+NCTL leadership and staff collaborate with state leaders to help states introduce or modify standards related to technology and engineering.
+
+2. Curriculum Collections:
+The NCTL provides educators with access to cutting-edge curricular resources that teach engineering and technology.
+
+3. Educator Resource Center:
+The NCTL staff assists organizations in creating local educator resource centers in their states that house technology and engineering curricular materials. With additional training by NCTL staff, educators from these states assess the materials to evaluate how well they meet curriculum standards. These data are available in the online ERC so educators across the state can benefit from this analysis.
+
+4. Curriculum Development: The Museum of Science has created engineering curricula for elementary, middle, and high school classrooms. These include: Engineering is Elementary: Engineering and Technology Lessons for Children; Building Math: Integrating Algebra and Engineering; Engineering The Future: Science, Technology, and the Design Process.
+
+5. Professional Development:
+The NCTL staff work in partnership with local or state teacher educators to provide professional development for teachers about engineering and technology. A train-the-trainer model is used, with NCTL staff working jointly with teacher educators to help them better understand core engineering and technology concepts, how to most effectively communicate these to other teachers, and how to structure and run workshops about engineering and technology.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0BF5EC68-51EE-48E4-95C5-4CDECF16BEF0</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">NSF-funded</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">National Center for Technological Literacy</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:82DB44E6-4309-4A93-8DB1-96C1FB7DCA90
+N:Museum of Science, Boston;;;;
+FN:Museum of Science, Boston
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DC8FDBBD-0090-4307-A730-ECAA220E9438
+N:Jeff Mehigan;;;;
+FN:Jeff Mehigan
+ADR;TYPE=work,postal,parcel:;;Museum of Sciencec/o Educator Resource Center1 Science Park;Boston;MA;;
+TEL;TYPE=work,voice:617 589 0170
+TEL;TYPE=work,fax:617 589 0187
+URL:www.mos.org/library
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-01-29</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0BF5EC68-51EE-48E4-95C5-4CDECF16BEF0</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nctl.org</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

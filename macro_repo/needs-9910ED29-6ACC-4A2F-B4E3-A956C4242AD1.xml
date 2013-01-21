@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The University of Massachusetts Amherst is leading the Commonwealth Alliance for Information Technology Education (CAITE) to design and carry out comprehensive programs that address under representation in information technology (IT) education and the workforce. CAITE focuses on women and minorities in groups that are underrepresented in the Massachusetts innovation economy; that is, economically, academically, and socially disadvantaged residents.
+
+
+BPC Alliance partners: Bristol Community College, Bunker Hill Community College, Cape Cod Community College, Greenfield Community College, Holyoke Community College, Middlesex Community CollegeNorthern Essex Community College, Springfield Technical Community College, Roxbury Community College, Bridgewater State College, Worcester State College, University of Massachusetts Amherst, University of Massachusetts Boston, University of Massachusetts Dartmouth, University of Massachusetts Lowell, BATEC - Boston Area Advanced Technological Education Connections, CITI - Commonwealth Information Technology Initiative, LSAMP -  Louis Stokes Alliance for Minority Participation, MTLC -  Mass Technology Leadership Council, NEAGEP - Northeast Alliance for Graduate Education and the Professoriate, SE-ITAC - Southeastern Massachusetts Regional IT Across the Curriculum, STS - Science, Technology &amp; Society Initiative at UMass Amherst, WITIA - Women in the Information Age.  NOTE: This project is an extension of an award from 2006.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9910ED29-6ACC-4A2F-B4E3-A956C4242AD1</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">community college, recruitment, retention</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-A: CAITE: Commonwealth Alliance for Information Technology Education</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FC453647-16F8-405D-9537-BB81A9D036EF
+N:Adrion;Rick;null;;
+FN:Rick Adrion
+ORG:University of Massachusetts;Department of Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9BBD879E-9ADE-4A2A-A9CC-B4F10CA841A1
+N:Boisvert;Deborah;null;;
+FN:Deborah Boisvert
+ORG:University of Massachusetts Boston
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CDB7E0F9-E8A0-4834-8182-AD278E3414B9
+N:Clarke;Lori;null;;
+FN:Lori Clarke
+ORG:University of Massachusetts;Department of Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2C5E14E6-B863-4709-8822-9947867A8606
+N:Fountain;Jane;null;;
+FN:Jane Fountain
+ORG:University of Massachusetts Amherst;Department of Political Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A475C34E-4C41-4358-90A9-10976DFB4A79
+N:Grocer;Priscilla;null;;
+FN:Priscilla Grocer
+ORG:Bristol Community College;Department of Computer Information Systems
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BE7013B6-6D26-40B8-9EF3-A16FBBA20B90
+N:BPC Admin;;;;
+FN:BPC Admin
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-05-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9910ED29-6ACC-4A2F-B4E3-A956C4242AD1</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.caite.us/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

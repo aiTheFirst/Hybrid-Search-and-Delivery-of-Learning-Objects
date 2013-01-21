@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type:  Partnerships for Adaptation, Implementation, and Dissemination.
+Year Awarded: 2008.
+
+Description: The single most important process that shapes the future of a university is the selection of new tenure track faculty. When an institution aspires to the principles of excellence, innovation and diversity, these must be actively used to guide the hiring and subsequent tenure decisions. Traditional patterns of reliance on "expert opinion" in the evaluation of candidates tend to perpetuate the existing faculty composition, and when that is occurring at a STEM-intensive institution, such as Michigan Tech, there is a risk of stasis. Several federal employment regulations explicitly encourage the consideration of women and minorities in job searches. In some States, however, search committees cannot favor particular groups. The key to improving diversity is, we believe, to increase the qualified applicant pool, and ensure all eligible candidates are given proper and timely consideration. It is also important, given the rising cost of supporting new faculty, to provide strong and effective mentoring not only to the point of tenure, but through the process of advancement through the ranks to senior faculty positions and institutional administration. We believe that application of these principles and support structures for all candidates will be to the great benefit of the institution, and especially to women faculty. Intellectual Merit: Inclusion of a doctoral student will ensure that the results of the project's initiatives will be reported in the literature, with the opportunity to share best practices with other universities, particularly those with strong STEM emphasis. The project participants will collaborate with the graduate student on professional publications and presentations..."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>861F77FE-B7C4-403B-8BB7-01943CC9780B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE Program at Michigan Technological University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5B830539-B216-4A7B-B330-755547B0BF9C
+N:Lovett-Doust;Lesley;null;;
+FN:Lesley Lovett-Doust
+ORG:Michigan Technological University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DAF916D1-CB3C-4FA5-898D-BEBB670B014A
+N:Predebon;William;null;;
+FN:William Predebon
+ORG:Michigan Technological University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FC1AAA8E-330A-4DF2-8AB9-FD258DEF0DE3
+N:Gale;Margaret;null;;
+FN:Margaret Gale
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:325200EA-0719-4575-8F40-F7C331AFAC62
+N:Anderson;Chris;null;;
+FN:Chris Anderson
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DDD5A434-7C16-4AE1-96B1-58D00915CE1E
+N:Michalek;Donna;null;;
+FN:Donna Michalek
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>861F77FE-B7C4-403B-8BB7-01943CC9780B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.admin.mtu.edu/urel/news/media_relations/741/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

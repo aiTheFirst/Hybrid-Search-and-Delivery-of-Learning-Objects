@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Engineering Pathway's "Today in History" blog for April 25.
+
+"Today in History - April 25, 1925 - Florence Rena Sabin is the first woman elected to National Academy of Science. Dr. Florence Rena Sabin, Professor of Histology in the Johns Hopkins Medical School was also the first woman to be a full professor in that institution and also the first woman to be President of the American Association of Anatomists. She became a leader for her research in embryology and histolology (the study of tissues). The National Academy of Science tribute to Dr. Sabin recongizes that: By her example she did more than any other person to open the careers of scientific investigation in laboratories, medical schools, and hospitals to women.
+
+I was interested in Dr. Rena Sabin as she started her academic career at Smith College, where I am now a first year student. After graduation in order to earn money for medical school, Dr. Sabin taught mathematics in Denver for two years. After that she served as an assistant in the Zoology Department at Smith College from 1895 to 1896.
+
+Even in her retirement Dr. Florence Rena Sabin was a pioneer as a public health activist in Colorado and in 1951 received a Lasker Award for this work. It was during this period that she is known for one of her more famous quotes: The prohibition law, written for weaklings and derelicts, has divided the nation, like Gaul, into three parts  wets, drys, and hypocrites."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9A67D0D0-6DB1-4295-BDFD-823E9081E8D8</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Florence Rena Sabin, Florence Sabin, National Academy of Science</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">04-25-1925 Florence Rena Sabin is First Woman Elected to National Academy of Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8C2F7CBE-163B-4C50-82C2-A9DAC0489BAC
+N:null;null;null;;
+FN:Arianne Agogino Gieringer
+ORG:Smith College;Neuroscience
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-04-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9A67D0D0-6DB1-4295-BDFD-823E9081E8D8</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.k-grayengineeringeducation.com/blog/index.php/2009/04/25/engineering-education-blog-first-woman-elected-to-national-academy-of-science/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

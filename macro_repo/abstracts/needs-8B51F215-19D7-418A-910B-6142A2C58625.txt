@@ -1,0 +1,7 @@
+"Industrial Engineering has been traditionally concerned with the analysis, design and control of materials, work and information in operating systems.
+
+A distinguishing focus has been the integration of humans, machines, and materials to achieve optimum performance of operating systems. Methods of operations research and ergonomics provide the fundamental tools for performing this analysis and integration.
+
+More recently the field has expanded to include non-industrial operations involving supply, distribution, transportation, communication and information handling, medical care and safety. The design and control of these systems requires the use of scientific methods in a variety of research and application areas.
+
+Graduate education in the Department of Industrial and Operations Engineering provides an important complement to our strong undergraduate program. National polls have consistently ranked the department's graduate program among the best in the United States. The student body in the Department of Industrial and Operations Engineering is highly international in character, including students from Canada, Mexico and many countries in Asia, Europe and South America."

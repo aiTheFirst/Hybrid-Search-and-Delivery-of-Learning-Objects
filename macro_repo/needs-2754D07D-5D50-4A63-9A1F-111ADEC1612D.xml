@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Course website with online syllabus, lecture material, problems and references. The aims of this short course are to introduce the elements and practicalities of computer programming through the MATLAB mathematical computing environment.
+Prerequisites: Familiarity with using Windows applications, and with the use of a scientific calculator.  No previous programming experience is required.
+
+At the end of the course students should be confident about using MATLAB in their own project work, and should feel more prepared to tackle other procedural languages for computing, such as C++ or Visual Basic.
+Topics covered:
+1.        Introduction to Programming
+
+1.1.            Components of a computer
+
+1.2.            Working with numbers
+
+1.3.            Machine code
+
+1.4.            Software hierarchy
+
+2.        Programming Environment
+
+2.1.            MATLAB Windows
+
+2.2.            A First Program
+
+2.3.            Expressions, Constants
+
+2.4.            Variables and assignment statement
+
+2.5.            Arrays
+
+3.        Graph Plots
+
+3.1.            Basic plotting
+
+3.2.            Built in functions
+
+3.3.            Generating waveforms
+
+3.4.            Sound replay, load and save
+
+4.        Procedures and Functions
+
+4.1.            Arguments and return values
+
+4.2.            M-files
+
+4.3.            Formatted console input-output
+
+4.4.            String handling
+
+5.        Control Statements
+
+5.1.            Conditional statements: If, Else, Elseif
+
+5.2.            Repetition statements: While, For
+
+6.        Manipulating Text
+
+6.1.            Writing to a text file
+
+6.2.            Reading from a text file
+
+6.3.            Randomising and sorting a list
+
+6.4.            Searching a list
+
+7.        GUI Interface
+
+7.1.            Attaching buttons to actions
+
+7.2.            Getting Input
+
+7.3.            Setting Output
+
+8.        Discrete Linear Systems
+
+8.1.            Characterisation of linear systems
+
+8.2.            Finite Impulse Response filters
+
+8.3.            Infinite Impulse Response filters
+
+8.4.            Frequency response
+
+9.        Spectral Analysis
+
+9.1.            Filterbank analysis
+
+9.2.            Fourier analysis
+
+9.3.            Spectrograms
+
+9.4.            Filterbank synthesis
+
+10.    Speech Signal Analysis
+
+10.1.        Fundamental frequency estimation ? frequency domain
+
+10.2.        Fundamental frequency estimation ? time domain
+
+10.3.        Formant frequency estimation.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2754D07D-5D50-4A63-9A1F-111ADEC1612D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Introduction to Computer Programming with MATLAB</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4A618F0D-E4E1-4154-9269-F05BE54A936E
+N:University College London;Phonetics &amp; Linguistics;null;;
+FN:Phonetics &amp; Linguistics University College London
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-03-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2754D07D-5D50-4A63-9A1F-111ADEC1612D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.phon.ucl.ac.uk/courses/spsci/matlab/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

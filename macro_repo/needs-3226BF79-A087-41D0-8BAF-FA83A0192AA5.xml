@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Website for prospective students with a description of courses, activities and resources. The Iowa State program is unique in that its Materials Science and Engineering department has a wide range of outreach activities both locally and around the world. The "Materials Matter" brochure one can download from this site provides more detail. The figure here shows one such outreach program in Africa.
+
+"Our programs and labs provide hands-on learning -
+the kind of learning that gives students a competitive
+advantage. Many of our graduates have built successful
+careers not only as engineers, but also as managers,
+entrepreneurs, sales representatives, and consultants.
+
+Materials engineers create new
+materials and improve existing
+materials. The products we work
+on are everywhere; companies
+couldn't survive without the
+expertise of materials engineers!
+Just think of all the different
+materials in biomedical devices,
+computer chips, clothing, automobile
+parts, and, yes, even the kitchen
+sink - those are just a few
+examples of the products that
+our work influences.
+Everything is limited by the
+materials that are used to produce it.
+Materials engineers understand the
+relationship between the properties
+of a material and its internal
+structure - from the macro level
+down to the atomic level. In many
+cases, we are the people who help
+a product become cheaper, easier to
+produce, or more durable. The better
+the materials, the better the end
+result - it's as simple as that."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3226BF79-A087-41D0-8BAF-FA83A0192AA5</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">materials scence, materials engineering, service learning</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Materials Science and Engineering at Iowa State - ISU</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FA6096B1-9BC0-4179-94DA-8E553902E678
+N:Genalo;Larry;null;;
+FN:Larry Genalo
+ORG:Iowa State University - ISU;Materials Science and Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:EDAB6FC7-2947-4C1D-B3A1-F2270DAD6958
+N:Materials Science and Engineering, Iowa State University;;;;
+FN:Materials Science and Engineering, Iowa State University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CF9BC680-1030-40E8-AEA5-00C0C7341C86
+N:Lawrence Genalo;;;;
+FN:Lawrence Genalo
+TEL;TYPE=work,voice:515-294-4722
+TEL;TYPE=work,fax:515-294-5444
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-09-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3226BF79-A087-41D0-8BAF-FA83A0192AA5</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.mse.iastate.edu/students.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

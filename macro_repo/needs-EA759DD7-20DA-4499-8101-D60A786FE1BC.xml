@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract:
+"Excel spreadsheet macros and Visual Basic for Applications (VBA) programs, used as teaching aids in a separation processes course at Tulane University. They were used to solve problems involving trial-and-error and graphical calculations. Distillation, absorption, and interfacial mass transfer problems were solved. The spreadsheets were incorporated into a web-based learning platform. Students increased the use of macros for solving homework problems from 11% to 75% by the end of the semester."
+
+&lt;citation>Juan P. Hinestroza, Kyriakos Papadopoulos; Using spreadsheets and visual basic applications as teaching aids for a unit operations course; Chemical Engineering Education; 37; 4; 316-320; 2003&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EA759DD7-20DA-4499-8101-D60A786FE1BC</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">chemical Engineering, spreadsheets</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Using spreadsheets and visual basic applications as teaching aids for a unit operations course</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:63EEBF41-C9C4-4F77-A442-D8FA6366F4C8
+N:Hinestroza;Juan P.;null;;
+FN:Juan P. Hinestroza
+ORG:Cornell University;department of human  ecology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5472532D-C351-4AF0-972C-8FA3914FDDF6
+N:Papadopoulos;Kyriakos;null;;
+FN:Kyriakos Papadopoulos
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:590813E9-AE6B-41CD-B811-79D36250FC66
+N:Arianne Gieringer;;;;
+FN:Arianne Gieringer
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EA759DD7-20DA-4499-8101-D60A786FE1BC</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://cee.che.ufl.edu/Journals.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

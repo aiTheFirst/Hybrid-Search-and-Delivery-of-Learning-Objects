@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Published in Int. J. Engng Ed. Vol. 24, No. 1, pp. pp. 74±78, 2008. Part of special issue in IJEE on Mobile Technologies in Engineering Education (II). Abstract: 
+"This is a progress report on our ongoing interdisciplinary project to promote mobile technology for
+multidisciplinary applications. The project consists of collaborative efforts between engineering and
+health science faculty and students in using mobile techniques to collect, transmit, analyse and store
+health data. Main techniques of wireless data acquisition and transmission, as well as key issues
+such as privacy and data security are addressed through joint course instruction sessions and
+laboratory experiments. The project is initiated via a Health Science Health Care Informatics
+course and an engineering Wireless Communications and Systems course. Health science students
+are to learn engineering techniques of effective use of wireless communications systems, while
+engineering students are to gain knowledge of applications in health sciences. Upon successful
+implementation and further improvement, this model can be further expanded into other areas such
+as natural sciences and business administration where the same concepts can be applied using
+different datasets. The interdisciplinary approach of using mobile technology will result in a
+revolutionary and exciting learning environment with truly multidisciplinary applications."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>461A3D25-C2AB-41F0-929E-47121D51A9F6</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">mobile technologies; multidisciplinary applications; health science</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">An `Engineering-Health Science' Interdisciplinary Approach to Promoting Mobile Technology for Multidisciplinary Applications</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:D8F07633-9DEF-4CD5-84F3-7F9D04263850
+N:ZHANG;JAMES;null;;
+FN:JAMES ZHANG
+ORG:Western Carolina University;Engineering and Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:AABC2F59-3FB1-4A65-9E0D-57CFC03D17A5
+N:TESLOW;MARY;null;;
+FN:MARY TESLOW
+ORG:Western Carolina University, Cullowhee, NC;Health Sciences
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B9BED328-91D8-4286-A110-3FB14351C6E1
+N:SANGER;PHILIP;null;;
+FN:PHILIP SANGER
+ORG:Western Carolina University, Cullowhee, NC;Engineering and Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-01-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>461A3D25-C2AB-41F0-929E-47121D51A9F6</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ijee.dit.ie/latestissues/Vol24-1/s11_ijee2016.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

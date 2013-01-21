@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract: A teaching reform initiative, started in the spring semester of 1993
+at the New Jersey Institute of Technology (NJIT), is described.
+The program seeks to increase student success in a freshman computer
+science course, and ultimately in the entire NJIT curriculum.
+The traditional teaching methods where the teacher presided over
+a lecture session supplying facts and figures, providing ideas, and
+presenting problems and their solutions, has been altered. The
+new learning environment described in this paper aims to create an
+all-inclusive setting inviting the students to make the transformation
+from passive learners to active participants. Rather than
+merely listening to lectures, students formulate problems and devise
+their own approaches to answering questions and finding solutions.
+Such a teaching/learning methodology requires instructional
+redesign and role redefinition. The presentation of class
+material is reordered as the teacher and students cross each otherâs
+confines becoming a more cohesive entity.
+
+&lt;citation>Fadi P. Deek, Howard Kimmel, James A. Mchugh; Pedagogical changes in the delivery of the first-course in computer science: Problem solving, then programming; Journal of Engineering Education; 87; 3; 313-320; 1998&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>90BE3DB5-D942-45E2-B64B-D9B1416758E7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Pedagogical changes in the delivery of the first-course in computer science: Problem solving, then programming</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1BCC5068-B592-4D99-9239-C8CABF31F460
+N:Mchugh;James A.;null;;
+FN:James A. Mchugh
+ORG:New Jersey Institute of Technology;Department of Computer and Information Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:708A1865-77BE-4D98-941B-DE1A9E1D68AC
+N:Kimmel;Howard;null;;
+FN:Howard Kimmel
+ORG:New Jersey Institute of Technology;Department of Chemistry and Chemical Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B311078D-CEA1-423B-9AEB-1E3CA26078E4
+N:Deek;Fadi P.;null;;
+FN:Fadi P. Deek
+ORG:New Jersey Institute of Technology;Department of Computer and Information Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C16F2579-3E7D-4536-A4C1-9FEA8E7FC258
+N:Kitty Li;;;;
+FN:Kitty Li
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>90BE3DB5-D942-45E2-B64B-D9B1416758E7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.asee.org/publications/jee/PAPERS/display.cfm?pdf=574.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

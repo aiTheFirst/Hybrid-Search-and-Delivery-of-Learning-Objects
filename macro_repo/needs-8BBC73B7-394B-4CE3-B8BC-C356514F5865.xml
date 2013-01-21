@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Artbotics allows students to explore the intersection between Art and Computer Science, especially Robotics, though project-based learning, public exhibitions and service-learning experience.  Students learn founding principles in both the fields of Art and Computer Science, and put them into practice by creating interactive, tangible exhibits that are displayed in public settings. Artbotics includes an undergraduate course, a summer program for high school students, after-school workshops for high school students, workshops for educator professional development, and supporting materials. Artbotics is a collaboration between the University of Massachusetts Lowell and the Revolving Museum, both located in Lowell, Massachusetts.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8BBC73B7-394B-4CE3-B8BC-C356514F5865</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">art and computer science, robotics, retention, recruitment, mentoring, BPC-DP</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: Collaborative Computing Experiences to Broaden Participation in Computer Science (Artbotics)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BAC17621-8071-4117-A515-39AED0D1F404
+N:Yanco;Holly;null;;
+FN:Holly Yanco
+ORG:University of Massachusetts Lowell;Computer Science Department
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5235B39F-D132-4DCC-9C19-3E3DE296FE0D
+N:Martin;Fred;null;;
+FN:Fred Martin
+ORG:University of Massachusetts Lowell;Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A1BC779B-6B9D-4665-8855-9FAFB546B661
+N:Claypool;Kajal;null;;
+FN:Kajal Claypool
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BF8FDE34-CF95-45C6-9049-C35827A799D3
+N:Lecia Barker;;;;
+FN:Lecia Barker
+TEL;TYPE=work,voice:512-232-8364
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-01-10</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8BBC73B7-394B-4CE3-B8BC-C356514F5865</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://artbotics.cs.uml.edu/index.php?n=Workshop.Introduction</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Manual published by the U.S. Army Corps of Engineers (USACE). This manual is organized into the following Chapters, each downloadable in PDF format:
+
+Transmittal Letter
+Table of Contents
+Acknowledgments
+Abstract
+Chapter 1 - Introduction and Process Capabilities
+Chapter 2 - Planning and Technical Assessment (File size: 1.3 MB.)
+Chapter 3 - Field Investigations (File size: 1.1 MB.)
+Chapter 4 - Slow Rate Process Design (File size: 3.6 MB.)
+Chapter 5 - Rapid Infiltration Process Design (File size: 1 MB.)
+Chapter 6 - Overland Flow Process Design (File size: 1.6 MB.)
+Chapter 7 - Small Systems (File size: 1.6 MB.)
+Chapter 8 - Energy Requirements and Conservation (File size: 1.3 MB.)
+Chapter 9 - Health and Environmental Effects
+Appendix A - Slow Rate Design Example
+Appendix B - Rapid Infiltration Design Example
+Appendix C - Overland Flow Design Example
+Appendix D - Location of Land Treatment Systems
+Appendix E - Distribution System Design for Slow Rate (File size: 3.7 MB.)
+Appendix F - Estimated Storage Days for Land Treatment Using EPA Computer Programs
+Appendix G - Glossary of Terms/Conversion Factors</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3056717A-6691-4070-B056-0BE6674C0813</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Process Design Manual for Land Treatment of Municipal Wastewater</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6EB6DC4E-518C-41C8-8490-AF8E4D7C4E47
+N:USACE;Program Manager for the Printing and Publishing Program;null;;
+FN:Program Manager for the Printing and Publishing Program USACE
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3056717A-6691-4070-B056-0BE6674C0813</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://140.194.76.129/publications/eng-manuals/em1110-1-501/toc.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

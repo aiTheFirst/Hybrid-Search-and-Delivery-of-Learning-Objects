@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">A more sophisticated site, this is useful for the armchair or professional volcanologist.  A teacher wishing to supplement their knowledge of volcanism for a lesson may find this useful, but with so many links to volcano observatories and bulletins, this is definately aimed towards the serious amateur, at least.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The Global Volcanism Program (GVP) seeks better understanding of all volcanoes through documenting their eruptions--small as well as large--during the past 10,000 years. The range of volcanic behavior is great enough, and volcano lifetimes are long enough, that we must integrate observations of contemporary activity with historical and geological records of the recent past in order to prepare wisely for the future."  This site,  from the National Museum of Natural History, has many links divided into the following catagories:
+* Preliminary notices
+* Volcanic activity reports
+* Vocanoes of the world
+* Products
+* Site &amp; program information
+* Volcano NetLinks
+Many of these sections contain links by region (19 regions total).  The volcanoes of the world link has volcanoes by name, through an interactive map, or by region.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EB2F595C-975C-4D8A-8562-6DD6B0847F5F</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Volcanology, volcanoes, volcanic activity, volcanism</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Global Volcanism Program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:59384C38-5372-4C57-98CA-FF18D62AC3C8
+N:Smithsonian Institution, National Museum Of Natura;Global Volcanism Program;null;;
+FN:Global Volcanism Program Smithsonian Institution, National Museum Of Natura
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-05-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:558B6A4C-C054-4FA4-972F-2C395F043528
+N:Smithsonian Institution;;;;
+FN:Smithsonian Institution
+ADR;TYPE=work,postal,parcel:;;SI Building, Room 153Washington, DC  20560-0010;;;;
+TEL;TYPE=work,voice:202-357-2700
+PHOTO;VALUE=uri:http://www.si.edu/media_images/si_logo.gif
+URL:http://www.si.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-05-16</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-05-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>EB2F595C-975C-4D8A-8562-6DD6B0847F5F</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.volcano.si.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

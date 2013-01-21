@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>self assessment</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Template for Describing a (Program, Practice, or Resource) for Increasing Womens Participation in IT 
+
+This template is for describing and documenting formal and informal interventions that attract, retain, and advance women and girls in information technology programs of study and careers. Discovering what works and under what circumstances, and sharing that information so that successful practices can be broadly adopted. The NCWIT will evaluate these practices and share them through its Digital Library. 
+
+ESTEEM After School Program
+
+Enhancing Science &amp; Technology Education &amp; Exploration Mentoring (ESTEEM) is a Youth-Based Project partnership between UMBCs Center for Women and Information Technology, the Shriver Center, and the Chabot Space and Science Center. This three-year program includes an after-school, weekend, and a four-week summer program that will reach 336 7th and 8th grade students. Each student will receive over 120 hours of program contact focusing on encouraging girls interest and involvement in elective information technology classes and support their pursuit of IT careers. This project is an important first step in encouraging greater diversity in IT classrooms, programs and, ultimately, the workforce.
+Description
+
+
+The ESTEEM program will focus on encouraging girls interest and involvement in elective information technology (IT) classes and support their pursuit of IT careers which will help address national and local workforce shortages. The project will:
+
+Introduce a new after-school program with a high quality, proven curriculum to enhance students understanding of how information technology concepts learned in the classroom connect to their everyday lives, and to their future learning and career options
+Develop students knowledge and abilities to use information technology applications for inquiry-based learning, employ innovative methods to access information relevant to an infinite number of topics, and work cooperatively with peers to pose and answer authentic questions about the use of technology and its applications in a broader world
+Develop students awareness of the possibility of college and technology careers as viable life options through their interactions with positive role models and participation in college-based activities
+Develop continuing support among parents, teachers, college and middle school students and community organizations and their members to ensure all program activities are achieved and students feel fully supported
+In addition to the impact in the participating students lives, Project ESTEEM will implement the TechBridge curriculum in a new setting and explore related issues to prepare for wider dissemination of the curriculum.
+
+To help increase girls participation in technology, ESTEEM is focused on the interests of girls, but boys are welcome.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>AAE548F6-092C-4E96-B4D9-1EAB67E04E86</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Program in Practice-ESTEEM-Enhancing Science and Technology and Exploration Mentoring-UMBC</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0A7E7DCB-1B69-4E04-9535-0B5CDF59A37C
+N:National Center for Women &amp; Information Technology;NCWIT-;null;;
+FN:NCWIT- National Center for Women &amp; Information Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2005-09-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>AAE548F6-092C-4E96-B4D9-1EAB67E04E86</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://images.smete.org/NCWIT_Practices/Cwit_2_ESTEEM.PDF</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

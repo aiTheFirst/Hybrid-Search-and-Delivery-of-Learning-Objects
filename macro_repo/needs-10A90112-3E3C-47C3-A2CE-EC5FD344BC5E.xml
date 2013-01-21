@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type:  Partnerships for Adaptation, Implementation, and Dissemination.
+Year Awarded: 2006. 
+"Description: ADVANCE Auburn: SEM Transformation through "Small Wins" will develop, adapt, and implement the "small wins" approach for producing lasting change for increasing the representation, participation, advancement and success rate of women faculty in science, engineering and mathematics (SEM) disciplines. The "small wins" approach (Meyerson and Fletcher, 2000) advocates transforming a workplace through a series of small positive changes used to improve the working environment for those who are disproportionately affected by unsupportive and oftentimes inconsiderate practices in the workplace. Since the changes produced by "small wins" are incremental and locally driven, the approach is non-threatening and more easily accepted by an entrenched culture such as often exists in the SEM academic disciplines. Successive "small wins" build upon themselves such that substantive and lasting changes in the work environment and culture are achieved and assimilated over time. This award will develop and apply the "small wins" approach to transform the SEM disciplines at Auburn University and, subsequently, at other institutions."
+
+Investigators:
+Donna Sollie sollidl@auburn.edu (Principal Investigator)
+Christine Curtis (Former Principal Investigator)
+Mary Stroup-Gardiner (Former Principal Investigator)
+Marie Wooten (Co-Principal Investigator)
+Overtoun Jenda (Co-Principal Investigator)
+Alice Smith (Co-Principal Investigator)
+Daniel Svyantek (Co-Principal Investigator)
+Mary Stroup-Gardiner (Former Co-Principal Investigator)
+Donna Sollie (Former Co-Principal Investigator)</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>10A90112-3E3C-47C3-A2CE-EC5FD344BC5E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE Program at Auburn University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5C62A659-7F9E-4067-9970-B3F5F6DD1DD4
+N:Sollie;Donna;null;;
+FN:Donna Sollie
+ORG:Auburn University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>10A90112-3E3C-47C3-A2CE-EC5FD344BC5E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.checkout.org.cn/awardsearch/showAward.do?AwardNumber=0620000</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

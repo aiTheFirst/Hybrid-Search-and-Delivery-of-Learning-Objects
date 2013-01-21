@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">NSF press releas, 2003.
+
+"New Nanoscale Science and Engineering Center Targets Development of Innovative Nanomanufacturing Technologies and Tools
+
+NSF has awarded major support to establish the Center for Scalable and Integrated Nano-Manufacturing (SINAM), which will combine laboratory science and technology to develop ground-breaking, commercial-scale nanomanufacturing technologies. SINAM's research will focus on developing processes and tools for cost-effective nanomanufacturing. The techniques that SINAM proposes to use can manufacture items with dimensions smaller than 20 nanometers, which is less than one millionth of an inch. (The current industry standard is roughly 100 nanometers.) The nanomanufacturing technologies to be developed by SINAM promise to find applications in diverse industries, including computing, telecommunications, biomedicine, and homeland security.
+
+SINAM is one of two new Nanoscale Science and Engineering Centers (NSECs) established with NSF funding to address fundamental research barriers to commercial-scale nanomanufacturing. (See related article on the Center for Nano-Chemical-Electrical-Mechanical Manufacturing Systems (Nano-CEMMS) at the University of Illinois at Urbana-Champaign.) The NSECs are interdisciplinary efforts, bringing together investigators from diverse fields (such as engineering, computer science, and physical science) in partnership with industry, government, and other institutions."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BF4AF8D2-B5BB-4ACA-958D-3489CA6E80F3</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanomanufacturing, nanotechnology, nanoscale, nanotubes, nanowires, phonon transport, thermoelectrics, radiation, solar energy conversion, nonfluids</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">New Nanoscale Science and Engineering Center Targets Development of Innovative Nanomanufacturing Technologies and Tools</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7FFC6E76-A2CB-4C35-BE9A-0F781FA0D8BB
+N:National Science Foundation - NSF;;;;
+FN:National Science Foundation - NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-05-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BF4AF8D2-B5BB-4ACA-958D-3489CA6E80F3</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/eng/engnews/2003/sinam.jsp</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

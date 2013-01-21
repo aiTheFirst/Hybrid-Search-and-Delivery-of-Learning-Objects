@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">This courseware is designed to promote learning by solving problems. The problems it generates are based on sketches of programs, and are suitable for junior/senior Computer Science students.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>exercise</lom:value></lom:learningResourceType><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">In the "Programming Languages" course, junior/senior Computer Science students compare and
+contrast concepts and techniques used in various programming languages. The concept of scope, which is essential to reading and writing large programs, is one of them. The Scope in Programming Languages courseware was designed to help students understand the different types of scope and learn concepts associated with them by repeatedly solving problems. The courseware consists of five modules: Static Scope, Static Referencing Environment, Dynamic Scope, Dynamic Referencing Environment and Procedure Callability. Each module includes introductory material about the topic (definition, example, pragmatics, algorithms) and an applet that generates problems, solves them, checks user's answers and gives detailed feedback. Each applet can potentially generate an infinite number of problems, and helps the learner track progress by keeping statistics.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C9D21351-4DB5-465D-80C4-737BBA07EBF7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Computer Science, Programming Languages, Scope</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Scope in Programming Languages</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:23CA83AE-44C7-48A3-BA6A-64CAC5CF206F
+N:Kumar;Amruth;;;
+FN:Amruth Kumar
+ORG:Ramapo College of New Jersey
+TEL;TYPE=work,voice:(201) 684 7712
+TEL;TYPE=work,fax:(201) 684 7919
+URL:http://orion.ramapo.edu/~amruth
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA79E24B-91CE-4B95-895E-9D2B8B43A5C6
+N:Fernandes;Eric;;;
+FN:Eric Fernandes
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5845EA5D-5267-4B5E-90A9-2FDE02F65477
+N:Obringer;Steve;;;
+FN:Steve Obringer
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:23CA83AE-44C7-48A3-BA6A-64CAC5CF206F
+N:Amruth Kumar;;;;
+FN:Amruth Kumar
+TEL;TYPE=work,voice:(201) 684 7712
+TEL;TYPE=work,fax:(201) 684 7919
+URL:http://orion.ramapo.edu/~amruth
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-07-13</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7674A90A-AED7-4D0D-BD3C-40462FCEB8C6
+N:jonathan Hey;;;;
+FN:jonathan Hey
+ADR;TYPE=work,postal,parcel:;;5461 Taft Avenue;Oakland;CA;;
+TEL;TYPE=work,voice:510 499 2628
+URL:http://www.palojono.com
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-07-13</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C9D21351-4DB5-465D-80C4-737BBA07EBF7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">Runs over the Web</lom:string></lom:installationRemarks><lom:location>http://www.problets.org/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">Java SWING classes
+Java version 1.2 or higher</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

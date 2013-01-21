@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This new edition of Materials Science on CD-ROM contains 18 modules and is designed for teachers and students of materials science, metallurgy, engineering and other related disciplines. 
+The challenging concepts of this subject area which can be difficult to grasp are made easier to understand with this collection of completely interactive learning modules, which have been designed to make use of those functions best performed by computer.
+Materials Science on CD-ROM guides the student through the key concepts, allowing access to the material at their own pace. By employing the highly interactive facilities, students can test their understanding, for example, by seeing the consequence of the selection of different parameters on graphs and processes.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>411DB8ED-0B24-4096-9EC0-CE12F82F6DBD</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Materials Science on CD-ROM</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:88DE79A6-BAFC-4299-92CF-CC49B15C402B
+N:University of Liverpool U.K.;MATTER, Department of Engineering;null;;
+FN:MATTER, Department of Engineering University of Liverpool U.K.
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1996-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6194A6-6765-498A-A0CD-8BFE2A63DA95
+N:Materials Teaching Educational Resources;;;;
+FN:Materials Teaching Educational Resources
+ADR;TYPE=work,postal,parcel:;;MATTER Project Coordinating OfficeMaterials Science &amp; EngineeringUniversity of LiverpoolLiverpool L69 3BXU.K;;;;
+PHOTO;VALUE=uri:http://
+URL:http://www.liv.ac.uk/~matter/about.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1996-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:244C30DD-1B91-46D6-949E-37A961A3EFAF
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-07-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>411DB8ED-0B24-4096-9EC0-CE12F82F6DBD</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">PC: 486 DX66 processor or higher. 8 Mb RAM minimum. About 30Mb free hard disc
+space. Double speed CD-ROM drive or faster. VGA monitor at 640x480 pixels, 256
+colours. Windows� 3.1x or 95.</lom:string></lom:installationRemarks><lom:location>http://www.matter.org.uk/matscicdrom/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

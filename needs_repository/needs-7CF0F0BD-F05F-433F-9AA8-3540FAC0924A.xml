@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This web-based software teaches the user concepts about physics of the earth. The software is divided into the following topics:
+- Relative Plate Motions 
+- Triple Junction Stability 
+- Spherical Triangles 
+- Geomagnetism 
+- Vector Differential Operators 
+- Example Vector Differential Operators 
+- Heat Equation Notation 
+- Heat Equation with Time-Periodic Boundary 
+- Basic Elasticity Theory 
+- A Sample Strain Tensor 
+- Wave Equations for Organ and Guitar 
+- P- and S-Wave Potentials 
+- Snell's Law 
+- Sample Earthquake Focal Mechanisms 
+- Gravity Field Continuation 
+- Complex and Hypercomplex Numbers 
+
+    This software was originally cataloged at http://www.my-edu2.com/eduframe.htm.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7CF0F0BD-F05F-433F-9AA8-3540FAC0924A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Physics of the Earth: Integrated Science Program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:59075D50-2578-4E20-9790-0119D285718F
+N:Bina;Craig;null;;
+FN:Craig Bina
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:199D8ADF-0F18-4EDB-BF29-96F3B056EDD0
+N:Northwestern+University;;;;
+FN:Northwestern+University
+ADR;TYPE=work,postal,parcel:;;Northwestern+University%0D%0A633+Clark+Street%0D%0AEvanston%2C+Illinois+60208;;;;
+URL:http%3A%2F%2Fwww.nwu.edu%2F
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1999.05.06</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-09-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7CF0F0BD-F05F-433F-9AA8-3540FAC0924A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.earth.northwestern.edu/people/craig/teach/C15-0/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

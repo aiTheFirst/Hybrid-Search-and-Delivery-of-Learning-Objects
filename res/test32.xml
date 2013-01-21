@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Attributes>
+    <Attribute>
+        <Name>title</Name>
+        <Value>An Introduction to Filters</Value>
+    </Attribute>
+    <Attribute>
+        <Name>description</Name>
+        <Value>This module introduces some terminology used to describe types of filters and their properties. The module introduces low-pass, high-pass, band-pass, band-stop, and all-pass filters, then the passband, stopband, and transition band; Quantitative descriptors like bandwidth, transition ratio, and Q. The relation between the transition ratio and the order of a filter is explored. The lesson concludes with examination of a filter specification, showing maximum passband ripple and minimum stop band loss.</Value>
+    </Attribute>
+    <Attribute>
+        <Name>content_language</Name>
+        <Value>fr</Value>
+    </Attribute>
+    <Attribute>
+        <Name>format</Name>
+        <Value>audio/mp3</Value>
+    </Attribute>
+    <Attribute>
+        <Name>requirement</Name>
+        <Value>fast processor</Value>
+    </Attribute>
+    <Attribute>
+        <Name>other_platform_requirement</Name>
+        <Value>windows,office</Value>
+    </Attribute>
+    <Attribute>
+        <Name>duration</Name>
+        <Value>1000</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_type</Name>
+        <Value>active</Value>
+    </Attribute>
+    <Attribute>
+        <Name>intended_user_language</Name>
+        <Value>fr</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_level</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>context</Name>
+        <Value>school</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_min</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_max</Name>
+        <Value>1</Value>
+    </Attribute>
+    <Attribute>
+        <Name>difficulty</Name>
+        <Value>5</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_learning_time</Name>
+        <Value>1900</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_concept_and_discipline</Name>
+        <Value>electrical engineering</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_skilllevel_prerequisite</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_idea_discipline</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>intended_end_user_role</Name>
+        <Value>student</Value>
+    </Attribute>
+</Attributes>

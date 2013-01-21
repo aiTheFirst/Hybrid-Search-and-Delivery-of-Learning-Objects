@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">Goals:
+To supplement any materials science text.
+Comments:
+
+Prerequisite:
+
+Guide URL:</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>exercise</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This product features three powerful components which make it ideally suited for lab study or in-class demonstration/presentation:
+	- Hypertext-driven, textbook-referenced presentations of important concepts. The CD-ROM contains a set of interactive tutorials that enable students to explore challenging concepts with an easy-to-use, point-and-click interface.
+	- A collection of QuickTime animated visualizations that can be launched from within the hypertext environment, or played as stand-alone dynamic illustrations. These visualizations include animated views of molecular structures, animated 2D and 3D illustrations, digital film clips of lab experiments, simulations of physical principles, and live, narrated demonstrations.
+	- An extensive library of materials science problems that can be launched from within the hypertext environment using either the Student Edition of Theorist 1.5 (for Macintosh) or the MathCAD Engine 5.0 (for Windows).
+
+Some of the topics include:
+- Atomic Bonding
+- Crystal Structure
+- Defects in Crystals
+- Diffusion
+- Mechanical Properties
+- Cold Work and Annealing
+- Nucleation and Growth
+- Phase Diagrams
+- Dispersion Strengthening
+- Transformation and Treatment
+- Ferrous / Nonferrous Alloys
+- Ceramics and Glasses
+- Polymers / Composites
+- Construction Materials
+- Electrical / Magnetic Behavior
+- Corrosion and Degradation Includes the Mathcad Engine and a Windows-compatible hypertext program.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>ABDC7A9C-82B5-4E5C-8E98-5A4B750770FC</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Materials Science: A Multimedia Approach</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3C050D0A-663D-4EB5-8769-07A65F0CF4D7
+N:Russ;John;null;;
+FN:John Russ
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2A3A2123-30C3-4201-95A5-E54317E6CE8E
+N:PWS Publishing Company;;;;
+FN:PWS Publishing Company
+URL:http://www.pws.com/default.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1.0</lom:string></lom:version></lom:lifeCycle><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3C050D0A-663D-4EB5-8769-07A65F0CF4D7
+N:Russ;John;null;;
+FN:John Russ
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2A3A2123-30C3-4201-95A5-E54317E6CE8E
+N:PWS Publishing Company;;;;
+FN:PWS Publishing Company
+URL:http://www.pws.com/default.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-09-10</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>ABDC7A9C-82B5-4E5C-8E98-5A4B750770FC</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">Macintosh compatible CD-ROM</lom:string></lom:installationRemarks><lom:location>http://www.brookscole.com/cgi-brookscole/course_products_bc.pl?fid=M2&amp;discipline_number=11&amp;product_isbn_issn=0534957366</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">Windows and Windows 95 Compatible CD-ROM</lom:string></lom:installationRemarks><lom:location>http://www.brookscole.com/cgi-brookscole/course_products_bc.pl?fid=M2&amp;discipline_number=11&amp;product_isbn_issn=0534957366</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

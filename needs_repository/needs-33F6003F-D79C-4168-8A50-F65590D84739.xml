@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">LEARN: Atmospheric Science Explorers (LEARN) began in 1991 with funding from the National Science Foundation (NSF) to help fill the critical need of science teacher professional development. NSF funded two versions of LEARN. The fundamental goal of both LEARN programs was to increase middle school science teacher knowledge of and interest in the atmospheric sciences. The first project began in 1991 and brought 40 middle school and junior high school teachers from California, Colorado, North Carolina, and Texas to the National Center for Atmospheric Research (NCAR) in Boulder, Colorado for three consecutive summers. The second project was funded in 1996 and partnered with 48 teachers from rural schools in Colorado. In addition to the three consecutive summer workshops at NCAR, LEARN staff and scientists from NCAR traveled to the rural Colorado school districts for three additional days of instruction.
+
+Much of the instructional and science content foundation for the LEARN workshops came from the teaching modules developed by LEARN teachers in collaboration with more than 60 NCAR scientists. The three modules included background information, hands-on activities using simple materials, and authentic assessment tools. The modulesOzone in Our Atmosphere, Atmospheric Dynamics, and Cycles of the Earth and Atmospherewere not designed to replace existing curricula or textbooks. Rather, they were intended to enhance earth and physical science programs by incorporating atmospheric science concepts. These modules were created by teachers for teachers.
+
+As LEARN was nearing completion, a number of the teachers suggested that it would be useful to have a Web site based on the modules so that the information would be widely available to all. The need for credible and up-to-date teaching materials on issues related to climate change and atmospheric chemistry (in particular, ozone depletion in the stratosphere and ozone pollution in the troposphere) was real. Formatting portions of the Project LEARN teaching modules for the Web would fill this need. With supplemental funding from NSF, LEARN joined forces with the Cooperative Program for Operational Meteorology, Education and Training (COMET®), a premier resource at NCAR in the area of distance learning. Coupling the distance learning expertise of COMET and the teacher enhancement materials contained in the LEARN modules, this Web site was developed for classroom teachers.  The educational modules are:     *
+      Introduction to the Atmosphere
+
+	
+
+    * Introduction to Ozone
+
+    * Introduction to Climate
+
+	
+
+    * Stratospheric Ozone
+
+    * The "Greenhouse Effect"
+
+	
+
+    * Tropospheric Ozone
+
+    * Global Climate Change.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>33F6003F-D79C-4168-8A50-F65590D84739</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Atmospheric science,Climatology, global warming, climate change</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">LEARN: Atmospheric Science Explorers</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2DF81484-8E88-4322-8218-BBB7BDD19178
+N:DLESE - UCAR;;;;
+FN:DLESE - UCAR
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2008-11-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>33F6003F-D79C-4168-8A50-F65590D84739</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ucar.edu/learn/index.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

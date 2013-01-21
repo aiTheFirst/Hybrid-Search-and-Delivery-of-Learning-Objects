@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">The five bassic pages and Plate Tectonics activity are very good introductions to the basics of plate tectonics.  They are very useful for explaining and demonstrating movements of the Earth. The "Related People and Discoveries" section goes into more detail of the people and events involved in the development of plate tectonic theory.  Very good for additional reading.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This site from PBS Online demonstrates how plate tectonics affect the Earth's surface. It includes a brief introduction to the four main boundary types (convergent, divergent, collisional, and transform), a series of pages with information about related people and discoveries and interactive activities, including one that illustrates plate movement.
+
+"Take a hard-boiled egg and crack its shell. Does the egg remind you of anything? The Earth, perhaps? The egg could be seen as a tiny model of the Earth. The thin shell represents the Earth's crust, divided into plates; within the shell is the firm but slippery mantle. Move the pieces of shell                                        around. Notice how the shell buckles in some places and exposes "mantle" in other places. The same thing happens on Earth, but on Earth, this activity results in the formation of mountains, earthquakes, and new ocean floor."  This page has basic explanations of plate movements, a Shockwave based activity, and good articles on scientists and discoveries related to the theory of plate tectonics.  Sections include:
+* Intro to plate tectonic theory
+* Sea floor spread
+* The continental slide
+* The continental crush
+* Slippin' and a slidin'
+* Harry Hess
+* Arthur Holmes
+* Alfred Wegener
+* Wegener proposes idea of continental drift
+* Great Global Rift is discovered
+* Hess proposes sea-floor spreading
+* Magnetic bands providce evidence of sea-floor spreading
+* Life is found near deep ocean vents</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>FA27CA33-D007-41EC-A67C-86F4659FF10E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Plate tectonics, sea floor spread, faulting, rift zones, earthquakes, Harry Hess, Arthur Holmes, Alfred Wegener, paleomagnetism</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Mountain maker, earth shaker: you try it</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3508A341-1712-4DCB-87E7-416D7D837E78
+N:Science Odyssey;WGBH;null;;
+FN:WGBH Science Odyssey
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:25E5DB3C-F1E4-4A88-9761-3C001156120C
+N:Public Broadcasting Service Online (PBS Online);;;;
+FN:Public Broadcasting Service Online (PBS Online)
+ADR;TYPE=work,postal,parcel:;;Alexandria, VA;;;;
+PHOTO;VALUE=uri:http://www.pbs.org/images/pbs_NEW.gif
+URL:http://www.pbs.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-04-18</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-04-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>FA27CA33-D007-41EC-A67C-86F4659FF10E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.pbs.org/wgbh/aso/tryit/tectonics/#</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">Shockwave required to run the "Plate Tectonics activity"</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

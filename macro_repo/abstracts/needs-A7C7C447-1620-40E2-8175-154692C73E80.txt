@@ -1,0 +1,6 @@
+"This teaching and learning package (TLP) provides an introduction to piezoelectric materials.On completion of this tutorial you should:
+
+    * Understand the atomic basis for piezoelectricity.
+    * Understand how this basis scales up to a full effect on the macro scale.
+    * Understand how piezoelectrics tie in with ferroelectrics and how their properties arise from the same basis.
+    * Understand how the properties of piezoelectrics are put to use both industrially and commercially."

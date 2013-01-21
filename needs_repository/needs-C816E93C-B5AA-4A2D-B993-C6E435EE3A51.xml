@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">The FOSS (Full Option Science System) products page links to "sample sites" for each module.  Here PDF samples of matrices and techniques available in full through the published versions, may be downloaded.  Correlations to science standards available.</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>teacher</lom:value></lom:intendedEndUserRole><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"FOSS is an elementary school science program developed at the Lawrence Hall of Science with support from the National Science Foundation. FOSS program materials are designed to meet the challenge of providing meaningful science education
+for all students in diverse American classrooms and to prepare them for life in the 21st century. FOSS incorporates time-honored methodologies such as hands-on inquiry and interdisciplinary projects with contemporary methodologies such as multisensory observation and collaborative learning
+groups. Development of the FOSS program was guided by recent advances in the understanding of how youngsters think and learn."
+* Components
+* Science Standards Correlations
+* Pedagogy
+* Strand Matrices for Grades K-6
+* Implementation
+* Research on FOSS
+* Other FOSS links</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C816E93C-B5AA-4A2D-B993-C6E435EE3A51</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Science education systems, FOSS, Earth science, Life science, Physical science, scientific reasoning</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">FOSS (Full Option Science System)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:148FCA9F-61EE-4FC9-9362-AB347899E346
+N:Lawrence Hall of Science;(UCB);null;;
+FN:(UCB) Lawrence Hall of Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:24728E39-6FD2-40AB-B24F-0AA56B81DF47
+N:Delta Education;;;;
+FN:Delta Education
+ADR;TYPE=work,postal,parcel:;;80 Northwest Blvd.P.O. Box 3000Nashua, NH  03061-3000;;;;
+TEL;TYPE=work,voice:1-800-258-1302
+TEL;TYPE=work,fax:1-800-282-9560
+URL:http://www.delta-education.com/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-03-20</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-03-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C816E93C-B5AA-4A2D-B993-C6E435EE3A51</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.lawrencehallofscience.org/foss/components/ms.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

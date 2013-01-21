@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">TryNano.org is a resource for anyone interested in learning about Nanoscience and Nanotechnology. Nanoscience and Nanotechnology are technical fields that focus on matter at the nanoscale - dimensions that are roughly 1 to 100 nanometers (1nm = 10-9m).
+
+The term Nanoscience often refers to research that discovers and characterizes new behaviors and properties of materials at the nanoscale. Nanotechnology describes how discoveries at the nanoscale are put to work, especially by controlling the behavior of matter and building useful devices. Some of these devices have demonstrated applications in medicine, electronics, robotics, and energy production.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0FB580C6-ECCC-4FDF-AF56-35F61E99723C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">nanotechnology, nanoscience</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">TryNano.org Nanotechnology for a wider audience</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A32C6823-C801-4C42-82EE-8534D0FDA137
+N:IEEE;;;;
+FN:IEEE
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:525C30E7-7299-46C4-A5F6-BD48A1FB7D97
+N:Ingrid Burbey;;;;
+FN:Ingrid Burbey
+ADR;TYPE=work,postal,parcel:;;950 Shilo Way;Blacksburg;VA;;
+TEL;TYPE=work,voice:540/951-7710 (home)
+URL:www.filebox.vt.edu/users/iburbey
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-08-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0FB580C6-ECCC-4FDF-AF56-35F61E99723C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.trynano.org/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

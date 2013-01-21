@@ -1,0 +1,17 @@
+Book description:
+"Extreme Programming (XP) has been established as a significant departure from traditional software development methods. The success of the XP 2001 and XP Universe 2001 conferences is no surprise; some of the brightest minds in software engineering gathered at these venues to discuss the discipline that is XP. These conferences showcase the continuously changing face of XP. Common programming practices will never be the same, and developers and business people alike need to bear this fact in mind as they plan for the future.
+
+Inspired by the techniques and challenges explored at these conferences, Extreme Programming Perspectives presents 47 articles that represent the insights and practical wisdom of the leaders of the XP community. Encompassing a wide variety of key topics on XP and other agile methodologies, this book offers experience-based techniques for implementing XP effectively and provides successful transitioning strategies. Articles are grouped into six main sections: an overview of XP and agile methodologies; XP development practices; issues involved in transitioning to XP and agile methodologies; real-life experiences of working with XP; tools for facilitating XP development; and finally, ideas for expanding and extending XP.
+
+You will find such outstanding articles as:
+
+# Circle of Life, Spiral of Death: Ways to Keep Your XP Project Alive and Ways to Kill It, by Ron Jeffries
+# Agile Software DevelopmentWhy It Is Hot!, by Jim Highsmith
+# An Introduction to Testing, XP-Style, by Don Wells
+# Increasing the Effectiveness of Automated Testing, by Shaun Smith and Gerard Meszaros
+# The System Metaphor Explored, byWilliam Wake and Steven Wake
+# Pair Programming: Why Have Two Do the Work of One?, by Laurie Williams
+# A Metric Suite for Evaluating the Effectiveness of an Agile Methodology, by Laurie Williams, Giancarlo Succi, and Michele Marchesi
+# The Five Reasons XP Cant Scale and What to Do about Them, by Ron Crocker
+# Keep Your Options Open: Extreme Programming and the Economics of Flexibility, by Hakan Erdogmus and John Favaro
+# Extreme Programming from a CMM Perspective, by Mark C. Paulk."

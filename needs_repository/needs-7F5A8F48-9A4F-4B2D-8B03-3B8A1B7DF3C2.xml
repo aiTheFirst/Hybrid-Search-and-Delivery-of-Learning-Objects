@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This paper describes an exploratory study to identify which environmental and student factors best predict intention to persist in the computer science major. The findings can be used to make decisions about initiatives for increasing retention. Eight indices of student characteristics and perceptions were developed using the research-based Student Experience of the Major Survey: student-student interaction; student-faculty interaction; collaborative learning opportunities; pace/workload/prior experience with programming; teaching assistants; classroom climate/pedagogy; meaningful assignments; and racism/sexism. A linear regression revealed that student-student interaction was the most powerful predictor of students intention to persist in the major beyond the introductory course. Other factors predicting intention to persist were pace/workload/prior experience and male gender. The findings suggest that computer science departments interested in increasing retention of students set structured expectations for student-student interaction in ways that integrate peer involvement as a mainstream activity rather than making it optional or extracurricular. They also suggest departments find ways to manage programming experience gaps in CS1.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7F5A8F48-9A4F-4B2D-8B03-3B8A1B7DF3C2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Classroom climate, Faculty development, Stereotype threat, Pair programming</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Exploring Factors that Influence Computer Science Introductory Course Students to Persist in the Major</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:88956A44-EAF5-4C69-B070-06D600A4EBAD
+N:Barker;Lecia;null;;
+FN:Lecia Barker
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C4E1FD6A-C631-4AE2-AD2C-4A68FFB6379A
+N:Kalahar;Kimberly;null;;
+FN:Kimberly Kalahar
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BA233BD7-F0D5-441A-9350-BAC328A35366
+N:McDowell;Charlie;null;;
+FN:Charlie McDowell
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:800B6C8A-35D4-40D1-A728-98B94471AA50
+N:Kimberly Kalahar;;;;
+FN:Kimberly Kalahar
+ADR;TYPE=work,postal,parcel:;;ATLAS 207, Campus Box 320 UCB;Boulder;CO;;
+TEL;TYPE=work,voice:(303) 735-6004
+TEL;TYPE=work,fax:(303) 735-5621
+URL:www.ncwit.org
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-03-24</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>7F5A8F48-9A4F-4B2D-8B03-3B8A1B7DF3C2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ncwit.org/pdf/Barker-McDowell-Kalahar-SIGCSE2009.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

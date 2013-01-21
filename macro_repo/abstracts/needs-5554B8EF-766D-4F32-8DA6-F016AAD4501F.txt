@@ -1,0 +1,7 @@
+Template for Describing a (Program, Practice, or Resource) for Increasing Women's Participation in IT 
+
+This template is for describing and documenting formal and informal interventions that attract, retain, and advance women and girls in information technology programs of study and careers. Discovering what works and under what circumstances, and sharing that information so that successful practices can be broadly adopted. The NCWIT will evaluate these practices and share them through its Digital Library.
+
+The goal of the ACM-W student chapters is to recruit and retain women students in undergraduate and graduate computing programs. The chapters provide a variety of activities to educate women about the opportunities in the field of computing, engage women students in exciting computing activities, connect students with women leaders in the field, encourage students to promote the field of computing to young girls, and promote the activities of ACM. For those many institutions that already offer informal mentoring programs with similar goals and activities, formalizing these groups into ACM-W chapters can provide additional resources and networking opportunities. 
+
+There are also ACM student chapters at more than 750 colleges and universities worldwide. These chapters provide generous opportunities for its members to meet and learn from students, professionals, and faculty representatives.

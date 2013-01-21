@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Culture can be defined by practices that emerge from prolonged participation within specific communities.  While several studies show statistically significant increases in math performance using culturally responsive approaches, the the literature on culturally responsive computing education is quite small.  Two such frameworks-- AADMLSS City Stroll (African American Distributed Multiple Learning Styles System) and CSDT (Culturally Situated Design Tools) --have been developed for math education and are currently being expanded to computing education.  They are, however, only being deployed in limited geographic regions.  The goals of this BPC Demonstration Project are: 
+1) To extend the current work with these two culturally responsive education tools, CSDT and AADMLSS, from the local or regional scale to the national scale to be incorporated in the Boys and Girls Clubs of America (BGCA), a national organization. 
+2) To develop an institutional "pipeline" such that K-12 students successfully participating in these activities can maximize their odds of entering undergraduate programs in computing. 
+3) To assist the efforts to extend the work on these math educational tools to include computing. 
+4) To use the two approaches to provide new understandings about the in circumstances in which each is most useful and the correlations.  
+The aforementioned goals will be accomplished by incorporating the culturally-specific tools into at least seven BGCA clubs over a three year time period.  Further, this BPC project will engage the national organization, such as HACU (Hispanic Association of Colleges and Universities) and NTA (National Technical Association), along with other Broadening Participation in Computing Alliances, such as STARS (Students &amp; Technology in Academia, Research, and Service), to seek volunteers to work with the local BCGA sites and make contact with the local institutions of higher education to address pipeline issues."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2CA9390F-B53A-4560-9DB1-E52549A8A741</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">BPC-DP</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: Incorporating Cultural Tools for Math and Computing Concepts into the Boys and Girls Clubs of America</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:7F494802-BDD6-4F5B-BA47-D4BCA89E3C1C
+N:Taylor;Valerie;null;;
+FN:Valerie Taylor
+ORG:Texas A&amp;M University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-12-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:92FE77DA-1702-4B74-87EC-ED93590923DA
+N:Eglash;Ron;null;;
+FN:Ron Eglash
+ORG:Rensselaer Polytechnic University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-12-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5C31EB70-F49D-4AE4-BF86-9725BD386F41
+N:Gilbert;Juan;null;;
+FN:Juan Gilbert
+ORG:Clemson University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E9948A3-F7C0-44BB-961E-E18B9E19C978
+N:Monica Noring;;;;
+FN:Monica Noring
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-07-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2CA9390F-B53A-4560-9DB1-E52549A8A741</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0837717</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

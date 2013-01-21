@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Attributes><Attribute><Name>title</Name><Value>The Case for Computer Programming Instruction for All Engineering Disciplines</Value></Attribute><Attribute><Name>description</Name><Value>Paper (pdf) from 2005 ASEE Conference.
+Abstract:
+
+"There is no debate that computers are ubiquitous tools for the engineer in
+training as well as the practicing engineer. In addition to being able to use a
+computer as a tool, we propose that engineers of all disciplines, and not just
+those studying electrical and/or computer engineering, should be able to
+program computers. A student body familiar with computer programming
+enables a more thorough treatment of advanced courses as well as yielding
+graduates with valuable skills that they will need in industry.
+Despite the fact that many engineering programs have altogether dropped
+teaching computer programming to their non- ECE majors, other programs have
+continued to require an introductory programming course at the freshman level
+for all engineering majors.
+
+A variety of platforms are used in these courses,
+from the traditional general- purpose programming languages like C, C++, or
+Java to programmable engineering tools such as MATLAB, Mathcad, and even
+Excel. We present our case for keeping programming as a key introductory
+course in undergraduate engineering. Our program utilizes a common course
+thread for the first two years of study. Having a student population already
+programming- literate enables us to conduct significant course projects that go
+beyond simulation to involve actual design and build.
+Our experiences indicate that teaching C programming is a good choice for
+engineering students.</Value></Attribute><Attribute><Name>content_language</Name><Value>en-US</Value></Attribute><Attribute><Name>format</Name><Value/></Attribute><Attribute><Name>requirement</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>other_platform_requirement</Name><Value/></Attribute><Attribute><Name>duration</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_type</Name><Value/></Attribute><Attribute><Name>intended_user_language</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_level</Name><Value>LOMv1.0</Value></Attribute><Attribute><Name>context</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_min</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_max</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>difficulty</Name><Value>LOMv1.0</Value></Attribute><Attribute><Name>typical_learning_time</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_concept_and_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_skilllevel_prerequisite</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_idea_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>intended_end_user_role</Name><Value/></Attribute></Attributes>

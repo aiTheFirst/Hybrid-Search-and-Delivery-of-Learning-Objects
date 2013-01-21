@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Partially motivated by Larry Summer's "nature versus nuture"  speculation, this report was written by the Committee on Maximizing the Potential of Women in Academic Science and Engineering and commissioned by the Committee on Science, Engineering, and Public Policy (COSEP).  The website provides free online viewing of the report, along with a webcase and other documentation. The hard copy and compiled PDF requires purchase. From the press release: Women face barriers to hiring and promotion in research universities in many fields of science and engineering -- a situation that deprives the United States of an important source of talent as the country faces increasingly stiff global competition in higher education, science and technology, and the marketplace. Eliminating gender bias in universities requires immediate, overarching reform and decisive action by university administrators, professional societies, government agencies, and Congress.
+
+"Women are capable of contributing more to the nation's science and engineering research enterprise, but bias and outmoded practices governing academic success impede their progress almost every step of the way," said Donna E. Shalala, president of the University of Miami, former secretary of the U.S. Department of Health and Human Services, and chair of the committee that wrote the report.  "Fundamental changes in the culture and opportunities at America's research universities are urgently needed.  The United States should enhance its talent pool by making the most of its entire population."
+
+The following are some of the committee's key findings that underscore its call to action:
+
+(1) Studies have not found any significant biological differences between men and women in performing science and mathematics that can account for the lower representation of women in academic faculty and leadership positions in S&amp;T fields.
+
+(2) Compared with men, women faculty members are generally paid less and promoted more slowly, receive fewer honors, and hold fewer leadership positions.  These discrepancies do not appear to be based on productivity, the significance of their work, or any other performance measures, the report says. 
+
+(3) Measures of success underlying performance-evaluation systems are often arbitrary and frequently applied in ways that place women at a disadvantage.  "Assertiveness," for example, may be viewed as a socially unacceptable trait for women but suitable for men.  Also, structural constraints and expectations built into academic institutions assume that faculty members have substantial support from their spouses.
+Keywords: gender equity, advancement for women</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>94A4929D-F1B2-432E-8167-63335569CB4E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, advancement for women, women faculty</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Beyond Bias and Barriers: Fulfilling the Potential of Women in Academic Science and Engineering</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:31D7CDD0-6519-42C8-889E-AAC2C88839F2
+N:NAS, NAE, IOM;National Academies Press;null;;
+FN:National Academies Press NAS, NAE, IOM
+ORG:NAS, NAE, IOM;National Academies Press
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-10-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>94A4929D-F1B2-432E-8167-63335569CB4E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nap.edu/catalog.php?record_id=11741#toc</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>diagram</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The overarching goal of the Informedia initiatives is to achieve machine understanding of video and film media, including all aspects of search, retrieval, visualization and summarization in both contemporaneous and archival content collections.
+
+The base technology developed under Informedia-I combines speech, image and natural language understanding to automatically transcribe, segment and index linear video for intelligent search and image retrieval. Informedia-II seeks to improve the dynamic extraction, summarization, visualization, and presentation of distributed video, automatically producing ???collages??ù and ???auto-documentaries??ù that summarize documents from text, images, audio and video into one single abstraction.
+
+Informedia's MPEG collection is available through The Open Video Project, a shared digital video collection developed at the Interaction Design Laboratory at the School of Information and Library Science, University of North Carolina Chapel Hill. The Open Video Project repository is hosted as one of the first channels of the Internet 2 Distributed Storage Infrastructure Initiative,a project that supports distributed repository hosting for research and education in the Internet 2 community.
+
+The collection is also available at the NSDL site. Full text search across the video segments is available. For example, to see all the items in the collection, search on "Informedia at Carnegie Mellon University" at the NSDL site. To see just the video segments contributed by Informedia dealing with volcanoes and Mars, search on "Informedia volcano Mars" (with the 2004 NSDL design, clicking on the "more info" link shows metadata associated with the video segment, including a Description" field which holds the text transcript for the video segment). The content was made available on this site through the Open Archives Initiative Protocol for Metadata Harvesting, developed by the Open Archives Initiative.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8E163D90-47BD-4454-83CC-8A58F5CD0050</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">informedia: digital video library</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4F83CC12-5BB4-4ACB-BEA6-271E0E1F130E
+N:Carnegie Mellon;School of Computer Science;null;;
+FN:School of Computer Science Carnegie Mellon
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-12-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8E163D90-47BD-4454-83CC-8A58F5CD0050</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.informedia.cs.cmu.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

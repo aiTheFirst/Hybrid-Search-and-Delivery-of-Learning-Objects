@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A year after the U.S. Supreme Court affirmed the value of diverse learning environments but struck down formulaic or points-based approaches to undergraduate admissions, AAAS issued this report to clarify legally defensible options for protecting diversity in science and engineering programs.
+
+Emerging from a recent invitation-only think-tank sponsored by the Alfred P. Sloan Foundation, Standing Our Ground provides legal guidance on two Michigan rulings that affirmed the importance of a diverse learning environment, but struck down the use of race as a quantitative "plus factor" in undergraduate admissions decisions. The mixed Grutter and Gratz messages, issued in June 2003, triggered confusion among academic, non-profit, and federal institutions seeking to extend the benefits of education to all.
+
+Standing Our Ground also features a "legal primer" to help guide university counsels in interpreting the Grutter and Gratz rulings. It also describes eight "design principles" that may serve as a checklist.
+Excerpt:
+"A momentous day for the future of education in
+America was June 23, 2003. On that day, the United
+States Supreme Court sanctioned what has been
+known for decades in higher education admissions
+offices, in corporate board rooms, and even in military
+service academies: in this country, diversity can be an
+essential component of excellence in education.
+Granting constitutional legitimacy to educational
+policy makers pursuit of this ideal is not only
+respectable as a matter of equity under the law, but is
+actually essential. Changing demographic patterns and
+national priorities demand that America fully utilize
+its greatest resourceits citizenry. Educational policy
+makers get it. And finally, the U.S. Supreme Court
+does, too."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>200A57C5-60E9-4AE2-826A-8C7F39A37087</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">affirmative action, policy, retention, Title IX, recruitment</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Standing our Ground: A Guidebook for STEM Educators in the Post-Michigan Era</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4B4D9B40-CA39-4504-BD81-706F8F34584C
+N:Center for Advancing Science and Engineering Capacity;;;;
+FN:Center for Advancing Science and Engineering Capacity
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:96452C46-A42E-4CAA-99C2-BCB45C05DA79
+N:Malcom;Shirley;null;;
+FN:Shirley Malcom
+ORG:American Association for the Advancement of Science - AAAS
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9AEA1805-D563-4778-B117-B595CD4559DA
+N:Cubin;Daryl;null;;
+FN:Daryl Cubin
+ORG:National Action Council for Minorities in Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FE498C4F-7DCF-47A7-A984-AA0308FBF59B
+N:Jesse;Jolene;null;;
+FN:Jolene Jesse
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-06-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>200A57C5-60E9-4AE2-826A-8C7F39A37087</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.aaas.org/standingourground/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

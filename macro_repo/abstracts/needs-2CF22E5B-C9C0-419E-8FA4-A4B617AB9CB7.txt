@@ -1,0 +1,3 @@
+These algorithms have been compiled and run under gcc/linux.
+
+These programs use the gcc indirect-goto extension. They must be compiled using gcc to work. They will not compile with visual C++. I have not tried The Windows version of gcc, but I assume it will compile these programs correctly. Gcc is the default C compiler on most versions of LINUX, so the cc command actually invokes gcc. Use the following URL to get gcc, if you don't already have it.

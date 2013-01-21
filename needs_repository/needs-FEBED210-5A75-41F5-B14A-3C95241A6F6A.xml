@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"You can start an AWSEM club anywhere in the United States with support from Saturday Academy if the majority of your club members are girls and your clubs activities relate to science, technology, engineering and/or mathematics.
+
+Three steps to starting an AWSEM club:
+
+1. Purchase the AWSEM digital handbook
+
+This resource will supply you with advice for recruiting a group leader, resources for starting a new club, curriculum materials, hands-on energizer activities, a directory of professional women dedicated to corresponding with AWSEM girls and hosting site visits, fundraising tips, and online resources. The handbook is available for $20 (including shipping and handling). Contact AWSEM to order one.
+
+2. Find a location for your club meetings
+
+Clubs meet at schools, community centers, or any other safe and spacious meeting place. Often a teacher at your school can provide a classroom for after-school meetings.
+
+3. Identify a Group Leader
+
+Group leaders can be volunteer parents or teachers. To find a college-age volunteer who is majoring in science or engineering, you can post "help wanted" ads with college newspapers, career centers, and science department newsletters. The AWSEM handbook includes information that will help you recruit a group leader. Once you identify a leader, the AWSEM handbook provides all of the resources needed to start and lead a club."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>FEBED210-5A75-41F5-B14A-3C95241A6F6A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">club activities, recruitment, engineering, mentors, AWSEM</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Advocates for Women in Science, Engineering and Mathematics</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:089C6613-92F7-4783-8183-07CC10D89D3C
+N:Kenzler;S.;null;;
+FN:S. Kenzler
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5B66D20C-C14E-4864-B2EC-0D02318A6E59
+N:null;null;null;;
+FN:AWSEM
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9C1E56CD-3E36-4FB4-9B4F-7C9D4B5327FD
+N:Eric Eisinger;;;;
+FN:Eric Eisinger
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-05-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>FEBED210-5A75-41F5-B14A-3C95241A6F6A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://saturdayacademy.org/GroupOptions/AWSEM/StartingaClub/tabid/99/Default.aspx</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The Environmental and Water Studies Program covers a broad spectrum of specialities, including environmental chemistry and microbiology, water pollution control, groundwater pollution, water resources engineering, hydrology, environmental fluid mechanics, environmental and water resources planning, indoor and outdoor urban air pollution, global air pollution, weather, and climate.
+
+The EWS Program is divided into two specializations, Environmental Engineering and Science (EES) and Environmental Fluid Mechanics and Hydrology (EFMH).
+
+The Environmental Engineering and Science specialization covers the chemical, biological, and engineering aspects of water supply and water pollution control, and the fate and effects of pollutants in surface and ground waters. Additional topics covered in EES include environmental aspects of energy generation and assessment of human exposure to pollutants.
+
+The Environmental Fluid Mechanics and Hydrology specialization provides a quantitative understanding of the physical processes controlling the movement of water and solutes in streams, reservoirs, and estuaries; over the land surface; and in the unsaturated and saturated regions below the earth's surface.
+
+EES and EFMH jointly provide coursework and research opportunities on atmospheric topics, including indoor air pollution, outdoor urban air pollution, global air pollution, weather and climate. EFMH also provides instruction and research opportunities in environmental planning with respect to both water and air."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5F0C50A4-37C0-4F0C-8E3F-890C501A7A59</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Graduate Environmental Engineering Curriculum - Stanford</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BDB82850-C2A3-46F3-84C5-2AB057106607
+N:Stanford University;Department of Civil and Environmental Engineering;null;;
+FN:Department of Civil and Environmental Engineering Stanford University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-13</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5F0C50A4-37C0-4F0C-8E3F-890C501A7A59</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://cee.stanford.edu/prospective/grad/grad_programs.html?id=1#ees</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

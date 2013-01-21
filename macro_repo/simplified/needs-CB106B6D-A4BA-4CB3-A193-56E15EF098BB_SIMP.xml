@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Attributes><Attribute><Name>title</Name><Value>Computer Programming in C++</Value></Attribute><Attribute><Name>description</Name><Value>Course website and online version textbook for introductory C++ programming course. This site has lecture notes, assignment, homework problems and resources.
+
+It is intended to supplement, not replace, classroom lectures and the hard cover textbook [Bharat Kinariwala, Tep Dobry; "Programming in C", (in preparation)]. The online resource covers the first nine chapters of the text (Part I) in this course. Part II (chapters 11-15).
+The following topics are covered:
+    *  Part I - Fundamental C Programming
+
+      * Chapter 1 Introduction.
+      * Chapter 2 Basic Concepts.
+      * Chapter 3 Designing Programs Top Down.
+      * Chapter 4 Processing Character Data.
+      * Chapter 5 Numeric Data Types and Expression Evaluation.
+      * Chapter 6 Pointers.
+      * Chapter 7 Arrays.
+      * Chapter 8 Functions and Files.
+      * Chapter 9 Two Dimensional Arrays.
+
+    * Part II - Some Advanced Features of C
+
+      * Chapter 10 Sorting and Searching.
+      * Chapter 11 String Processing.
+      * Chapter 12 Structures and Unions.
+      * Chapter 13 Files and the Operating System.
+      * Chapter 14 Storage Class and Scope.
+      * Chapter 15 Engineering Programming Examples.</Value></Attribute><Attribute><Name>content_language</Name><Value>en-US</Value></Attribute><Attribute><Name>format</Name><Value/></Attribute><Attribute><Name>requirement</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>other_platform_requirement</Name><Value>N/A</Value></Attribute><Attribute><Name>duration</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_type</Name><Value/></Attribute><Attribute><Name>intended_user_language</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_level</Name><Value/></Attribute><Attribute><Name>context</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_min</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_max</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>difficulty</Name><Value/></Attribute><Attribute><Name>typical_learning_time</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_concept_and_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_skilllevel_prerequisite</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_idea_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>intended_end_user_role</Name><Value/></Attribute></Attributes>

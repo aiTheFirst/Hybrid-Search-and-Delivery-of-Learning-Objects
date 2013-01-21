@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>very easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"To coincide with National Engineers Week (February 17&amp;#8209;23) and National Introduce a Girl to Engineering Day (February 21), American Public Television has announced the airing of Bold Visions: Women in Science &amp; Technology, which aims to dispel the myths commonly associated with science and technology and with female professionals who work in those fields. The program premieres on Public Television, February 1st, 2008).
+
+The program profiles three fabulous women: Anne Carpenter, a research scientist for Broad Institute of MIT and Harvard, who is searching for genetic causes of diseases; Joan Higginbotham, a former NASA astronaut who applies her engineering expertise in space; and Duy-Loan Le, a senior fellow at Texas Instruments, who is as agile leading a team of colleagues as she is kicking a soccer ball with her sons. Their work is exciting and collaborative, and it's making a positive difference in the quality of our lives - a message we must promote if America is going to keep its competitive edge by fostering home-grown talent.
+
+Bold Visions also features Hispanic high school girls who, together with other students, have built a wind turbine to generate electricity for lights at a community center. (They were recently featured in People en Espanol.) Emmy Award - winning executive producer Helene Lerner hosts.
+
+DVDs of the program and accompanying Discussion Guides are being distributed nationwide to be viewed by teenagers. Among the groups receiving them are Girls Inc., The Infinity Project, National Girls Collaborative Project, Sally Ride Science, National Coalition of Girls' Schools, Society of Hispanic Professional Engineers, Project Lead The Way classrooms, International Society for Technology in Education, International Technology Education Association and the National School Boards Association."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C6FE82EC-6D81-49EB-A41D-DA3431271C9B</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, women in engineering</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Bold Visions: Women in Science and Technology</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6793A729-C10D-4BF5-955C-DFE2BF53F513
+N:Learner;Helene;null;;
+FN:Helene Learner
+ORG:Engineers Week
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-02-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C6FE82EC-6D81-49EB-A41D-DA3431271C9B</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.eweek.org/site/News/Eweek/2008_bold_visions_pressrelease.shtml</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

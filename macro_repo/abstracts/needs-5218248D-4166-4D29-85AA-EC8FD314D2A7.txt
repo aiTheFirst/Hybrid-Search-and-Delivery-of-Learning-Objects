@@ -1,0 +1,11 @@
+The EECS Department currently offers MS, MSE, and Ph.D. degrees in the following three programs (through the Rackham Graduate School):
+
+(1) Computer Science & Engineering
+(Hardware, Intelligent Systems, Software, Theory, VLSI).
+
+(2) Electrical Engineering 
+(Applied Electromagnetics and RF Circuits, Circuits & Microsystems, Optics and Photonics, Solid State, VLSI).
+
+(3) Electrical Engineering: Systems
+(Control, Communications, Signal Processing). The EE pgram has the following possible areas of concentration:
+(1) Circuits and Microsystems, (2) Applied Electromagnetics and RF Circuits, (3)Optics and Photonics, Optics and Photonics and VLSI."

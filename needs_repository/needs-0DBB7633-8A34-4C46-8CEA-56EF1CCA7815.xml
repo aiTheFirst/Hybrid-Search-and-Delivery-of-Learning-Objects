@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">From Special Issue of The Scientist titled "Diversity 2007. 
+
+Myth: Diversity is good for business.
+Reality: It's a bit more complicated than that. Research from MIT's Thomas Kochan showed-controversially-that ethnic and gender diversity can harm team and company performance if they're not managed effectively. (see "Diversity: The New Business Case")
+
+Myth: Blacks and Latinos don't consider careers in research because they're more interested in becoming medical doctors.
+Reality: In fact, 90% of all undergraduates taking introductory science courses-not just young people of color, but whites too-are interested in medicine, not basic science. (see "Shared Challenges, Shared Solutions")
+
+Myth: Poor K-12 education is to blame for the lack of diversity among undergrads pursuing science majors.
+Reality: The ethnic representation of students who enroll in introductory science classes mirrors the student body as a whole, but black and Latino students are more likely to give up on science than white kids. (see "Shared Challenges, Shared Solutions")
+
+Myth: Women make less money than men for the same job because they take time off to have children, and devote more time to caring for them.
+Reality: Women with no kids have higher salaries than those who have children, but they still earn less than a man doing the very same job. (see "Show Me the Money")
+
+Myth: US pharmas and biotechs frequently look abroad for science talent, and this is a one-way street.
+Reality: More and more Asian life science companies are looking to hire Americans away from US firms. (see "Small World")
+
+Myth: Women are bad at math.
+Reality: No matter what Larry Summers, former Harvard president, might think, the National Academies concluded in a September 2006 report that there is no evidence for any gender difference in math aptitude. "The academic success of girls now equals or exceeds that of boys at the high school and college levels, rendering moot all discussions of the biological and social factors that once produced sex differences in achievement at these levels," the report states.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0DBB7633-8A34-4C46-8CEA-56EF1CCA7815</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Diversity: Some Myths and Realities</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B002F827-C031-49A2-ACA2-85457D02971A
+N:Magazine of Life Sciences;The Scientist Online:;null;;
+FN:The Scientist Online: Magazine of Life Sciences
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-12-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0DBB7633-8A34-4C46-8CEA-56EF1CCA7815</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.the-scientist.com/2006/11/01/s5/1/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

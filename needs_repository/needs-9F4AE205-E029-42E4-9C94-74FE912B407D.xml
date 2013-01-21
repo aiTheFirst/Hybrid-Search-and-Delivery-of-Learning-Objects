@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract:
+"This report describes research into gender and educational background and its relationship with computer
+self-efficacy and perceptions of Computer Science amongst university students and school students
+in South Africa. It is important to understand these issues in the specific cultural and economic
+environment of South Africa.
+The main focus of this report is on self-efficacy which is defined as the beliefs an individual has
+about their ability to complete certain tasks. The Cassidy and Eachus scale is used to measure general
+computer self-efficacy, and course-specific self-efficacy was measured by statements describing
+achievement in the course.
+Amongst first year Computer Science university students, male students had significantly higher
+self-efficacy than female students and predicted higher marks, but there was no difference in their
+actual marks.
+Amongst secondary school students no significant gender differences were found in general computer
+self-efficacy. For boys, there was no link between plans to take computing at school and selfefficacy.
+For girls, those who had decided to take computing had higher self-efficacy.
+Students with a disadvantaged educational background were found to have mixed self-efficacy
+beliefs. They had lower general computer self-efficacy than students with an advantaged educational
+background, and higher course-specific self-efficacy and mark prediction. However, their actual
+marks were lower.
+Appendices to the report describe additional research. University students without prior experience
+of programming had lower self-efficacy, lower predicted marks and lower actual marks than
+those with prior programming experience. Women with no prior experience had particularly low
+general computer self-efficacy beliefs.
+School students with higher usage of computers had higher self-efficacy. Boys had higher computer
+usage than girls. Boys perceived Computer Science as less male-oriented than girls. There was
+no link between perceptions of male-orientedness and plans to study computing at school."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9F4AE205-E029-42E4-9C94-74FE912B407D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Gender and educational background and their effect on computer self-efficacy and perceptions</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:013AB44E-5AD3-4ACF-A993-CF2D60BB54F6
+N:School of Computer Science, University of the Witwatersrand;Vashti Galpin, Ian Sanders, Heather Turner, Bernadine Venter;null;;
+FN:Vashti Galpin, Ian Sanders, Heather Turner, Bernadine Venter School of Computer Science, University of the Witwatersrand
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-03-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9F4AE205-E029-42E4-9C94-74FE912B407D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://citeseer.ist.psu.edu/619720.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

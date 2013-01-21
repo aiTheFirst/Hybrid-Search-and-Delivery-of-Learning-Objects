@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The Invention and Impact proceeding highlights recent innovations in undergraduate STEM education for the diverse student population. It contains information on learning environments, course content, curricula, and educational practices that improve learning and achievement of all undergraduate students. The four overarching themes of the proceeding are:
+
+    &lt;P>&lt;P>* Invention -- development and integration of innovative modules, courses, curricula, technology, and instructional methods;
+    &lt;P>* Adaptation -- adaptability of classroom, department, or institutional strategies that build on exemplary materials, tools, or practices developed by others;
+    &lt;P>* Assessment -- development, testing, and dissemination of assessment practices, materials, tools, and measures to guide efforts that improve effectiveness of courses, curricula, and programs of study; and
+    &lt;P>* Impact -- examination of the influence of innovative pedagogy and practice on undergraduate STEM education for diverse learners</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>017779B2-7459-44A7-9688-1D333C3709E3</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">STEM education, adaptation, assessment, impact</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Invention and Impact: Building Excellence in Undergraduate Science, Technology, Engineering and Mathematics (STEM) Education</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:4704C483-C6D4-4DA7-81D0-F452059209C7
+N:American Association for the Advancement of Science;;;;
+FN:American Association for the Advancement of Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2004-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:525C30E7-7299-46C4-A5F6-BD48A1FB7D97
+N:Ingrid Burbey;;;;
+FN:Ingrid Burbey
+ADR;TYPE=work,postal,parcel:;;950 Shilo Way;Blacksburg;VA;;
+TEL;TYPE=work,voice:540/951-7710 (home)
+URL:www.filebox.vt.edu/users/iburbey
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-24</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>017779B2-7459-44A7-9688-1D333C3709E3</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.aaas.org/publications/books_reports/CCLI/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

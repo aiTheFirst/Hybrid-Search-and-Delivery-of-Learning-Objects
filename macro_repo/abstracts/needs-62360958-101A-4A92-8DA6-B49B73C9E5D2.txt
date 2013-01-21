@@ -1,0 +1,14 @@
+Website on the history of NASA's Ranger Program. The site has original photographs.
+
+"The Ranger program consisted of nine spacecraft missions with the ultimate objective of obtaining high-resolution photographs of the lunar surface. The development of the basic Ranger spacecraft system was initiated in 1959. The spacecraft was conceived as a fully attitude-stabilized platform from which lunar or planetary observations could be made. The Ranger spacecraft had three different configurations.
+
+      Block I Missions
+      Block I, consisting of Ranger 1 and 2, were test missions. They were launched in 1961 for nonlunar-oriented engineering development.
+
+      Block II Missions
+      These missions (Ranger 3, 4, and 5) were launched during 1962 to achieve rough lunar landings, obtain science data, and test approach television camera operations. These Ranger spacecraft experienced satisfactory vehicle performance but either missed the Moon (Ranger 3) or failed before impacting the lunar surface (Ranger 4 and 5).
+
+      Block III Missions
+      The experience of the earlier phases of the program led to the Block III missions in 1964 and 1965:  Ranger 6, 7, 8, and 9. These spacecraft were designed to achieve lunar impact trajectories and to transmit high-resolution photographs of the lunar surface during the final minutes of flight.
+
+      Ranger 6 performed satisfactorily, but the camera failed to operate before lunar impact. However, Ranger 7, 8, and 9 fulfilled the mission objective and provided more than 17,000 photographs at resolutions not previously obtained. The Ranger 7 and 8 missions provided coverage of the two types of mare terrain in which they impacted. The first type is modified by crater rays, and the second is crossed by a complex system of ridges. Ranger 9 provided coverage of the highland region, impacting in the large central highland crater Alphonsus."

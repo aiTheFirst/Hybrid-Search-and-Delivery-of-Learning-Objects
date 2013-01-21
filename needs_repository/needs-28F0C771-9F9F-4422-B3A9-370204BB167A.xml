@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">The TEC Review is a searchable online database that highlights peer-reviewed curriculum in the fields of technology and engineering.  The database assists teachers in locating quality curriculum materials that teach technology and engineering principles at all K-12 grade levels.  There are over 600 materials listed in the TEC Review database, and more than a third of these curriculum pieces have been evaluated by a team of technology and engineering education professionals.  The materials were examined in terms of student assessment, teacher support, connections to curriculum standards, and overall usability.  
+
+This project stems from the National Center for Technological Literacy (NCTL), which aims integrate engineering as a new discipline in schools nationwide and to inspire the next generation of engineers and innovators. For more information about the NCTL, visit http://www.nctl.org</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>28F0C771-9F9F-4422-B3A9-370204BB167A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">curriculum, education, engineering, technology, design</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Technology and Engineering Curriculum (TEC) Review</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6769450E-C1E5-4286-BF9C-01A33991E102
+N:Educator Resource Center, Museum of Science, Boston;;;;
+FN:Educator Resource Center, Museum of Science, Boston
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:DC8FDBBD-0090-4307-A730-ECAA220E9438
+N:Jeff Mehigan;;;;
+FN:Jeff Mehigan
+ADR;TYPE=work,postal,parcel:;;Museum of Sciencec/o Educator Resource Center1 Science Park;Boston;MA;;
+TEL;TYPE=work,voice:617 589 0170
+TEL;TYPE=work,fax:617 589 0187
+URL:www.mos.org/library
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-01-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>28F0C771-9F9F-4422-B3A9-370204BB167A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.mos.org/educators/classroom_resources/resource_search</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

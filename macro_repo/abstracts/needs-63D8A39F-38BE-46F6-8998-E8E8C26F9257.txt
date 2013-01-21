@@ -1,0 +1,8 @@
+There are 2 MS degrees offered in Computer Science: 
+(1) M.S. in Computer Science
+
+For CS students with a B.S. in computer science or as determined by the department.
+(2) The CS "M.S. Only" Program
+
+The Computer Science Division's "M.S. Only" program is designed for students who intend to enter industry with an M.S. rather than stay for a Ph.D. Applicants to the M.S. Only program are considered separately from those applying for a Ph.D and students in this program are not guaranteed admission for the Ph.D. Those who would like to continue for a Ph.D. must petition the admissions committee.
+The EECS Department offers three types of Ph.D. degrees awarded to students under the same conditions as the corresponding M.S. degrees (above). The principal requirements for the Ph.D. are (I) coursework (a major field and two minor fields), (II) departmental preliminary requirement (oral exam and breadth courses) which are different for EE and CS, (V) the qualifying exam, and (IX) the dissertation. There is no foreign language requirement. The EECS Department requires that a student establish a major subject area and two minor subject areas."

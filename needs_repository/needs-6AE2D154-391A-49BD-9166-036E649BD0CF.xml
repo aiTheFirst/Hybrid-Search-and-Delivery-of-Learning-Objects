@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Women and minorities are underrepresented in college CS majors and in IT employment. In an attempt to understand the reasons for this severe under-representation of African American and Latino/a high school and college students, we have chosen to focus on the Computer Science pipeline at the high school level. We worked with underrepresented students in the federally funded TRIO programs and other pre-college programs and compared their experiences and opportunities with those of students who are entering college nationwide. The preliminary result indicates the lower proportion of minority students in high school considering computer science as a probable major in college may be due to parental influence."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>6AE2D154-391A-49BD-9166-036E649BD0CF</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Qualitative, Quantitative, Gender Equity, Pair programming, Peer-led team learning, Classroom climate, Faculty development,  Stereotype threat, Recruitment, Retention, Meaningful Assignments, Research experiences for undergraduates</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Computer science higher education pipeline</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8F01CA70-1F19-4ABC-8464-1602EB525B95
+N:Stockard;Russell;null;;
+FN:Russell Stockard
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:683C28C3-0A40-43E8-B2CE-B137B5CA1426
+N:Klassen;Myungsook;null;;
+FN:Myungsook Klassen
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:21CBDC5B-56AC-4260-B4B0-E4E30D1135C7
+N:Akbari;Ali;null;;
+FN:Ali Akbari
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2005-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BF8FDE34-CF95-45C6-9049-C35827A799D3
+N:Lecia Barker;;;;
+FN:Lecia Barker
+TEL;TYPE=work,voice:512-232-8364
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-04-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>6AE2D154-391A-49BD-9166-036E649BD0CF</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://portal.acm.org/ft_gateway.cfm?id=1040209&amp;type=pdf&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=32204798&amp;CFTOKEN=43350828</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

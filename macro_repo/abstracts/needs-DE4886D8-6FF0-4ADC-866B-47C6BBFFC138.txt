@@ -1,0 +1,9 @@
+"The Masters and PhD graduate programs in the School of Electrical and Computer Engineering (ECE) have more than 500 graduate students from around the world. Over two-thirds are in the PhD program. It is the largest in the College of Engineering at Purdue."
+
+Students who wish to specialize in Computer Engineering have three options:
+
+# Computer Engineering
+
+    * Artificial Intelligence
+    * Computer Architecture
+    * Software Systems

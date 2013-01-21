@@ -1,0 +1,1 @@
+This site provides java applets for students to explore bezier curves, 2D transformation operations, ligting models, and 3D viewing operations. Keywords: bezier curves, transformations, lighting model, computer graphics, computing methods.

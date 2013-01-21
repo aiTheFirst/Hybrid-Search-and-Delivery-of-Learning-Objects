@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Website on International Polar Year (2007-08) hosted by the National Science Foundation. The site is organized around Science and Nature, People and Culture, Students and Teachers, Multimedia, News and Events, U.S. Participants, and Resources.
+
+"hanks to advances in global telecommunications technologies, people worldwide have a rare opportunity to follow, and sometimes even participate in, Arctic and Antarctic research and exploration as part of the International Polar Year (IPY), a global scientific campaign which began in March 2007. IPY promises to advance our understanding of how the Earth's remote polar regions affect global climate systems, to bring about fundamental advances in many areas of science, and to fire the enthusiasm of young men and women for careers in science and engineering.
+
+The Polar Year actually will extend from March 1, 2007, until March 1, 2009, to allow researchers to conduct two annual observing cycles in each region, particularly in isolated areas that are prohibitively cold and dark for roughly six months of the year."
+
+"Introducing the U.S. Senate resolution that paved the way for U.S. participation in the International Polar Year 2007-2008, Sen. John McCain, R-Ariz., stressed the benefits to all mankind that derived from research carried during previous International Polar Years--including the most recent Polar year, which was expanded into the 1957 International Geophysical Year (IGY)--and the possibilities for scientific advancement inherent in a new Polar Year."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BFADA67F-8C70-422D-8C57-A2A4FFD421A0</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Antarctic, images, NASA, Landsat satellite images, polar year</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">International Polar Year - IPY 2007-2008</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6ACCAAAD-2ABD-4F6B-817B-08D8768C9D7C
+N:National Science Foundation - NSF;;;;
+FN:National Science Foundation - NSF
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-12-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>BFADA67F-8C70-422D-8C57-A2A4FFD421A0</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ipy.gov/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

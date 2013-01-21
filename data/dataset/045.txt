@@ -1,0 +1,1 @@
+Article from Extreme Programming. The author advocates creating unit tests even before the code development. "Creating a unit test helps a developer to really consider what needs to be done. Requirements are nailed down firmly by tests. There can be no misunderstanding a specification written in the form of executable code."

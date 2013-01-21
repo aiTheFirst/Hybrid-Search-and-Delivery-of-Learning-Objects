@@ -1,0 +1,10 @@
+Tutorial introduction to C programming. Concepts include variables, input/output, software design, if/else, case, loops, and functions.
+The tutorials are written to be viewed in the following order:
+
+   1. Introduction to C Programming
+   2. Software Design
+   3. The if/else statement
+   4. The switch statement
+   5. For loops
+   6. Do loops
+   7. Functions

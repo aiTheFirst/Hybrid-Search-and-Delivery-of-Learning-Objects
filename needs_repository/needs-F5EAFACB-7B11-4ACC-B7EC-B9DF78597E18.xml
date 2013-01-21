@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">MentorNet, the Industrial Electronic Mentoring 
+et in many ways:  
+providing financial support, mentor and student recruiting 
+support, and programmatic guidance.  Building and growing 
+these partnerships and the mentoring program have 
+presented many challenges and provided many learning 
+opportunities for all involved. 
+society, and enhance engineering and related sciences, by 
+promoting a diversified, expanded and talented workforce. 
+The MentorNet structured e-mentoring program 
+leverages technology and the Internet to serve students and 
+mentors in the United States and, increasingly, 
+internationally.  Potential mentors and students fill out 
+applications on the MentorNet web site and then are 
+matched in one-on-one pairs via an automated matching 
+program developed in-house.  Mentoring pairs are fully 
+supported by web- and email-based training, coaching and 
+facilitation during their academic yearlong official 
+participation in the program.  MentorNet has contracted with 
+outside evaluation firms for both year-end programmatic 
+evaluation and, more recently, a long-term study of the 
+impact of participation on students in the program. 
+The MentorNet mentoring program has been very 
+successful, as measured by the year-end program evaluations 
+[1,2].  Students responding to the 1999-2000 program 
+evaluation reported a high satisfaction with one-on-one e- 
+mentoring (3.95 out of a possible 5) and students who have 
+participated in MentorNet report an increased self- 
+confidence in fields of study. 
+
+
+Keywords: Non-Profit
+Post-Secondary
+Women
+Industry
+Mentoring
+Mentor
+Engineering
+Science
+Gender Equity
+Technology
+innovation
+WEPAN</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F5EAFACB-7B11-4ACC-B7EC-B9DF78597E18</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">other</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">MentorNet: Tapping the power of the Internet to support women engineering, science, and math students</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5A48F72F-8513-42AB-8C97-10159B31562C
+N:MentorNet;MentorNet;null;;
+FN:MentorNet MentorNet
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-07-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F5EAFACB-7B11-4ACC-B7EC-B9DF78597E18</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.mentornet.net/Documents/Files/lessonslearned.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

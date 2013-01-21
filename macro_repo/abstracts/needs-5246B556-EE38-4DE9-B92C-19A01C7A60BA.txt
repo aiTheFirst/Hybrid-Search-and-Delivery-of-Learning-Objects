@@ -1,0 +1,10 @@
+"The graduate program in chemical engineering is designed to provide students with the opportunity to develop advanced competence in transport phenomena, thermodynamics, and reaction engineering for the application of chemistry to the advancement of society. Through formal coursework and mentoring, each student is expected to acquire the tools to develop and transmit new knowledge and processes in a focused area of chemical engineering. The focused research areas include bioengineering, environmental engineering, interfacial phenomena, electronic materials, nanomaterials, polymers, process modeling and control, separations, and surface science.
+Program Educational Objectives
+
+Upon graduation, those who earn advanced chemical engineering degrees are expected
+
+   1. To apply knowledge of mathematics, chemistry, physics, computing, safety, and engineering to solve problems of analysis, design, optimization, and control of components, systems, and processes important in chemical engineering practice.
+   2. To demonstrate the skills required to lead and/or participate effectively on interdisciplinary teams.
+   3. To recognize the importance of lifelong education in meeting professional and personal goals.
+   4. To demonstrate proficiency in writing and oral presentation skills, and recognition of the importance of effective communication and its many different forms.
+   5. To articulate and practice professional, ethical, and societal responsibilities."

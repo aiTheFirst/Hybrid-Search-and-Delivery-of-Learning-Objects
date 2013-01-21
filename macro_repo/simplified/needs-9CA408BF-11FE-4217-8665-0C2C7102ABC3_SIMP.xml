@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Attributes><Attribute><Name>title</Name><Value>Design of Programming Languages</Value></Attribute><Attribute><Name>description</Name><Value>Course website with syllabus, lecture notes, assignments and reference material.
+
+This course is an introduction to modern programming languages. The course teaches students how to evaluate languages based on pragmatic considerations, such as ease of expressibility and implementation, and theoretical considerations using operational, denotational, and axiomatic semantics. It covers basic language concepts, including parameter passing mechanisms, higher order functions, abstract data types, exception handling, type inference, object-oriented programming, and concurrency. Outline of lectures:      Foundations of Programming Language Research 
+    (The Lambda Calculus 
+    Operational Semantics 
+    Axiomatic Semantics 
+    Denotational Semantics 
+    Programming Paradigms and Language Concepts),
+    Functional and Declarative Languages 
+    (Object-Oriented Languages 
+    Exception handling 
+    Parallel Languages 
+    Static Semantics), 
+    Types Checking and Type Inference 
+    (Abstract Data Types, 
+    Applications of Formal Semantics
+    (Abstract Interpretation, 
+    Partial Evaluation, 
+    Program Verification).</Value></Attribute><Attribute><Name>content_language</Name><Value>en-US</Value></Attribute><Attribute><Name>format</Name><Value/></Attribute><Attribute><Name>requirement</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>other_platform_requirement</Name><Value>N/A</Value></Attribute><Attribute><Name>duration</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_type</Name><Value/></Attribute><Attribute><Name>intended_user_language</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>interactivity_level</Name><Value/></Attribute><Attribute><Name>context</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_min</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>typical_age_range_max</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>difficulty</Name><Value/></Attribute><Attribute><Name>typical_learning_time</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_concept_and_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_skilllevel_prerequisite</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>taxon_path_idea_discipline</Name><Value>DEFAULT</Value></Attribute><Attribute><Name>intended_end_user_role</Name><Value/></Attribute></Attributes>

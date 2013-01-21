@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Goals: 
+Recently, the numbers of students pursuing undergraduate computing degrees has declined. Computing professionals will continue to be in demand. The majority of computing students remain that of white males. Maintaining innovation requires participation from groups that are traditionally underrepresented. While innovations have resulted in assistive technology for the disabled, gaps remain in the level of participation by the visually impaired in university-level computing degree programs.
+
+Despite advances in assistive technologies, relatively few visually impaired students participate in university-level computing courses. Significant factors in this under representation include lack of relevant precollege preparation, lack of role models, access to resources, and the highly visual nature of modern computing. The visually based notations, tools and user interfaces have lead to visually intensive instruction, which becomes difficult for students with visual impairments to follow in the traditional classroom setting.
+
+The Rochester Institute of Technology has undertaken a planning project to develop Project ACE: Accessible Education for visually impaired students. Project ACE strives to increase the participation by students with visual impairments through better preparation, support for students, and ultimately teachers. The goal is to increase the academic and career success within the area of computing for students with visual impairments at the post-secondary level.
+
+ImagineIT is a workshop for students with visual impairments who are in middle school and high school. The workshop's goal is to increase the level of participation in computing by students with visual impairments. The workshop leverages hands-on activities using the same hardware and software that sighted young people use, along side appropriate assistive technology.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C65BA5BE-C5AA-49B0-B486-F01AE8A8880E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">BPC-NSF, BPC-DP</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: Project ACE: Accessible Computing Education for Visually Impaired Students</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:855A594E-FC98-4AE4-AFE0-516A1A2583D1
+N:Ludi;Stephanie;null;;
+FN:Stephanie Ludi
+ORG:Rochester Institute of Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F9E459EB-E4B5-4B26-8E76-C68EB1CDCADB
+N:Reichlmayr;Tom;null;;
+FN:Tom Reichlmayr
+ORG:Rochester Institute of Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BE7013B6-6D26-40B8-9EF3-A16FBBA20B90
+N:BPC Admin;;;;
+FN:BPC Admin
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-10-30</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C65BA5BE-C5AA-49B0-B486-F01AE8A8880E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.se.rit.edu/~imagine-it/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

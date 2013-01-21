@@ -1,0 +1,6 @@
+Lecture notes by Prof. James Caristi. The notes are associated with a course on Extreme Programming, beginning with its reason for existence, philosophy, and a detailed exposition of the twelve practices that define it. There is also a discussion of its strengths and weaknesses as a software design methodology.
+
+Philosophy:  need for extremely rapid system development while avoiding defects.  Requires open, honest communication among programmers and between programmers and customers.
+
+Keywords: Software - Programming Techniques, Software Engineering
+Computing Milieux - Management of Computing and Information Systems, extreme programming, pair programming, agile, software design methodology

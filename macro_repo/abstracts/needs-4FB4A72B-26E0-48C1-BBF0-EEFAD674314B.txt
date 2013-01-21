@@ -1,0 +1,5 @@
+Entertaining introductory tutorial on Object-Oriented Programming. "A java tutorial that shows you why Coding Java
+(or any other object-oriented programming)
+is just like writing a trashy Western novel."
+
+Keywords: Computer programming, computer science, programming languages, object-oriented programming

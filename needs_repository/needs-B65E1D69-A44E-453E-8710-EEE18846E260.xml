@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">This lesson will guide you through several activities to help you think like a geologist. You are free to move around from one part of the lesson to another by clicking on the special hypertext. However, you will understand each activity better if you complete them in this order:
+
+1.Building Your Own Seismograph (optional) 
+2.Can You Read a Quake? 
+3.Race of the Waves [A TABLE IS CURRENTLY MISSING FROM THIS ACTIVITY: Use with caution] 
+4.Where Did It Hit? 
+5.Shadows from the Core 
+6.Prediction or Prevention</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole><lom:source>LOMv1.0</lom:source><lom:value>learner</lom:value></lom:intendedEndUserRole><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>low</lom:value></lom:interactivityLevel><lom:interactivityType><lom:source>LOMv1.0</lom:source><lom:value>mixed</lom:value></lom:interactivityType><lom:learningResourceType/><lom:semanticDensity><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:semanticDensity><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A site that covers many different areas of earthquakes including:
+1.Building Your Own Seismograph (optional) 
+2.Can You Read a Quake? 
+3.Race of the Waves  
+4.Where Did It Hit? 
+5.Shadows from the Core 
+6.Prediction or Prevention</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B65E1D69-A44E-453E-8710-EEE18846E260</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Earthquakes, seismographs, seismic waves, seismology,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Earthquake!</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:24B8395B-1074-41F1-81F8-34FFD39AF3DB
+N:Center For Science Education;UC Berkeley;null;;
+FN:UC Berkeley Center For Science Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:91F6EA85-9110-42F4-AF55-B61D03F36134
+N:Center For Science Education;;;;
+FN:Center For Science Education
+ADR;TYPE=work,postal,parcel:;;Grizzly Peak at Centennial DriveMC 7450Berkeley, CA  94720-7450;;;;
+TEL;TYPE=work,voice:510-643-3936
+TEL;TYPE=work,fax:510-643-5660
+PHOTO;VALUE=uri:http://cse.ssl.berkeley.edu/images/p_logo.gif
+URL:http://cse.ssl.berkeley.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-03-21</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-03-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B65E1D69-A44E-453E-8710-EEE18846E260</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://cse.ssl.berkeley.edu/lessons/indiv/davis/inprogress/QuakesEng3.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

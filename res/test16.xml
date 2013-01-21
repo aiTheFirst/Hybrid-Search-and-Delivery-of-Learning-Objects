@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Attributes>
+    <Attribute>
+        <Name>title</Name>
+        <Value>Computational Geometry in C</Value>
+    </Attribute>
+    <Attribute>
+        <Name>description</Name>
+        <Value>"This is the newly revised and expanded edition of the popular introduction to the design and implementation of geometry algorithms arising in areas such as computer graphics, robotics, and engineering design. The second edition contains material on several new topics, such as randomized algorithms for polygon triangulation, planar point location, 3D convex hull construction, intersection algorithms for ray-segment and ray-triangle, and point-in-polyhedron. A new "Sources" chapter points to supplemental literature for readers needing more information on any topic. A novel aspect is the inclusion of working C code for many of the algorithms, with discussion of practical implementation issues. The self-contained treatment presumes only an elementary knowledge of mathematics, but reaches topics on the frontier of current research, making it a useful reference for practitioners at all levels. The code in this new edition is significantly improved from the first edition, and four new routines are included. Java versions for this new edition are also available. All code is accessible from the book's Web site (http://cs.smith.edu/~orourke/) or by anonymous ftp." Math Forum Description: "Computational Geometry is concerned with designing algorithms and computer programs to perform geometric computations. A need for such computations arises in many fields: computer graphics, robotics, pattern recognition, geography, manufacturing, etc. This site includes links to books, papers, and code (papers and code available via ftp) by Prof. Joseph O'Rourke, Olin Professor of Computer Science at Smith College, on discrete and computational geometry. Books: A Handbook of Discrete and Computational Geometry (1997); Computational Geometry in C (1994); Art Gallery Theorems and Algorithms (1987). Also the comp.graphics.algorithms FAQ, in HTML and FTP gzipped text</Value>
+    </Attribute>
+    <Attribute>
+        <Name>content_language</Name>
+        <Value>ra</Value>
+    </Attribute>
+    <Attribute>
+        <Name>format</Name>
+        <Value>audio/wav</Value>
+    </Attribute>
+    <Attribute>
+        <Name>requirement</Name>
+        <Value>fast processor</Value>
+    </Attribute>
+    <Attribute>
+        <Name>other_platform_requirement</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>duration</Name>
+        <Value>1900</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_type</Name>
+        <Value>active</Value>
+    </Attribute>
+    <Attribute>
+        <Name>intended_user_language</Name>
+        <Value>fr</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_level</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>context</Name>
+        <Value>higher_education</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_min</Name>
+        <Value>3</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_max</Name>
+        <Value>3</Value>
+    </Attribute>
+    <Attribute>
+        <Name>difficulty</Name>
+        <Value>1</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_learning_time</Name>
+        <Value>300</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_concept_and_discipline</Name>
+        <Value>compute science</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_skilllevel_prerequisite</Name>
+        <Value>1</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_idea_discipline</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>intended_end_user_role</Name>
+        <Value>student</Value>
+    </Attribute>
+</Attributes>

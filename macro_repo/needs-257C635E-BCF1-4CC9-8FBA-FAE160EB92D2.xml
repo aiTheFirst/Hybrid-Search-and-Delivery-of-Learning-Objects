@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Type:  Institutional Transformation.
+Year Awarded: 2006. 
+
+ACCEL: Advancing Cornell's Commitment to Excellence and Leadership.
+
+Cornell University is committed to diversity and gender equity and to an institutional environment where all faculty can achieve their greatest potential in research, education, and service. Despite the University's commitment, gender diversity remains a significant problem that affects the quality of our enterprise. Over the five year life of the ADVANCE grant, we aim to achieve 20% women faculty in each S&amp;E department. This level will move the representation of women from token status to a critical mass in each department, the environment that most determines faculty daily life. Our longer-term objective is that a third of our S&amp;E faculty be women by 2015, Cornell's sesquicentennial. The Recruitment Initiative includes
+
+    * Development and implementation of strategies for successful recruiting of women
+    * Interview support for women candidates
+    * S&amp;E-specific centralized dual-career placement support and expedited funding for partners of S&amp;E women candidates
+    * Two prestigious named lecture series, for use in recruiting early-career women
+
+The Faculty Development Initiative includes
+
+    * Establishment of formal mentoring programs for all faculty in S&amp;E.
+    * Various workshop series, professional development grants, and high-risk research initiation grants for women faculty
+
+The Climate Initiative includes
+
+    * Ongoing climate assessment following up on the Work-Life Survey.
+    * Department chair, search committee, and faculty education on diversity and climate issues
+
+The Evaluation Initiative includes quantitative studies on promotion and retention
+
+    * Demographic composition and social relations in departments study.
+    * Interview/Offer/To-tenure-or-departure tracking for women in S&amp;E and for dual career couples.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>257C635E-BCF1-4CC9-8FBA-FAE160EB92D2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">ADVANCE - NSF, gender equity, women in science, women in mathematics, women in engineering, women in computing</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">NSF ADVANCE Program at Cornell University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6EA1A8F7-2774-4541-BF7A-637EFD50E421
+N:Cornell Universty ADVANCE Center;;;;
+FN:Cornell Universty ADVANCE Center
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F94C05A8-773A-4C3B-B371-BD577525AD3A
+N:Reimers;Tine;null;;
+FN:Tine Reimers
+ORG:Cornell University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2008-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-10-19</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>257C635E-BCF1-4CC9-8FBA-FAE160EB92D2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://advance.cornell.edu/index.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

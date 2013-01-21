@@ -1,0 +1,12 @@
+This site provides a group of computer animations which were designed to help high school chemistry students learn about the basics of the gas laws and the equation of state. The state of a gas is determined by the pressure, temperature, mass, and volume of the gas. The program lets you fix two of these variables and observe the relation of the other two variables by changing the value of one of them. Gases have various properties which we can observe with our senses, including the gas pressure, temperature, mass, and the volume which contains the gas. Careful, scientific observation has determined that these variables are related to one another and the values of these properties determine the state of the gas. In a scientific manner, we can fix any two of the four primary properties and study the nature of the relationship between the other two by varying one and observing the variation of the other. The variations are demonstrated using computer graphics in the animated gas lab.
+
+Because of the highly graphical nature of the computer animations at the Animated Gas Lab, we are unable to provide an equivalent presentation for non-graphical browsers. Text information is provided for the following: Equation of State (Ideal Gas)
+Pressure
+Temperature
+Mass
+Specific Volume
+Gas Properties Definitions
+Air Properties Definitions
+Boyle's Law
+Charles and Gay-Lussac's Law
+Kinetic Theory of Gases. The program is divided into 4 parts depending on age: grades 6-8 and 9-12.

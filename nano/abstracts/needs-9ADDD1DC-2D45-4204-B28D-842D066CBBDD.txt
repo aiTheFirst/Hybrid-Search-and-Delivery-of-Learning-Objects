@@ -1,0 +1,6 @@
+Lesson plans for teachers and outreach efforts associated with the National Science Foundation-supported Materials Research Science and Engineering Center on Nanostructured Interfaces. The objective of the lesson plans is to introduce students to the tools that let us "see" atoms, manipulate them, and create nano-architectural wonders. The University of Wisconsin - Madison Materials Research Science and Engineering Center (MRSEC) Interdisciplinary Education Group (IEG): · uses examples of nanotechnology and advanced materials to explore science and pre-engineering · brings the "wow" and potential of nanotechnology and advanced materials to the public and K-12. Topics to date include:
+Topics:
+Size and Scale | Societal Implications | Scanning Probe Microscopy | X-Ray Diffraction
+Nanoparticles and Quantum Dots | Ferrofluids | Applications and Nanoscale Devices | Carbon Nanotubes and Buckyballs
+Computers and Memory | Interdisciplinary Connections | Liquid Crystals
+Memory Metal | Light-Emitting Diodes (LEDs) | Magnetism.

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract:
+"Recent calls for instructional innovation in undergraduate science, mathematics, engineering, and technology (SMET) courses and programs highlight the need for a solid foundation of education research at the undergraduate level on which to base policy and practice. We report herein the results of a meta-analysis that integrates research on undergraduate SMET education since 1980. The meta-analysis demonstrates that various forms of small-group learning are effective in promoting greater academic achievement, more favorable attitudes toward learning, and increased persistence through SMET courses and programs. The magnitude of the effects reported in this study exceeds most findings in comparable reviews of research on educational innovations and supports more widespread implementation of small-group learning in undergraduate SMET."
+
+&lt;citation>Leonard Springer, Mary Elizabeth Stanne, Samuel S. Donovan; Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis; Review of Educational Research; 69; 1; 21-51; 1999&lt;/citation></lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8BE58905-8193-4C7F-AF4E-D37D34ACE8C7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Academic Achievement, Academic Persistence, College Mathematics, College Science, College Students, Comparative Analysis, Engineering Education, Higher Education, Meta Analysis, Outcomes of Education, Small Group Instruction, Statistical Analysis, Student Attitudes, Technology Education, Undergraduate Students, Undergraduate Study</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Effects of small-group learning on undergraduates in science, mathematics, engineering, and technology: A meta-analysis</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:EE049FFA-FA0A-4DCA-9A92-53C35F83CA67
+N:Springer;Leonard;null;;
+FN:Leonard Springer
+ORG:University of Wisconsin;National Institute for Science Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B4E7CF35-0AB1-40A7-AD32-A4FE27F3F521
+N:Donovan;Samuel S.;null;;
+FN:Samuel S. Donovan
+ORG:University of Pittsburgh;Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:582C2974-24B1-4196-B560-F8B675A07D73
+N:Stanne;Mary Elizabeth;null;;
+FN:Mary Elizabeth Stanne
+ORG:University of Wisconsin;National Institute for Science Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1999-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8BE58905-8193-4C7F-AF4E-D37D34ACE8C7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.jstor.org/stable/1170643?</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

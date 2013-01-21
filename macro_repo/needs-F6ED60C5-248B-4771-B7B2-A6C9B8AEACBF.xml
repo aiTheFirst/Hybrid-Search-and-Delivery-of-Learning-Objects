@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"To encourage close contact between students and faculty and to foster quality, the program is limited to approximately 20 to 25 entering Ph.D. candidates per year. Most of the students admitted follow a course of study that leads directly to the Ph.D. degree. Few students interested solely in an MS degree are admitted, and only under special circumstances.
+
+Bioengineering challenges facing the leaders of the new millennium are complex and, based on their application, offer more effective cures for global disease and improved quality of life for aging populations or people with disabilities. The Department of Bioengineering at Rice University is an exemplary academic and research institution that believes no single discipline will provide the answers future scientists, business leaders, professionals, and politicians will need. To train the next generation of leaders in bioengineering, we have built an innovative teaching program that transcends boundaries between bioengineering, basic science, and clinical medicine; integrating the academic, industrial, and societal perspectives.
+
+Our hands-on approach to education is supported by a long-standing tradition of  cross-disciplinary research and education. The Rice Bioengineering program is comprehensive and provides students with:
+
+    *
+      A fundamental understanding of the life and medical sciences,
+    *
+      Advanced analytical and engineering capabilities, and
+    *
+      Translational research that transfers biotechnical advances from bench to bedside.
+
+With this educational background, graduates will be well prepared to participate in independent or collaborative research and development endeavors in industry or academia."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F6ED60C5-248B-4771-B7B2-A6C9B8AEACBF</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Graduate Bioengineering Curriculum - Rice</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B99020C8-B11A-4E4A-9A4B-790B24392BAB
+N:Rice University;Department of Bioengineering;null;;
+FN:Department of Bioengineering Rice University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-13</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>F6ED60C5-248B-4771-B7B2-A6C9B8AEACBF</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://bioe.rice.edu/grad.cfm?doc_id=6993</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

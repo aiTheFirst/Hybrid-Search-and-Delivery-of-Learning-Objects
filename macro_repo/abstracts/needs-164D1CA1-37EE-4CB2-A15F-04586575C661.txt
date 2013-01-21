@@ -1,0 +1,1 @@
+The Try system, which runs under Unix, allows students to test their programs in a controlled manner with the instructor's test data, while keeping the data itself hidden from the student.

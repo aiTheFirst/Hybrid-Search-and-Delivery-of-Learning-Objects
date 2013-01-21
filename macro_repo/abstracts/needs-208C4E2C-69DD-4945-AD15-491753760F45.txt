@@ -1,0 +1,8 @@
+"This teaching and learning package (TLP) describes the structure of bone from the macro-scale to the micro-scale and considers its description as a biological composite. The structure of hip replacements is described and common implant materials are discussed in relation to the mechanical properties of bone.
+
+On completion of this tutorial you should be able to:
+
+    * understand the biological structure of bone;
+    * consider bone as an engineering material ? its description as a composite and its mechanical properties;
+    * understand the requirement for hip replacements and the issues involved in selecting implant materials;
+    * select suitable materials for use in hip replacements."

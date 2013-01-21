@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Following African American women who âswim against the tideâ in the white male science education system.
+
+Excerpts:
+âThey looked at us like we were not supposed to be scientists,â says one young African American girl, describing one openly hostile reaction she encountered in the classroom. In this significant study, Sandra Hanson explains that although many young minority girls are interested in science, the racism and sexism in the field discourage them from pursuing it after high school. Those girls that remain highly motivated to continue studying science must âswim against the tide.â
+
+Hanson examines the experiences of African American girls in science education using multiple methods of quantitative and qualitative research, including a web survey and vignette techniques. She understands the complex interaction between race and gender in the science domain and, using a multicultural and feminist framework of analysis, addresses the role of agency and resistance that encourages and sustains interest in science in African American families and communities." Table of Contents: Preface and Acknowledgements
+1. Introduction: Understanding Young African American Women's Experiences in Science
+2. The Conceptual Framework: A Critical-Feminist Approach
+3. Young African American Women's Experiences in Science: "Science Is Like Opening A Present from Your Favorite Aunt. You Just Can't Wait to Open It Because You Know There Is Something Wonderful and Unique Inside."
+4. InfluencesâTeachers and Schools: "They Looked at Us Like We Weren't Supposed to Be Scientists."
+5. InfluencesâFamily and Community: "My Mother Never Minded Me Using Her Kitchen Utensils to Dig Up Insects and Worms to Explore."
+6. InfluencesâPeers: "I Know Plenty of Girls at My School [Who] Love Science."
+7. Conclusions: "Science Is Not About Which Race Likes It Better, It Is About Doing What You Like."
+Appendix A: Tables
+Appendix B: Detail on Knowledge Networks Sampling
+Appendix C: Test for Vignettes
+Appendix D: Selected Questions from Knowledge Networks Survey
+Appendix E: Detail on NELS Sampling and Data
+Notes
+Reference
+Index.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C2C61581-23DF-4278-909B-686B3273B0E2</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, African American, women scientists, women engineers</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Swimming Against the Tide - African American Girls and Science Education</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:999F778B-0E79-42A2-8562-175E16156CD0
+N:null;null;null;;
+FN:Sandra  Hanson
+ORG:Catholic University;Sociology, Life Cycle Institute
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-02-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-02-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C2C61581-23DF-4278-909B-686B3273B0E2</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.temple.edu/tempress/titles/1904_reg.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

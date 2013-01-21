@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Article from Technology Review, May 6, 2009.
+
+Excerpts:
+
+"Using DNA origami, researchers have assembled a nano-sized box with lock and key.
+
+Using nothing but DNA, researchers in Denmark have constructed a tiny box with a lid that can either lock shut or--with the help of a set of DNA keys--hinge open. While other groups have experimented with using DNA origami to build three-dimensional objects, the new box, described in this week's edition of Nature, is distinguished by its solid sides and moving parts.
+
+"It's a rather beautiful molecular structure," says John Reif, a distinguished professor of computer science at Duke University, who was not involved in the research. "It's the first time that a nanostructure like that had a programmable and controllable lid."
+
+For now, the box serves as a proof of principle that DNA origami can be adapted to make elaborate three-dimensional structures, says JÃ¸rgen Kjems, a molecular biologist at the Aarhus University Center for DNA Nanotechnology, who led the research. But in the future, he believes that the nano-sized container could be adapted for a wide range of applications, from drug-delivery vehicle to logic gate."
+
+Image caption: Deoxyribose sugar cubes: Because complementary regions of DNA like to pair up, researchers were able to design a long strand of DNA that, combined with many tiny DNA staples, would automatically assemble itself into a nano-sized box. This technique is known as DNA origami. Here, the boxes were imaged using cryo-electron tomography to confirm their cubelike structures and hollow interior.
+Credit: : Ebbe S. Andersen, Aarhus University</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DDD36DFA-A579-4E1B-9150-0D6CE24B48BF</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Origami, DNA, biomimetics</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">A Lockbox Built from DNA Origami</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:037B0874-7BFB-480E-AD2C-E49B15B61802
+N:Rice;Jocelyn;null;;
+FN:Jocelyn Rice
+ORG:MIT;Technology Review
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-05-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-05-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DDD36DFA-A579-4E1B-9150-0D6CE24B48BF</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.technologyreview.com/biomedicine/22600/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

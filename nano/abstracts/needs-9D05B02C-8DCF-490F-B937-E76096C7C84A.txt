@@ -1,0 +1,20 @@
+Abstract: Nanotechnology is an inherently interdisciplinary field that has
+generated significant scientific and engineering interest in recent
+years. In an effort to convey the excitement and opportunities
+surrounding this discipline to senior undergraduate students and
+junior graduate students, a nanotechnology engineering course
+has been developed in the Department of Materials Science and
+Engineering at Northwestern University over the past two years.
+This paper examines the unique challenges facing educators in
+this dynamic, emerging field and describes an approach for the
+design of a nanotechnology engineering course employing the
+non-traditional pedagogical practices of collaborative group
+learning, interdisciplinary learning, problem-based learning, and
+peer assessment. Utilizing the same nanotechnology course given
+the year before as a historical control, analysis of the difference
+between measures of student performance and student experience
+over the two years indicates that these practices are successful and
+provide an educationally informed template for other newly
+developed engineering courses.
+
+<citation>Mark C. Hersam, Melissa Luna, Gregory Light; Implementation of interdisciplinary group learning and peer assessment in a nanotechnology engineering course; Journal of Engineering Education; 93; 1; 49-57; 2004</citation>

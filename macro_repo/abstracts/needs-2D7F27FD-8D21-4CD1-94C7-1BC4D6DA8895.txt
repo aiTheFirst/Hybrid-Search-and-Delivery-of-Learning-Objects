@@ -1,0 +1,3 @@
+Our demonstration project (AISES BPC/DP) plans to broaden the participation of American Indian/Alaskan Native (AI/AN) students in the computing disciplines; a group that is woefully underrepresented in computing.  This project will examine and test factors that are critical to achieving this objective.
+
+The students that have participated in the project stated that the research experience has enriched their undergraduate program, helped plan for graduate school, and gave relevance to their career selection.  It is interesting to note that American Indian students are motivated by projects that can contribute to serving the needs of native communities; especially the community with which they identify.

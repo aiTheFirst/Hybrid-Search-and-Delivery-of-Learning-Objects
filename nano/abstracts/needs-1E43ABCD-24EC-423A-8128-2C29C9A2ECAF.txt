@@ -1,0 +1,1 @@
+A general introduction to MEMS and Nanotechnology is given, including and overview of application areas, fabrication, and challenges in the MEMS field. The website also includes discussion groups on MEMS and references to MEMS literature for those who want to pursue particular MEMS topics more in depth.

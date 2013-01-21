@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>experiment</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Experiment for everyday science and technology. Excerpt:
+"This week's experiment comes from all of the e-mails that I have been receiving about the danger of heating water in a microwave oven. Although it is very uncommon, under certain conditions, you can superheat the water to a point where stirring or adding sugar can cause it to almost explode into steam. To investigate this, you will need:
+
+- a clean glass
+- some sugar
+- a fresh container of carbonated soda
+- water
+
+It was a challenge to come up with a way to demonstrate what is happening without risking anyone getting burned. I had to settle for a demonstration that is close to what happens instead of recreating the actual event. Fill the glass about half full of soda. Don't use any ice. Pour it gently, trying to get as little foam as possible. Let the glass sit for a moment to let all of the foam go away.
+
+Once the foam is gone, add a pinch of sugar to the soda. Yes, I know that it already has PLENTY of sugar, but a little more won't hurt. Notice what happens. The soda foams and bubbles until the sugar dissolves. Sprinkle in some more sugar and it bubbles some more. When you are done adding sugar, you can drink the soda, so it does not go to waste.
+
+Why did the sugar make the soda foam? Even though the soda is a liquid, it contains a gas called carbon dioxide. This gas is dissolved in the soda. While the soda is sealed in a container, the gas stays under pressure and stays dissolved. When you open the container, the gas begins to come out of the liquid and you get bubbles.
+
+These bubbles need a place to start. One of the best places for the bubble to start is another bubble. Even a very tiny bubble can serve as a nucleus or starting point for the carbon dioxide to come out of the liquid. When you pour the soda into the glass, tiny rough spots on the glass trap tiny bubbles and help produce the foam. Sometimes you can see a string of bubbles rising from one of these rough spots. The grains of sugar do the same thing when you sprinkle them in. So would grains of salt, pepper, sand, etc."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0716666C-39ED-4F90-AFC9-341B2CEABBB8</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">microwave oven</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Safe to Heat Water in a Microwave Oven?</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:421C2171-339F-4F9E-9F6A-A4A5D271DDA0
+N:Robert Krampf's Science Education Co;;;;
+FN:Robert Krampf's Science Education Co
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-01-24</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0716666C-39ED-4F90-AFC9-341B2CEABBB8</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://krampf.com/members/experiment/safe-heat-water-microwave-oven</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

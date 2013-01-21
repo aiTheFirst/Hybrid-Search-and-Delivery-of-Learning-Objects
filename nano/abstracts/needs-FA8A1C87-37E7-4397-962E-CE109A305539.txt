@@ -1,0 +1,9 @@
+Nanotechnology Tricks with DNA.
+
+"DNA is biology's library of body architecture, physiology and reproduction. It is common to all life forms on Earth and has been the focus of biological thinking at the molecular level since its detailed description in the 1950's.
+
+Nanotechnologists extend the ideas of DNA from its biological role to its role in various fields of engineering, from information science to DNA as tinkertoy to DNA as barcode, DNA as private eye in the field of forensic medicine to DNA as massively parallel computer, DNA as a tag to DNA as a scaffold for self-assembly of ultradense curcuits. These tricks use DNA in ways that traditional molecular biologists would consider bizarre and inappropriate if not downright heretical.
+
+First, consider DNA simply as a string of four possible digits, twice as rich as the 1's and 0's of familiar digital electronics. As the figure shows, the A, T, C ad G symbols represent a code that has 4 possibilities in a single base location, four-squared, or 16 possibilities with two locations and 4 to the power 650 possibilities (why 650?) when we look at a chain of 610 bases, only 200 nm long, since bases are separated by a mere 0.3 nm in DNA."
+
+Image caption: DNA as Encyclopedia. A letter of the alphabet is encoded in the 8-bit ASCII code of modern information technology. It would take only four bases to encode a letter. The Encyclopedia Brittanica could be encoded (with pictures) coiled up in a few meters of DNA.

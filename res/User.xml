@@ -1,0 +1,94 @@
+<Attributes>
+<Attribute id='1'>
+	<Name>age</Name>
+	<Value>44</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+<Attribute id='2'>
+	<Name>language</Name>
+	<Value>ra</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+<Attribute id='3'>
+	<Name>proficiency_writing</Name>
+	<Value>5</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+<Attribute id='4'>
+	<Name>proficiency_reading</Name>
+	<Value>2</Value>
+	<Weight>0.1</Weight>
+</Attribute>
+<Attribute id='5'>
+	<Name>proficiency_speaking</Name>
+	<Value>1</Value>
+	<Weight>0.1</Weight>
+</Attribute>
+<Attribute id='6'>
+	<Name>proficiency_listening</Name>
+	<Value>2</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+
+<Attribute id='7'>
+	<Name>priority_of_goal</Name>
+	<Value>5</Value>
+	<Weight>0.8</Weight>
+</Attribute>
+<Attribute id='8'>
+	<Name>qualifications</Name>
+	<Value>programming</Value>
+	<Weight>0.8</Weight>
+</Attribute>
+<Attribute id='9'>
+	<Name>goal</Name>
+	<Value></Value>
+	<Weight>0.1</Weight>
+</Attribute>
+<Attribute id='10'>
+	<Name>activity_type</Name>
+	<Value>study</Value>
+	<Weight>0.1</Weight>
+</Attribute>
+
+<Attribute id='11'>
+	<Name>activity_status</Name>
+	<Value>active</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+<Attribute id='12'>
+	<Name>cognitive_preferences</Name>
+	<Value>2</Value>
+	<Weight>0.2</Weight>
+</Attribute>
+<Attribute id='13'>
+	<Name>physical_preferences</Name>
+	<Value></Value>
+	<Weight>0.5</Weight>
+</Attribute>
+
+<Attribute id='14'>
+	<Name>skill_level</Name>
+	<Value>5</Value>
+	<Weight>0.8</Weight>
+</Attribute>
+
+<Attribute id='15'>
+	<Name>role</Name>
+	<Value>student</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+
+<Attribute id='16'>
+	<Name>keywords_of_interests</Name>
+	<Value>java</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+
+<Attribute id='17'>
+	<Name>input_output_technology</Name>
+	<Value>java</Value>
+	<Weight>0.5</Weight>
+</Attribute>
+
+</Attributes>

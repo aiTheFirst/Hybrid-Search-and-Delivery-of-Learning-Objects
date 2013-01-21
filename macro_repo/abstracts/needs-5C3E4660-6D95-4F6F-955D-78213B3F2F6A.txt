@@ -1,0 +1,14 @@
+Manual published by the U.S. Army Corps of Engineers (USACE). This manual is organized into the following Chapters, each downloadable in PDF format:
+
+Entire document (This file contains all elements of the document inclusive of appendices. File size: 1.5 MB.)
+Basic document (This file contains all elements of the document exclusive of appendices. File size: 1.2 MB.)
+Transmittal Letter
+Chapter 1 - Introduction
+Chapter 2 - Non-Load Related Design Considerations
+Chapter 3 - Soil Parameters
+Chapter 4 - Shallow Foundations
+Chapter 5 - Deep Foundations
+Appendix A - References
+Appendix B - Bibliography
+Appendix C - Computer Program AXILTR
+Appendix D - Notation

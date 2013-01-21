@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Auburn University is leading African-American Researchers in Computing Sciences (AARCS), a program that aims to broaden the participation of African-Americans at the levels of tenure track faculty and research scientist in the computing sciences.
+
+African-Americans represent 5.2% of all university faculties in the United States of America. In Computer Science, African-Americans represent 1.1% of the faculty, 0.88% of tenure track faculty. The African-American Researchers in Computing Sciences (AARCS) program will address this significant representation gap in the computing sciences. This program is designed to broaden African-American participation at the tenure track faculty and research scientist levels of the education pipeline in the form of a demonstration project. The basis for this demonstration project is founded on empirical research conducted by social scientists that reinforce the programs goals.
+
+Although African-Americans are the target group for this program, the AARCS program will serve as a model that can be used to target other underrepresented groups. The AARCS program will serve as an empirically evaluated model that can be incorporated into larger Alliance projects.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>10ED3AAC-8567-4001-93C7-ABE5E7F7F915</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">African American, Black computer scientists, faculty development, mentoring, undergraduate research experience, recruitment, research careers</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">BPC-DP: African-American Researchers in Computing Sciences (AARCS)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3ACE0730-2402-475D-A4AA-CE538C97DC16
+N:African-American Researchers in Computing Sciences (AARCS);;;;
+FN:African-American Researchers in Computing Sciences (AARCS)
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C215B744-68D0-46EA-9837-F9E6F4C86518
+N:Gilbert;Juan;null;;
+FN:Juan Gilbert
+ORG:Auburn University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:073643A5-16A7-41C2-8CCA-2A4A1CF032FF
+N:Dozier;Gerry;null;;
+FN:Gerry Dozier
+ORG:Auburn University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0EB00421-A474-4820-AF4C-C579B650AF42
+N:Seals;Cheryl;null;;
+FN:Cheryl Seals
+ORG:Auburn University;Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-07-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E15BCF1A-9C0B-4458-B4AF-840CB5D3C8C3
+N:Jackson;Jerlando;null;;
+FN:Jerlando Jackson
+ORG:Auburn University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-07-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:BE7013B6-6D26-40B8-9EF3-A16FBBA20B90
+N:BPC Admin;;;;
+FN:BPC Admin
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-07-27</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>10ED3AAC-8567-4001-93C7-ABE5E7F7F915</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.aarcsconference.org/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

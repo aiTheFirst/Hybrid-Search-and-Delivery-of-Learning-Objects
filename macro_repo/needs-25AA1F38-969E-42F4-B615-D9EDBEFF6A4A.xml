@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Book description:
+"Extreme Programming (XP) has been established as a significant departure from traditional software development methods. The success of the XP 2001 and XP Universe 2001 conferences is no surprise; some of the brightest minds in software engineering gathered at these venues to discuss the discipline that is XP. These conferences showcase the continuously changing face of XP. Common programming practices will never be the same, and developers and business people alike need to bear this fact in mind as they plan for the future.
+
+Inspired by the techniques and challenges explored at these conferences, Extreme Programming Perspectives presents 47 articles that represent the insights and practical wisdom of the leaders of the XP community. Encompassing a wide variety of key topics on XP and other agile methodologies, this book offers experience-based techniques for implementing XP effectively and provides successful transitioning strategies. Articles are grouped into six main sections: an overview of XP and agile methodologies; XP development practices; issues involved in transitioning to XP and agile methodologies; real-life experiences of working with XP; tools for facilitating XP development; and finally, ideas for expanding and extending XP.
+
+You will find such outstanding articles as:
+
+# Circle of Life, Spiral of Death: Ways to Keep Your XP Project Alive and Ways to Kill It, by Ron Jeffries
+# Agile Software DevelopmentWhy It Is Hot!, by Jim Highsmith
+# An Introduction to Testing, XP-Style, by Don Wells
+# Increasing the Effectiveness of Automated Testing, by Shaun Smith and Gerard Meszaros
+# The System Metaphor Explored, byWilliam Wake and Steven Wake
+# Pair Programming: Why Have Two Do the Work of One?, by Laurie Williams
+# A Metric Suite for Evaluating the Effectiveness of an Agile Methodology, by Laurie Williams, Giancarlo Succi, and Michele Marchesi
+# The Five Reasons XP Cant Scale and What to Do about Them, by Ron Crocker
+# Keep Your Options Open: Extreme Programming and the Economics of Flexibility, by Hakan Erdogmus and John Favaro
+# Extreme Programming from a CMM Perspective, by Mark C. Paulk."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>25AA1F38-969E-42F4-B615-D9EDBEFF6A4A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Extreme Programming Perspectives</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FD74B1A6-3468-4042-A6CF-68A82F847770
+N:Williams;Laurie;null;;
+FN:Laurie Williams
+ORG:North Carolina State University;Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:8D8AFC51-BC2D-47A8-B401-F56806C829EA
+N:Wells;James;null;;
+FN:James Wells
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3E6CBE36-D0DF-4E64-BF97-D30E5A5B370D
+N:Succi;Giancarlo;null;;
+FN:Giancarlo Succi
+ORG:University of Alberta;Electrical Engineering and Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E22BCFE3-4553-4547-A1D3-8943367D1B1C
+N:Marchesi;Michele;null;;
+FN:Michele Marchesi
+ORG:University of Cagliari, Italy
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-09-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>25AA1F38-969E-42F4-B615-D9EDBEFF6A4A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?userid=5257WA43PU&amp;isbn=0201770059</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

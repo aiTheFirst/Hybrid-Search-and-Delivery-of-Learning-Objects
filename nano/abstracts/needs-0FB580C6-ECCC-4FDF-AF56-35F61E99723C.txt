@@ -1,0 +1,3 @@
+TryNano.org is a resource for anyone interested in learning about Nanoscience and Nanotechnology. Nanoscience and Nanotechnology are technical fields that focus on matter at the nanoscale - dimensions that are roughly 1 to 100 nanometers (1nm = 10-9m).
+
+The term Nanoscience often refers to research that discovers and characterizes new behaviors and properties of materials at the nanoscale. Nanotechnology describes how discoveries at the nanoscale are put to work, especially by controlling the behavior of matter and building useful devices. Some of these devices have demonstrated applications in medicine, electronics, robotics, and energy production.

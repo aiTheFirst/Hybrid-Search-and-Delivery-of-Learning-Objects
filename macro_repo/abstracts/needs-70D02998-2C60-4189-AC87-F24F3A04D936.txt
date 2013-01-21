@@ -1,0 +1,8 @@
+This is a free, on-line textbook on introductory programming, which uses Java as the language of instruction. This book is directed mainly towards beginning programmers, although it might also be useful for experienced programmers who want to learn something about Java.
+
+The fifth edition covers Java 5.0. You will find many Java applets on the web pages that make up this book, and many of those applets require Java 5.0 or higher to function. Chapters include: The Mental Landscape, Names and Things, Control, Subroutines, Objects and Classes, GUI Programming, Arrays, Correctness and Robustness, Linked Data Structures and Recursion, Generic Programming and Collection Classes, Files and Networking, Advanced GUI Programming. Therea re also examples of source code, news and useful links.
+
+
+Earlier editions, which covered earlier versions of Java, are still available.
+
+You can download Introduction to Programming Using Java for use on your own computer. PDF and print versions are also available.

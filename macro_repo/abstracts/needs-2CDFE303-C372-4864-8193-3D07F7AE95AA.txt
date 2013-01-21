@@ -1,0 +1,12 @@
+Abstract:
+
+"An integrated teaching and learning (ITL) program was initiated in 1992 by a team of faculty and
+students who articulated an ambitious vision for undergraduate engineering education reform: ` . . . to
+pioneer a multidisciplinary learning environment that integrates engineering theory with practice
+and promotes creative, team-oriented problem-solving skills.' The ITL Laboratory was dedicated in
+1997 to support this college-wide vision. This paper describes the development process of this new
+facility and its major features. The underlying educational value is also discussed. Outreach
+activities are described, including a unique on-line system where experimental modules are made
+available on the WorldWideWeb."
+
+<citation>Lawrence E. Carlson, Jacquelyn F. Sullivan; Hands-on engineering: learning by doing in the integrated teaching and learning program; International Journal of Engineering Education; 15; 1; 20-31; 1999</citation>

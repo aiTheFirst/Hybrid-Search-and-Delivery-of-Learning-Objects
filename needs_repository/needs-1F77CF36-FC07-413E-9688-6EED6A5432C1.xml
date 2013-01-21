@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"The data presented in this report show trends in the numbers of individuals who receive doctorates in science and engineering (S&amp;E) fields. Detailed information is provided by field of doctorate, doctoral institution, and characteristics of the doctorate recipient. The data also show trends in the postgraduation plans of doctorate recipients. Data are from the Survey of Earned Doctorates (SED), a census of individuals receiving research doctoral degrees from accredited U.S. universities and colleges. The SED has been conducted annually since 1957.
+
+Six federal agencies sponsor the SED: the National Science Foundation and the National Institutes of Health provide major funding, with the U.S. Department of Education, U.S. Department of Agriculture, National Aeronautics and Space Administration, and National Endowment for the Humanities providing additional support.
+
+Data for the SED are collected directly from individual doctorate recipients. The questionnaire is distributed by the graduate deans to persons as they are completing their doctorate. The data for a given year include all doctorates awarded in the 12-month period ending on June 30 of that year.
+
+These tables present detailed data on S&amp;E doctorate recipients; totals are provided for broad non-S&amp;E fields in most tables. Detailed data on all fields of study are published annually in the interagency report, Doctorate Recipients from United States Universities: Summary Report. Data are also provided by the other federal agencies that sponsor the SED. The groupings of field specialties into broad fields may differ among the sponsoring agencies, according to their missions.
+
+Ninety-two percent of doctorate recipients in 2006 responded to the questionnaire. Over the period 19972006, the response rate has varied between 91% and 93%. Most of the numbers presented are actual self-reports, as there are no adjustments for nonresponse. Partial data on nonrespondents, for field of study, institution, and sex of recipient are added to the file from public sources, such as commencement programs. In tables that include data subject to nonresponse, small changes in numbers should be interpreted with caution. As numerical trends are affected by fluctuations in response rates, declines and increases may appear greater than they actually are."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1F77CF36-FC07-413E-9688-6EED6A5432C1</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">doctorates</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Science and Engineering Doctorate Awards - March 2006</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1E4BBC13-AA5E-4A78-9829-0B9BFDDAAF0F
+N:Fiegener;Mark;null;;
+FN:Mark Fiegener
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2009-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2009-03-14</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>1F77CF36-FC07-413E-9688-6EED6A5432C1</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nsf.gov/statistics/nsf09311/?govDel=USNSF_178</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

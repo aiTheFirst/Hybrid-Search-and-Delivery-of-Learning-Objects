@@ -1,0 +1,3 @@
+MIT OpenCourseware for graduate course that features extensive lecture materials, including a complete set of lecture notes and audio files for streaming and mp3 download. 
+
+This course provides parallel treatments of photons, electrons, phonons, and molecules as energy carriers, aiming at fundamental understanding and descriptive tools for energy and heat transport processes from nanoscale continuously to macroscale. Topics include the energy levels, the statistical behavior and internal energy, energy transport in the forms of waves and particles, scattering and heat generation processes, Boltzmann equation and derivation of classical laws, deviation from classical laws at nanoscale and their appropriate descriptions, with applications in nano- and microtechnology.

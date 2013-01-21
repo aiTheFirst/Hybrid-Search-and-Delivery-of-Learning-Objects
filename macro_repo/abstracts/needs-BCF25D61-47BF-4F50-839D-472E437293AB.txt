@@ -1,0 +1,4 @@
+Abstract:
+"ABET recognizes the practical component or design as a key ingredient of any successful engineering program and mandates its inclusion in every engineering curricula. This paper is the result of a seven-year long experiment by the author that was initiated in 1989 as an attempt to integrate the tradition of undergraduate honors research at Brown University (USA) with the emerging ABET requirement of engineering design in the computer engineering program. The paper presents the philosophical principles, the underlying assumptions and goals of the experiment, and the character of the experiences learned at the conclusion of the experiment"
+
+<citation>Sumit Ghosh; Integrating design into undergraduate honors theses in a computer engineering program:  An experiment; IEEE Transactions on Education; 43; 2; 203-210; 2000</citation>

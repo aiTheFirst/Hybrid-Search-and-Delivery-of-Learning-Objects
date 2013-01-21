@@ -1,0 +1,13 @@
+"The Department of Computer Science at Cornell University, which was organized in 1965, is one of the oldest departments of its kind in the country. It has a full-time faculty of 36, approximately 110 resident Ph.D. graduate students, 100 M.Eng students, and the undergraduate program graduates about 200 C.S. majors each year. The department is typically ranked as one of the top five in the country."
+
+Research areas include:
+Architecture
+Artificial Intelligence,
+Computational Biology,
+Databases and Digital Libraries,
+Languages and Compilation,
+Graphics,
+Systems,
+Scientific and Parallel Computing,
+Security, and
+Theory of Computing.

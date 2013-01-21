@@ -1,0 +1,3 @@
+" This area involves research and study in computer architecture, computer systems and networks, theory and design of digital systems, and software engineering. Investigations include architecture design, parallel processing, neural networks, microprocessor-based systems, fault-tolerant computing, design for testability, computer-aided design, computer vision, VLSI system design, embedded systems, local area networks, and hardware/software codesign.
+
+This area of study is also available through an alternatively scheduled program in CMOS Circuit Design to professionals who are currently working full-time."

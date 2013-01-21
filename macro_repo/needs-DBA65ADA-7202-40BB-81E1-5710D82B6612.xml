@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Listed below are the six graduate programs in Civil and Environmental Engineerng at UC Berkeley:
+
+        * Engineering &amp; Project Management (formerly Construction Engineering &amp; Management)
+        * Environmental Engineering
+        * GeoEngineering
+        * Structural Engineering, Mechanics and Materials
+        * Transportation Engineering
+        * Civil Systems: This interdisciplinary program cuts across all of these emphasis areas. 
+
+    Graduate students select courses in their programs of study in consultation with an assigned graduate advisor in their major field. All students are required to maintain a full-time load of 12 units. The Department does not allow part-time graduate study.
+
+    The Master of Science program consists of a minimum of 24 units of course work with a comprehensive examination (some groups within the Department may have other requirement options in lieu of the comprehensive exam). It is normally completed in two semesters. A thesis plan for the Master of Science degree is also possible.
+
+    The Master of Engineering program consists of 40-44 units of course work including an independent study and report. The normal time to attain a M.Eng. degree is four semesters.  The Master degree programs require a minimum GPA of 3.0 out of 4 for graduation.
+
+    Students are admitted to the doctoral program following attainment of a Master of Science degree in civil and environmental engineering or in another related field. Doctoral studies consist of selected courses, examinations, and independent research culminating in a thesis.  Final programs are individually formulated through consultation with a faculty guidance committee. Each doctoral student must satisfy, through course work, a major within the Department. In addition, two minor areas of course work are required that are appropriate for the student's area of research. "</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DBA65ADA-7202-40BB-81E1-5710D82B6612</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Graduate Civil Engineering Curriculum - University of California at Berkeley</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1CE45E3C-3715-4254-8F51-51393E06E86E
+N:University of California at Berkeley;Department of Civil and Environmental Engineering;null;;
+FN:Department of Civil and Environmental Engineering University of California at Berkeley
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-10</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DBA65ADA-7202-40BB-81E1-5710D82B6612</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ce.berkeley.edu/grad/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

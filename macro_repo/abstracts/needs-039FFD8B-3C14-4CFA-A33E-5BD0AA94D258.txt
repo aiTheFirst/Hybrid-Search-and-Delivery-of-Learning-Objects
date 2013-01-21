@@ -1,0 +1,2 @@
+An introduction to the use of computers and MATLAB programming for the solution of mechanical engineering problems. Topics include: sources of errors in computing, the use of modular software design, basic numerical methods, and signal processing.
+Keywords: computation, programming, computing, mechanical engineering, civil engineering

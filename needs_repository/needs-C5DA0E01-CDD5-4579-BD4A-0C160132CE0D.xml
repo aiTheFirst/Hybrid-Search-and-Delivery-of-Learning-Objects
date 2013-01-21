@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Analytical chemistry is the science of making quantitative measurements. In practice, quantifying and analyzing a complex sample becomes an exercise in problem solving. To be efficient and effective, an analytical chemist must know the tools that are available to tackle a wide variety of problems. For this reason, analytical chemistry courses are often structured along the lines of the analytical methods (the tools-of-the-trade). 
+
+Understanding the analytical toolbox requires a scientist to understand the basic principles of the analytical techniques. With a fundamental understanding of analytical methods, a scientist faced with a difficult analytical problem can apply the most appropriate technique(s). A fundamental understanding also makes it easier to identify when a particular problem cannot be solved by traditional methods, and gives an analyst the knowledge that is needed to develop creative approaches or new analytical methods. 
+
+Analytical chemistry requires a broad background knowledge of chemical and physical concepts. These hypermedia tutorial documents contain links to the fundamental principles that underlie the different analytical methods. As you study the analytical chemistry topics, follow the hyperlinks to the basic concepts with which you are not familiar or with which you need a refresher. Studying the fundamental concepts will reinforce your understanding of both the analytical techniques and the underlying principles.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C5DA0E01-CDD5-4579-BD4A-0C160132CE0D</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Analytical Chemistry Basics</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:80BA60B8-DF56-4FDD-8CCC-2E5B31E2D9A3
+N:Brian M Tissue;;;;
+FN:Brian M Tissue
+TEL;TYPE=work,voice:555-555-1212
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:EC530E6F-5A82-48A2-8FEF-3C2915464745
+N:Science  Hypermedia;;;;
+FN:Science  Hypermedia
+TEL;TYPE=work,voice:540-951-4054
+URL:http://www.scimedia.com/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F9659ECF-A840-44F4-AB32-F98F043DBA22
+N:Science Hypermedia, Inc.;;;;
+FN:Science Hypermedia, Inc.
+ADR;TYPE=work,postal,parcel:;;Science Hypermedia, Inc., 1400 Gladewood Drive, Blacksburg, VA 24060-2666;;;;
+URL:http://www.scimedia.com/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>1998-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1999.02.20</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-07-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C5DA0E01-CDD5-4579-BD4A-0C160132CE0D</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://elchem.kaist.ac.kr/vt/chem-ed/analytic/ac-basic.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

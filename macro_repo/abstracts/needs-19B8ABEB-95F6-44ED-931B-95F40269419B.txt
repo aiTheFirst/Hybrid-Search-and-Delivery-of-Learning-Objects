@@ -1,0 +1,4 @@
+This site provides a guide to the common core curriculum plus courses for the Electrical The curriculum of an electrical engineer has two components:
+
+    * the Common Curriculum
+    * and the ECE Major Program.

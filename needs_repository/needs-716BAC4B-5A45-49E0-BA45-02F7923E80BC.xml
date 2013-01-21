@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>experiment</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Join students around the world in this Environmental Collaborative Project  and team up to test the quality and research the cultural significance of fresh water. You will have the opportunity to compare the water quality of your local river, stream, lake or pond and the stories and practices dealing with water in your community with other fresh water sources around the world. The focus of the project is to assess water quality based on physical characteristics and chemical substances. Specifically, students will:
+
+    * identify and compare organisms in a water sample with other participating classes and assess the quality of water based on the aquatic macroscopic life and physical and chemical characteristics;
+    * research and share anecdotes, stories and practices dealing with water in local communities; and
+    * look for relationships, trends, similarities, and differences among the data collected by all project participants.
+
+This on-line project is part of the Center for Improved Engineering and Science Education (CIESE) program, which has developed internet activities for the elementary, middle, and high school level student. This project involves comparing the water quality of local rivers, streams, lakes or ponds with other fresh water sources around the world. The focus is to assess the quality of water based on physical characteristics and chemical substances, and to look for relationships and trends among the data collected by all participants. The project provides instructions, activities, data links, reference materials, on-line help, and a teacher area.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>716BAC4B-5A45-49E0-BA45-02F7923E80BC</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Biology, Environmental science, environmental engineering</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Take a Dip</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:901F51B2-9788-4474-86EF-B122B397ADD1
+N:Center for Innovation in Engineering and Science Education;;;;
+FN:Center for Innovation in Engineering and Science Education
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2002-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:32D1A5E0-DA94-4643-A05B-96BE80EEF231
+N:Center for Improved Engineering and Science Education;;;;
+FN:Center for Improved Engineering and Science Education
+ADR;TYPE=work,postal,parcel:;;602 River St. 4th Floor;Hoboken;NJ;07030;
+TEL;TYPE=work,voice:201-216-5375
+TEL;TYPE=work,fax:201-216-8069
+URL:http://www.k12science.org/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2002-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CA001C50-77CA-43DC-A761-95207D386EDD
+N:Digital Library for Earth System Education;;;;
+FN:Digital Library for Earth System Education
+ADR;TYPE=work,postal,parcel:;;UCAR/DPC, PO Box 3000;Boulder;CO;80307-3000;
+TEL;TYPE=work,voice:1-303-497-2656
+TEL;TYPE=work,fax:1-303-497-8336
+PHOTO;VALUE=uri:http://www.smete.org/images/affiliation/dlese.gif
+URL:http://www.dlese.org/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2002-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:710FE693-46E9-4002-BA94-1BE2E6218CD6
+N:Andy Dong;;;;
+FN:Andy Dong
+TEL;TYPE=work,voice:5106431819
+TEL;TYPE=work,fax:5106431822
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2002-05-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>716BAC4B-5A45-49E0-BA45-02F7923E80BC</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.k12science.org/curriculum/dipproj2/en/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

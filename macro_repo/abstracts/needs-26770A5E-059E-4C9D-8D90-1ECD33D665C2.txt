@@ -1,0 +1,7 @@
+"The First-Year Engineering Program is a student-oriented, service program tasked with recruiting, advising, teaching, and retaining outstanding Purdue Engineering students. The first-year curriculum provides a solid academic foundation and overview of engineering fields and careers.
+
+The Interdisciplinary Engineering Program is for the undergraduate engineering student with specific career goals that cannot be accommodated within a traditional engineering field.
+
+The Multidisciplinary Engineering Program serves undergraduate students interested in bringing together multiple engineering disciplines at an advanced level to solve societal challenges.
+
+The graduate programs serve students interested in studying the science of learning engineering. They focus on engineering education discovery, scholarship, and academic reform."

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Online 40+ page document for K-12 and college educators containing links to resources in oceanography and earth system science.  Every resource has a short annotation describing the resource and providing contact information as well as a hyperlink to the actual resource. The online document is organized around the following outline:
+
+EDUCATION - Class Activities
+
+EDUCATION RESOURCES FOR OCEANOGRAPHY AND EARTH SCIENCES
+
+1.0 Classroom Material
+    1.1 - Grades K-12
+    1.2 - Higher Education
+2.0 Collaborative, On-Line Education
+3.0 Continuing Education for Teachers
+4.0 Data/Images From Satellites
+    4.1 - For Classroom Use
+    4.2 - General
+5.0 Field Trips/ Out of Class Experiences
+6.0 Internet Sites for Students
+7.0 Multimedia/CD-ROMs
+8.0 Periodicals
+9.0 Posters
+10.0 Reaching the Internet
+11.0 Resource Lists Like This One (On-Line)
+12.0 Special Themes
+          - El Niño 1997-98
+          - 1998 International Year of the Ocean.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9A4065AA-2BE8-42FF-BB88-2C2C0F144434</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">EDUCATION RESOURCES FOR OCEANOGRAPHY AND EARTH SCIENCES</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A3AE4107-210E-4372-9B1D-79E72CBFDEAE
+N:Jet Propulsion Laboratory, National Aeronautics and Space Admini;Physical Oceanography Distributed Active Archive Center;null;;
+FN:Physical Oceanography Distributed Active Archive Center Jet Propulsion Laboratory, National Aeronautics and Space Admini
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-07</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>9A4065AA-2BE8-42FF-BB88-2C2C0F144434</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://sealevel.jpl.nasa.gov/education/edudoc.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

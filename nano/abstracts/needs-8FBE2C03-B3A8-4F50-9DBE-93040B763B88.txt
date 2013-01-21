@@ -1,0 +1,1 @@
+This thesis presents an origami fabrication method based on the use of SU-8 membranes and elastic gold hinges. Magnetic actuation, stress-induced folding, vertical spacing, and lateral alignment of the membranes are discussed. This thesis also reports on the used of the Nanostructured OrigamiTM process to create a functional electrochemical energy storage device

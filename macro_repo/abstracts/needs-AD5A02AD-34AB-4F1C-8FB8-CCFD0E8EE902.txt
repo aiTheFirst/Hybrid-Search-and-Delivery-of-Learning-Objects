@@ -1,0 +1,10 @@
+"For purposes of administering the department doctoral program, research is considered to be carried out in six Graduate Areas:
+I. 	  Systems, Communication, Control and Signal Processing
+II. 	  Computer Science
+        III. 	  Electronics, Computers and Systems
+IV. 	  Energy and Electromagnetic Systems
+V. 	  Materials and Devices
+VII. 	  Bioelectrical Engineering.
+
+
+In addition, research opportunities and programs are available in the Life Sciences in Computer Science."

@@ -1,0 +1,4 @@
+Abstract:
+"Evaluated an intervention program for women in the first year of a computing degree at La Trobe University (Australia). Found a sustained increase in female retention after the program was introduced. Identified the best predictors of success in the first programming course to be age and having studied mathematics in the final years of secondary school." Paper not available online.
+
+<citation>Lorraine Staehr, Mary Martin, Graeme Byrne; Improving the retention rates of women in computing: An intervention program; Journal of College Student Retention; 2; 2; 127-40; 2000</citation>

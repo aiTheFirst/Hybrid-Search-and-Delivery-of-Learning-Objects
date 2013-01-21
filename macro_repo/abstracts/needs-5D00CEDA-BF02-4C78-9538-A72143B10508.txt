@@ -1,0 +1,23 @@
+Abstract: There is a small but growing body of evidence that
+entrepreneurship programs add value to students, the degree
+programs in which they are housed, and the institutions that host
+them. The Engineering Entrepreneurs Program at North
+Carolina State University, a program in which undergraduate
+students participate in design teams formed around technology
+start-up company themes, was started with funding from the
+NSF-sponsored SUCCEED (Southeastern Universities and
+Colleges Coalition for Engineering Education) Coalition
+primarily to improve the confidence and retention of
+engineering students.
+Multiple assessment approaches including surveys, focus
+groups, interviews, longitudinal assessment of retention and
+academic performance, and anecdotal evidence triangulate on
+the success of this program at meeting its primary objectives and
+others. Particularly, the longitudinal study revealed that
+program participants had higher engineering retention rates (70
+percent vs. 51 percent) and GPAs (3.08 vs. 2.83) than a matched
+set of non-participants. The program and its rigorous
+assessment serve as models for the engineering entrepreneurship
+community.
+
+<citation>Matthew W. Ohland, Sharron A. Frillman, Guili Zhang, Catherine E. Brawner, Thomas K. Miller; The effect of an entrepreneurship program on GPA and retention; Journal of Engineering Education; 93; 4; 293-301; 2004</citation>

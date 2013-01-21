@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">No description</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType><lom:source>LOMv1.0</lom:source><lom:value>index</lom:value></lom:learningResourceType><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This website teaches the user concepts about chemistry. The software is targeted towards teachers helping each other teach science. The software contains information on the following topics:
+- Chemistry Teaching
+- A-Level Chemistry 
+- Aufbau1: Teaching Resource for 14-16 Students 
+- Atoms, Symbols and Equations 
+- Chemist's Art Gallery 
+- Chemistry I 
+- Chemistry II 
+- Chemical Industry Teaching Resources User Site
+- Chemical of the Week 
+- Chemists' Net 
+- Chemistry Resources for Teachers 
+- Chemistry Review 
+- Chemistry for High School Teachers 
+- Chemistry on the Internet 
+- Chemistry Pointers on the WWW 
+- Chemistry Software Exchange 
+- Chemistry UK 
+- Chemistry Teaching Resources 
+- Chemweb 
+- Frontier High School Chemistry Class 
+- General Chemistry 
+- High School Chemistry 250+ Links 
+- Instructional Home Page 
+- Molecular Dynamics 
+- Nuclear Energy FAQ [Stanford] 
+- Paul's Chemistry Lab 
+- Physical Chemistry Hypermedia Resources 
+- Quantum Mechanics 
+- Reference Guide for Minerals 
+- Teaching Resources 
+- The Learning Matters of Chemistry 
+- The World of Materials  - The world of Physical Chemistry 
+- Teaching Chemistry on the Web 
+- Theory of Atoms in Molecules 
+- Understanding Our Planet Through Chemistry 
+- Virtual Chemistry Lab 
+- WWW Links for Chemists 
+- WWW Links for Chemistry 
+- Analytical Chemistry
+- Analytical Chemistry Basics 
+- Analytical Chemistry I and II 
+- Analytical Chemistry and Instrumentation 
+- Basic Liquid Chromatography 
+- Chemical Separation 
+- GC/MS for Chromatographers 
+- Introduction to Analytical Chemistry 
+- Radioanalytical Methods 
+- Spectroscopy 
+- X-Ray Diffraction 
+- The Periodic Table
+- Basic Atomic Information 
+- Electron Binding Energies 
+- Periodic Table of the Elements 
+- Periodic Table Programme 
+- The Periodic Table : metallic elements 
+- The Periodic Table:bonds 
+- Web-Elements 
+- Organic Chemistry
+- General Organic and Biochemistry 
+- Introduction to Organic Chemistry 
+- Organic Chemistry Introduction 
+- Molecular Modelling
+- Concepts in Science Through Molecular Modeling 
+- Molecular Modelling 
+- Representation Models in Molecular Graphics</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0FCDD014-D4EB-4440-B9D5-936092F6A3C5</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Association for Science Education: Chemistry Links for Teachers</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:CE12ED66-7FED-481E-B4B4-6C8C7D8E7EF5
+N:Overy;Martyn;null;;
+FN:Martyn Overy
+ORG:The Association for Science Education;Chemistry Resources
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-01-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F5E4E6D9-B0E6-4D7E-9CAB-346D37179C1F
+N:Association for Science Education;;;;
+FN:Association for Science Education
+ADR;TYPE=work,postal,parcel:;;College Lane, Hatfield, Herts. AL10 9AA;;;;
+URL:http://www.ase.org.uk/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2006-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1999.04.01</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F336F565-5C3E-4650-99C8-B0443D829357
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>1999-07-17</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0FCDD014-D4EB-4440-B9D5-936092F6A3C5</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.schoolscience.co.uk/ages_14-19/for_teachers_16-19.cfm?subject_id=2006</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

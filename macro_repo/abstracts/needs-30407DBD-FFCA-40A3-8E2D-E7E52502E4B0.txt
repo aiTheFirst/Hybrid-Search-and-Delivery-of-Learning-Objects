@@ -1,0 +1,20 @@
+Abstract: This paper describes the disciplinary program for writing and communications
+developed by the Materials Science and Engineering
+(MSE) Department at Virginia Polytechnic Institute and State
+University, which has been integrated into eight required core
+courses spread across our studentsâ three years of study. Preliminary
+quantitative assessment of the program indicates positive acceptance
+by the students and faculty, significant improvement in the
+quality of writing over three semesters, and significant differences in
+both the quality and style of writing between senior engineering
+students who have not participated in our program and our MSE
+students. We have found a positive correlation between four different
+indices designed to measure a studentâs self-assessment of communication
+skills and a studentâs grade point average (GPA). Surprisingly,
+there is no correlation between either studentsâ grades on
+papers and projects, or our measure of their improvement in communication
+skills, and their GPAâs. This result has important implications
+for the design and implementation of writing-withinthe-
+discipline programs such as the one described here.
+
+<citation>Robert W. Hendricks, Eric C. Pappas; Advanced engineering communication: An integrated writing and communication program for materials engineers; Journal of Engineering Education; 85; 4; 343-352; 1996</citation>

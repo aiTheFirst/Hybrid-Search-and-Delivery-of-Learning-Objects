@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">Every finished module has a prerequisites section that describes what knowledge is neccessary to use the module.  This gives the educator a good idea about which students will be able to successfully complete certain modules.  The multiple links within each module, along with many "applets" and illustrations make these intriguing, self-contained lessons.  Information packets for instructors is available with a valid college e-mail account.  Instructors are encouraged to obtain all information available and perform the module being used a number of times to become familiar with the content.</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>difficult</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>high</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This site contains learning modules within many different areas (searchable by general applied topic or by general mathematics topic).  All are excellent step by step tutorials with illustrations appropriate to the subject covered.  Links from the homepage are:
+* Overview
+* Assumptions
+* For ionstructors
+* The Project Links modules
+  * by general applied topic
+  * by general mathematics topic
+* Hardware and software guidelines
+* Developers' connection
+* Jobs with Project Link</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2F3586D4-B51B-474F-991E-A27EE51DBA7A</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Mathematics, science, engineering, Advanced math methods, probability, statistics, differential equations, discrete, linear systems, calculus</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Project Links: mathematics and its applications in engineering and science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E8E230FA-A0B5-46A1-9B1A-E152082DF31E
+N:Project Links;RPI;null;;
+FN:RPI Project Links
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1169BB19-20BC-4E6F-A12C-75164B43E261
+N:Rensselaer Polytechnic Institute;;;;
+FN:Rensselaer Polytechnic Institute
+ADR;TYPE=work,postal,parcel:;;110 8th St.Troy NY  12180-3590;;;;
+TEL;TYPE=work,voice:518-276-6000
+PHOTO;VALUE=uri:http://www.rpi.edu/x/Images/rensselaer.jpg
+URL:http://www.rpi.edu/
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>publisher</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">2001-06-05</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5E6558EC-CBA6-4C07-ACA5-77FA72439A87
+N:null;null;null;;
+FN:Unknown
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2001-06-22</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>2F3586D4-B51B-474F-991E-A27EE51DBA7A</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://links.math.rpi.edu/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">Required 640x480 pixel monitor
+256 colors
+56.6 modem
+Quicktime
+Techexplorerr
+Shockwave</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,4 @@
+Abstract:
+"Excel spreadsheet macros and Visual Basic for Applications (VBA) programs, used as teaching aids in a separation processes course at Tulane University. They were used to solve problems involving trial-and-error and graphical calculations. Distillation, absorption, and interfacial mass transfer problems were solved. The spreadsheets were incorporated into a web-based learning platform. Students increased the use of macros for solving homework problems from 11% to 75% by the end of the semester."
+
+<citation>Juan P. Hinestroza, Kyriakos Papadopoulos; Using spreadsheets and visual basic applications as teaching aids for a unit operations course; Chemical Engineering Education; 37; 4; 316-320; 2003</citation>

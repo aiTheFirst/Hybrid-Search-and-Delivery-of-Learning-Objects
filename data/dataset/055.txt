@@ -1,0 +1,1 @@
+SigGraph tutorial on computer animation. In addition to an introduction and related websites, the tutorial includes the following topics: Types of Animation Control Systems * Low level Motion Control * Camera Animation * Character Animation * Particle Systems * Artificial Life * Post-Production in Computer Animation.

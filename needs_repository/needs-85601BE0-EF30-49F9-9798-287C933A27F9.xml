@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">In 2001 the CSE department elected to add CSE 476 as a one-credit introductory course to CSE 486, Engineering Design, to create a cohesive, one-year Capstone Design experience. In the fall students are formed into teams and begin working with their project sponsors to establish requirements, specifications, and conceptual level design. In the spring CSE 486 teams continue their projects with detailed design, implementation, code inspections, design reviews, unit, integration, and system test, and finally release to their project sponsor.
+
+Most of the projects in this experience are sponsored by NAU's industrial partners. Companies such as Intel, Lockheed Martin, Honeywell, AG Communication Systems, QWest Communications, Lawrence Livermore, Software Systems Engineering Inc. (SSEI), Artronic Development, ARINC and Viewlogic have been some of the past sponsors of CSE design projects.
+
+Senior design projects should have the following attributes:
+Complex enough to require a team of 3-6 senior CSE majors. Simple enough that a team of 3-6 senior CSEs can complete the project in 8 months. A "client" within the company who has a vested interested in seeing the project succeed. A "client" who is readily accessible by e-mail, phone, fax, etc. A "client" who has been in the profession long enough to understand what is important and where the pitfalls are. A "client" who is available to come to Flagstaff to attend the design conference and possibly some earlier design reviews.
+The site has links to a syllabus and past design projects.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>85601BE0-EF30-49F9-9798-287C933A27F9</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">capstone design</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Capstone Design in Computer Science and Engineering at Northern Arizona University</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1CC00D6A-4BAD-49CB-891D-FF2C392BCD14
+N:Computer Science and Engineering, Northern Arizona University;;;;
+FN:Computer Science and Engineering, Northern Arizona University
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-06-15</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>85601BE0-EF30-49F9-9798-287C933A27F9</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.cefns.nau.edu/Academic/Design/D4P/EGR486/egr486_desc.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,5 @@
+"Carnegie Mellon has established the Institute for Software Research International (ISRI) in the School of Computer Science (SCS) as a center of excellence for long-term interdisciplinary fundamental research, apprenticeship-based education and training, and international collaborations to address the challenge of designing, developing, integrating, validating, and maintaining practical, large-scale, high-quality software-intensive systems. The creation of the ISRI is a natural extension of Carnegie Mellon's long-standing commitment to research in software systems.
+
+ISRI research activities include experimental prototyping, empirical modeling, codification of experience, formal analysis, creating design/development strategies for modern software, and developing public policy positions.  The educational activities are tightly integrated with the research and demonstration projects.
+
+ISRI's Software Engineering PhD program infuses the research agenda with deep appreciation of the practical issues of developing product-quality software-intensive systems."

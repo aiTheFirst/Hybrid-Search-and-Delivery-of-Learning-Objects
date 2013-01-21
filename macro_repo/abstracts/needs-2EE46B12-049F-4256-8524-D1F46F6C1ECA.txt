@@ -1,0 +1,16 @@
+Paper (pdf format) presented at ASEE/ IEEE Frontiers in Educatino Conference, 2001.
+
+Abstract:
+"This paper reports our experiences in teaching
+introductory programming for engineers in an interactive
+classroom.. We describe how the course has evolved fiom
+the traditional course, the structure of the classroom, the
+choice of software, and the elements involving interactive,
+active, and collaborative learning. We discuss our strategy
+for assessment. We describe the assessment results including
+a retrospective assessment of the previous course. We
+suggest how the course relates to the non-traditional
+student. We conclude with some suggestions for ji4ture
+modifications."
+Keywords: active learning, fieshman programming,
+interactive learning, novel instructional techniques.

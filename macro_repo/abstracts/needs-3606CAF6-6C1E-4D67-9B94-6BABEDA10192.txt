@@ -1,0 +1,5 @@
+E77 is an introductory course on computer programming for lower-division students in 
+science and engineering. The principal goal of the course is to teach basic computer pro- 
+gramming concepts and apply them to computer-based problem-solving methods. The 
+course stresses hands-on computer programming using MATLAB, a powerful high-level 
+programming environment. Website contains lecture slides and Matlab exercises. Course is taught at the University of California at Berkeley.

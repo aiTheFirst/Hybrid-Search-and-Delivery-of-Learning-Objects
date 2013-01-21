@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">MentorNet, the Industrial Electronic Mentoring Network for Women in Engineering and Science, is a non-profit program that pairs community college, undergraduate and graduate women studying engineering, science, technology and math with professionals who work in industry and government, for mentoring relationships conducted via email. MentorNet?s goal is to provide students with mentoring to enhance their persistence in fields where they remain underrepresented and facilitate their entry into scientific and technical careers. Now in its fourth year, the MentorNet program functions as a collaborative effort between MentorNet and the thousands of individual mentors and students who volunteer to participate in the program, as well as between MentorNet and nearly 100 other individual organizations, including colleges and universities, professional societies, government agencies and national laboratories, and corporations. These organizations partner with MentorNet in many ways: providing financial support, mentor and student recruiting support, and programmatic guidance. Building and growing these partnerships and the mentoring program have presented many challenges and provided many learning opportunities for all involved.
+
+Presented at: 2001 Joint NAMEPA/WEPAN 2001 Conference April 21-24, 2001 Alexandria, VA
+
+Keywords: Non-Profit
+Post-Secondary
+Women
+Industry
+Mentoring
+Mentor
+Engineering
+Science
+Gender Equity</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0ECF67E9-B397-472E-A190-CCE04CD62694</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">other</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">The Seven Principles of Building A sucessful MentorNet Partner Program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:837969A3-ECC7-4CAF-A8AE-E8B24E84AF77
+N:MentorNet;MentorNet;null;;
+FN:MentorNet MentorNet
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2003-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">1.0</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:F7CC7ACF-B5BF-4824-AC44-D0EB0FED4289
+N:Catherine Newman;;;;
+FN:Catherine Newman
+TEL;TYPE=work,voice:510-541-3439
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2003-07-21</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>0ECF67E9-B397-472E-A190-CCE04CD62694</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.mentornet.net/Documents/Files/wepan2003paper_clemens.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

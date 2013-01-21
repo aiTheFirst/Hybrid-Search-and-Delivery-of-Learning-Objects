@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"Chemical engineers are intimately connected to the development of new ceramics, polymers and catalysts and the manufacture of both commodity and specialty materials.  The materials option is intended show students how molecular and macro aspects of structure control the properties and thus performance of materials.
+
+The materials option is (at present) slightly different from the other options in that a Certificate is given for completion of all aspects of the program.  The reasons for this difference is part of the tradition and history (two words often used at Notre Dame!) of the department.  No further explanation can be provided here.    
+
+CERTIFICATE PROGRAM IN MATERIALS SCIENCE &amp; ENGINEERING
+
+This program is designed to offer a structured set of elective courses in materials science and engineering for students pursuing the chemical engineering undergraduate degree program.  It does not require any additional credit hours.  Two highlights of the program are required undergraduate thesis research (2 credit hours each semester) in the senior year, and a laboratory course (2 credit hours) in the sixth semester.  In addition, the lecture course CBE 40461- Structure of Solids, is required in the seventh semester.     
+
+The topics for the senior thesis will be made available to interested students in the sixth semester.  The thesis will be a written document, and will require an oral defense before the faculty members participating in the program.
+
+Upon successful completion of the program, at graduation, students will receive a Certificate in Materials Science and Engineering, along with the diploma for the Bachelor of Science degree in Chemical Engineering."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B974D1AF-E8A6-4DA7-A10F-951BE59E20A7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Undergraduate Chemical Engineering Curriculum- Materials option- University of Notre Dame</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:6DA362DB-CD14-485D-9E91-7F15216A4126
+N:null;null;null;;
+FN:University of Notre Dame
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:C16F2579-3E7D-4536-A4C1-9FEA8E7FC258
+N:Kitty Li;;;;
+FN:Kitty Li
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-08-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>B974D1AF-E8A6-4DA7-A10F-951BE59E20A7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://cbe.nd.edu/undergrad/materials.cfm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

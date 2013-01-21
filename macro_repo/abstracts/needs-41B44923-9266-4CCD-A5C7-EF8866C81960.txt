@@ -1,0 +1,12 @@
+Interactive programs on truthtables in propositional logic, unification of terms. Table of programs includes:
+       Solve Linear Diophantine Equations
+
+    * Truth Tables
+    * Propositional Connectives
+    * Davis-Putnam Procedure
+    * Parse Terms and Atomic Formulas
+    * Unification Algorithm
+    * Critical Pairs
+    * Critical Pairs Theorem Proving
+    * Knuth-Bendix Term Orderings
+    * William McCune's Automated Theorem Prover.

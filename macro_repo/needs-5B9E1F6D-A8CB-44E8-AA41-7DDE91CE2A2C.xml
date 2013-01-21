@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">This site provides a group of computer animations which were designed to help high school chemistry students learn about the basics of the gas laws and the equation of state. The state of a gas is determined by the pressure, temperature, mass, and volume of the gas. The program lets you fix two of these variables and observe the relation of the other two variables by changing the value of one of them. Gases have various properties which we can observe with our senses, including the gas pressure, temperature, mass, and the volume which contains the gas. Careful, scientific observation has determined that these variables are related to one another and the values of these properties determine the state of the gas. In a scientific manner, we can fix any two of the four primary properties and study the nature of the relationship between the other two by varying one and observing the variation of the other. The variations are demonstrated using computer graphics in the animated gas lab.
+
+Because of the highly graphical nature of the computer animations at the Animated Gas Lab, we are unable to provide an equivalent presentation for non-graphical browsers. Text information is provided for the following: Equation of State (Ideal Gas)
+Pressure
+Temperature
+Mass
+Specific Volume
+Gas Properties Definitions
+Air Properties Definitions
+Boyle's Law
+Charles and Gay-Lussac's Law
+Kinetic Theory of Gases. The program is divided into 4 parts depending on age: grades 6-8 and 9-12.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5B9E1F6D-A8CB-44E8-AA41-7DDE91CE2A2C</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Animatd Gas Lab Program</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:66BD9E0F-0221-4B20-9016-DDABA671A18F
+N:NASA Glenn Research Center;Tom Benson;null;;
+FN:Tom Benson NASA Glenn Research Center
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-12-12</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>5B9E1F6D-A8CB-44E8-AA41-7DDE91CE2A2C</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.grc.nasa.gov/WWW/K-12/airplane/Animation/frglab.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,6 @@
+This web-based software teaches the user concepts about computer programming for scientific and engineering applications.  Computer programming is an important skill for experimental, observational and theoretical scientific work, and FORTRAN is (still) one of the most important computer languages used for such work. Similarly, the Unix operating system is now in use on most scientific computer systems, ranging from PC's and workstations to Cray supercomputers. The purpose of this course is to introduce students to programming in FORTRAN, while at the same time familiarizing them with the Unix operating system and many of the programming tools available in the Unix environment, including the emacs editor and the Revision Control System (RCS).
+    The software is divided into the following sections:
+- Introduction 
+- Textbook information 
+- Syllabus and Exercises 
+- Obtaining the materials via ftp

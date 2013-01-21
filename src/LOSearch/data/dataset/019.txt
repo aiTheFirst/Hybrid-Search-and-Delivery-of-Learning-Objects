@@ -1,0 +1,1 @@
+The Java applet animates a Turing Machine that can add or multiply numbers. The animation shows the flow of events in the calculation (the writing and reading of symbols on an endless tape) and the decision rules used to process each step in the calculation. Keywords: turing,machine,addition,multiplication, computation by abstact devices

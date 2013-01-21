@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">"This paper describes Scavenger Hunt, a team based orientation activity for incoming freshmen in the Department of Computer Science at the University of Illinois at Urbana-Champaign. Like many large research universities, Illinois has struggled with the high attrition rate of first-year students in computing disciplines. Scavenger Hunt, which has been held each of the past three years, is intended to foster a sense of community within the department and acclimate new students to undergraduate life as computer science majors. A unique aspect of the activity is the use of handheld computers to manage most aspects of the competition, which enables physically handicapped students to participate on an equal footing with their able-bodied peers. Thus far, Scavenger Hunt has been directly responsible for the increased participation of new students in departmental activities and organizations. In addition, we have observed a significant correlation between student participation in Scavenger Hunt and retention rates in the department. Along with other retention oriented activities, Scavenger Hunt is measurably improving the attitude of new students towards computer science."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>153DE0FD-F2C8-4D72-BE75-6886DB910877</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">computing, computer science, team-based, handicapped, retention, CS, women, minority, undergraduate research opportunities, software, technology, data, WCS, Women in Computing Science, correlation, engineering</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Scavenger hunt: Computer science retention through orientation</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:1D73F02B-642F-40BD-A328-6220ABAEBB74
+N:null;null;null;;
+FN:J. O. Talton
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:47FF19C0-613F-44CD-961B-6E55C6A5ED34
+N:null;null;null;;
+FN:D. L. Peterson
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:875963A1-0832-4DE3-8685-E0896A2E0BA4
+N:Kamin;S.;null;;
+FN:S. Kamin
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:893A68B0-EBA6-4CBC-90B0-044BD52D3C8F
+N:Israel;D.;null;;
+FN:D. Israel
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-03-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:581B6D71-4CA2-4967-80B0-3E0F285C1121
+N:Al-Muhtad;J.;null;;
+FN:J. Al-Muhtad
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-03-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:A95A4292-7E83-4C47-AC38-612313409FAE
+N:Amanda Walton;;;;
+FN:Amanda Walton
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-03-16</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>153DE0FD-F2C8-4D72-BE75-6886DB910877</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://delivery.acm.org/10.1145/1130000/1121478/p443-talton.pdf?key1=1121478&amp;key2=0431225811&amp;coll=GUIDE&amp;dl=GUIDE&amp;CFID=29402528&amp;CFTOKEN=37772239</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

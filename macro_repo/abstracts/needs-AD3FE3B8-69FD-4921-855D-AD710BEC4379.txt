@@ -1,0 +1,1 @@
+Special Topics course in the Department of Mechanical Engineering at the Rochester Institute of Technology. Keywords: computer programmng, C++ programming

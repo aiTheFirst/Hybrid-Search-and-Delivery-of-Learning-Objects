@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Tutorials by Virginia Valian on Gender Schemas in the Sciences are designed as slides with voice-over narration.  The narration starts automatically with each slide.  Excellent resource for faculty and GSI development in  gender equity.
+
+Those using slower dialup connections will be able to bypass the narration altogether.  Transcripts for each tutorial can be downloaded. Users can also print out a transcript of the narration and read it as you look at each slide.  
+
+
+Virginia Valian  is Distinguished Professor of Psychology and Linguistics at Hunter College and the Graduate Center of the City University of New York (CUNY); she is also co-director of the Hunter College Gender Equity Project.  Dr Valian is a cognitive scientist whose research ranges from first and second language acquisition to gender differences and gender equity.
+
+
+In her book, "Why So Slow? The Advancement of Women" (MIT Press, 1998; paperback, 1999), Dr Valian asks why so few women are at the top of their profession, whether the profession be science, law, medicine, college teaching, industry, or business.  To provide an answer, Dr Valian integrates research from psychology, sociology, economics, and neuropsychology.  The data and theory from "Why So Slow?" are the starting point for the gender tutorials on this site.  Dr Valian is working with students, assistants, and interns to keep the material up-to-date and useful via the gender tutorials on this site.  The intended audience is future and current scientists around the world - undergraduates, graduate students, post-doctoral researchers, and faculty.  Their aim is to make the tutorials as accurate, informative, and accessible as possible.  Students and educators in science are largely unaware of relevant research concerning the role of gender in science.  The goal is to remedy that lack.  They want students, faculty, and administrators to know the data and to know the theory.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A11901CA-0CF9-4FC0-846D-D04F36F4CBCB</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Tutorials for Change: Gender Schemas and Science Careers</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FE098BBE-320C-4B34-8E8A-AFCC10666316
+N:Valian;Virginia;null;;
+FN:Virginia Valian
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-10-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-10-28</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>A11901CA-0CF9-4FC0-846D-D04F36F4CBCB</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://www.hunter.cuny.edu/gendertutorial/tutorials.htm</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract:
+"Science, engineering and technology (SET) are critical to achieving and maintaining a high quality
+of life, economic growth, global competitiveness, a clean environment and effective governance for
+the public goodÐsome of the key characteristics of sustainability. A nation's ability to meet these
+goals significantly depends on the capacity and competency of its workforce to develop innovative
+products, processes and services that advance prosperity while maintaining and restoring environmental
+systems. In order to continue towards this paradigm shift, advance sustainability in the long
+term and supply a skilled and knowledgeable workforce to both the private and public sectors,
+educating the next generation in sustainability is critical. Engaging women and underrepresented
+groups in SET will build additional capacity in these fields that are critical to advancing economic,
+environmental and societal goals. There is an increasing amount of anecdotal evidence which shows
+that students are remarkably enthusiastic about education for sustainability and are engaged at
+many levels both within and outside the classroom. There may be several unique characteristics to
+the ideas and visions of sustainability that may contribute to making this concept especially
+attractive to women and underrepresented groups."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D9A5768D-3B22-4A62-B109-707271D51D34</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">sustainability, recruitment, retention, women, underrepresented groups, diversity,</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Using Sustainability Education to Enable the Increase of Diversity in  Science, Engineering, and Technology Related Disciplines</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B2C1B5EB-E3C4-4F4A-BB95-CE7C4F02C017
+N:null;null;null;;
+FN:JULIE BETH ZIMMERMAN
+ORG:Yale University;Center for Green Chemistry and Green Engineering
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-04-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2177FEEF-C4EB-4110-B024-6E83749A3AC4
+N:VANEGAS;JORGE;null;;
+FN:JORGE VANEGAS
+ORG:Texas A&amp;M;Architecture
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-04-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-08-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>D9A5768D-3B22-4A62-B109-707271D51D34</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.ijee.dit.ie/latestissues/Vol23-2/05_ijee1921.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

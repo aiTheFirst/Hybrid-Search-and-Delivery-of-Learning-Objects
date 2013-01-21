@@ -1,0 +1,23 @@
+This web-based software and course website introduces the following topics:
+- Programming (in C within MATLAB) 
+- Scientific Computing and Problem Solving 
+- Computational Science Tools 
+- Internet (email &amp; WWW info servers) 
+- Xwindows environment 
+- Computation using MATLAB 
+- Graphics using MATLAB 
+- How to validate computed results 
+- Communication Skills     The software is also divided into the following modules:
+- Introduction to the Xterm Lab BA-113 
+- Introduction to Programming 
+- Introduction to User Defined Functions 
+- Introduces modular programming
+- Programming logic, loops, selectoin statements and explores the accuracy of floating point arithmetic
+- MATLAB online documentation
+- Review Language Constructs and work with Strings (March 11) 
+- MATLAB Strings
+- MATLAB Graphics
+- Vectorization of Code
+- Symbolic Mathematics
+- Low Level File I/O 
+This software was originally cataloged at http://www.mathworks.com/products/education/texamples/

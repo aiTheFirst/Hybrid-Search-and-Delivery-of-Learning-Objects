@@ -1,0 +1,5 @@
+"At the master's level, students may emphasize applied courses, preparing them for professional practice, or may follow a more theoretical program intended for those who will pursue doctoral studies.
+
+The paramount requirement of a doctoral degree is the successful completion of a thesis on a subject within the major field. Research areas may include the investigation of the mathematical foundations of and computational methods for optimization or stochastic models, including risk analysis. Research also may be undertaken to develop methodologies for the design, planning, and/or control of systems in a variety of application domains.
+
+Graduate students are expected to become proficient in the use of computers. Students should be able to quickly construct simple computer programs for one-time problem solutions and to use library programs for such tasks as data analysis, optimization, and large scale system simulation."

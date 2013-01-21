@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">National Science Foundation (NSF) news release about a 2005 report by the Committee on Equal Opportunities in Science and Engineering (CEOSE) on how NSF's programs and policies can radically increase the participation of women, minorities and people with disabilities in science, technology, engineering and mathematics (STEM). Despite measurable gains, the report?Broadening Participation in America's Science and Engineering Workforce?notes that progress has been slow and uneven across underrepresented groups and the various science and engineering fields.
+
+"CEOSE is a congressionally mandated committee established in 1980 to advise NSF on policies and programs for increasing the number of underrepresented individuals in the STEM fields.  Since the Science and Engineering Equal Opportunities Act of 1980, NSF strengthened its broadening-participation programs and policies and increased its financial investments in efforts targeted at underrepresented groups by 87.5 percent -- a rate slightly higher than the overall budget growth during that time period. Analysis of the impact and investment yield of these programs shows that many of them helped increase the participation of women and underrepresented minorities in science and engineering within and outside the Foundation.  For example, compared to the 1980's, underrepresented individuals now submit a greater percentage of grant proposals to NSF, serve in greater numbers as NSF reviewers and occupy more professional staff positions at NSF.
+
+Despite measurable progress, CEOSE cites uneven gains across underrepresented groups, and within the various science and engineering fields. 
+
+The report calls for NSF to:
+
+    * Increase social-science research on the factors that influence progress and provide barriers for underrepresented individuals in STEM at all levels?from learners to leaders.  
+    * Conduct systematic and objective evaluation of its broadening participation policies.
+    * Continue to use policy "levers" to focus attention of researchers and institutions on the need to broaden STEM participation.
+    * Engage more Native Americans in STEM fields by enhancing research capacity and opportunities at Tribal Colleges."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>057BA59B-F030-4AA0-9C0B-14405EDFBE8E</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">New Report Stresses Importance of Science and Engineering Opportunities for All Citizens</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:FA8ABDA2-BD54-4230-96B6-9362B58441C2
+N:Mahoney;Nicole;null;;
+FN:Nicole Mahoney
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-08-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-08-03</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>057BA59B-F030-4AA0-9C0B-14405EDFBE8E</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://128.150.4.107/news/news_summ.jsp?cntn_id=104307&amp;org=NSF</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

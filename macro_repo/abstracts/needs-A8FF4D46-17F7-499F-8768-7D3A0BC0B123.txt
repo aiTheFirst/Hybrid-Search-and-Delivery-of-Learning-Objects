@@ -1,0 +1,6 @@
+Advanced version of interactive logic programs, covering truth tables, propositional connectives, Propositional Connectives
+Davis-Putnam procedure
+Parse Terms and Atomic Formulas
+Unification algorithm
+Find the Critical Pairs
+Knuth-Bendix Term Orderings.

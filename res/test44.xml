@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Attributes>
+    <Attribute>
+        <Name>title</Name>
+        <Value>Teaching data structures using competitive games</Value>
+    </Attribute>
+    <Attribute>
+        <Name>description</Name>
+        <Value>A motivated student is more likely to be a successful learner. Interesting assignments encourage student learning by actively engaging them in the material. Active student learning is especially important in an introductory data structures course where students learn the fundamentals of programming. In this paper, the author describes a project for a data structures course based on the idea of competitive programming. Competitive programming motivates student learning by allowing students to evaluate and improve their programs throughout an assignment by competing their code against instructor-defined code and the code of other students in a tournament environment. Pedagogical results indicate that the combination of game development and friendly student competition is a significant motivator for increased student performance</Value>
+    </Attribute>
+    <Attribute>
+        <Name>content_language</Name>
+        <Value>fr</Value>
+    </Attribute>
+    <Attribute>
+        <Name>format</Name>
+        <Value>audio/wav</Value>
+    </Attribute>
+    <Attribute>
+        <Name>requirement</Name>
+        <Value>color monitor</Value>
+    </Attribute>
+    <Attribute>
+        <Name>other_platform_requirement</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>duration</Name>
+        <Value>500</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_type</Name>
+        <Value>active</Value>
+    </Attribute>
+    <Attribute>
+        <Name>intended_user_language</Name>
+        <Value>en-US</Value>
+    </Attribute>
+    <Attribute>
+        <Name>interactivity_level</Name>
+        <Value>2</Value>
+    </Attribute>
+    <Attribute>
+        <Name>context</Name>
+        <Value>school</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_min</Name>
+        <Value>5</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_age_range_max</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>difficulty</Name>
+        <Value>5</Value>
+    </Attribute>
+    <Attribute>
+        <Name>typical_learning_time</Name>
+        <Value>1500</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_concept_and_discipline</Name>
+        <Value>compute science</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_skilllevel_prerequisite</Name>
+        <Value>4</Value>
+    </Attribute>
+    <Attribute>
+        <Name>taxon_path_idea_discipline</Name>
+        <Value/>
+    </Attribute>
+    <Attribute>
+        <Name>intended_end_user_role</Name>
+        <Value>student</Value>
+    </Attribute>
+</Attributes>

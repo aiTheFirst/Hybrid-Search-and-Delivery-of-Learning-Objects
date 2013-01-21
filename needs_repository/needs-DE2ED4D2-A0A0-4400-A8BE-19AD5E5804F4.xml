@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>easy</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Editorial by New York Times journalist John Tierney, June 5, 2007. The article criticises the science in the influential book - The Silent Spring - by Rachel Carson.
+
+Excerpt:
+"For Rachel Carson admirers, it has not been a silent spring. Theyâve been celebrating the centennial of her birthday with paeans to her saintliness. A new generation is reading her book in school â and mostly learning the wrong lesson from it.
+Skip to next paragraph
+Viktor Koen
+
+TierneyLab
+
+Would humans and animals benefit from more pesticides? Join the discussion.
+Go to TierneyLab Â»
+Further Reading
+"Chemicals and Pests." I.L. Baldwin. Science, Sept. 28, 1962.
+"Courage for the Earth: Writers, Scientists and Activists Celebrate the Writings of Rachel Carson." Edited by Peter Matthiessen. Houghton Mifflin, 2007.
+"Suffering in Silence." Katherine Mangu-Ward. Wall Street Journal, April 20, 2007.
+"Eco-Freaks." John Berlau. Nelson Current, 2006.
+"What A Book Can Do: The Publication and Reception of Silent Spring." Priscilla Coit Murphy. University of Massachusetts Press, 2005
+"What the World Needs Now Is DDT." Tina Rosenberg. New York Times Magazine, April 11, 2004.
+"Silent Spring at 40." Ronald Bailey. Reason, June 12, 2002.
+"Carcinogens and Anticarcinogens in the Human Diet." National Academy of Sciences, 1996.
+"A Moment on the Earth." Gregg Easterbrook. Penguin, 1995.
+"100 things you should know about DDT." J. Gordon Edwards and Steven Milloy. JunkScience.com.
+
+If students are going to read âSilent Springâ in science classes, I wish it were paired with another work from that same year, 1962, titled âChemicals and Pests.â It was a review of âSilent Springâ in the journal Science written by I. L. Baldwin, a professor of agricultural bacteriology at the University of Wisconsin.
+
+He didnât have Ms. Carsonâs literary flair, but his science has held up much better."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DE2ED4D2-A0A0-4400-A8BE-19AD5E5804F4</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Rachel Carson, Silent Spring, sustainability, pesticides</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Fateful Voice of a Generation Still Drowns Out Real Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5563A4C5-0AF4-4EE1-868E-66A64FE36C41
+N:Tierney;John;null;;
+FN:John Tierney
+ORG:New York Times - NYT
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2008-02-02</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>DE2ED4D2-A0A0-4400-A8BE-19AD5E5804F4</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nytimes.com/2007/06/05/science/earth/05tier.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

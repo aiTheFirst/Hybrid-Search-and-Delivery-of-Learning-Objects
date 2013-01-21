@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">A few significant changes in the academic system coud stem the loss of talented women, thereby fortifying our scientific leadership.
+Article in Technology Review, Sep., 25, 2007. It begins:
+"In his much-acclaimed best seller "The World is Flat" Thomas L. Friedman warned that America is slipping further behind China and India in producing scientists and engineers at the peril of the innovation and productivity of our nation. A recent report from the National Academies, "Beyond Bias and Barriers," provides a very direct solution to this conundrum. American science needs more talent and that talent is readily available in a legion of well-trained, but greatly underutilized scientists and engineers who happen to be women. The good news is that a few significant changes in the academic system could stem the loss of these women, thereby fortifying our scientific leadership.
+
+The lack of women among the ranks of the country's university science professors is not due to biological differences between the sexes. There are many genetically determined differences between men and women, but differences in innate ability cannot explain women's low representation in the leadership of science. Women faculty continue to be outnumbered by men even in scientific disciplines in which women have received as many doctoral degrees as men for many years. In some other scientific disciplines, women's representation on the faculty has increased 30-fold in the last 25 years, a rate too rapid to be explained by changes in genetics of the population, illustrating that women have the ability to perform and capacity to endure the rigors of academic science as opportunities open to them. Collectively, the report's findings provide indisputable evidence that social factors, not aptitude or interest, are powerful drivers of the gender composition of the scientific leadership of the academy.
+
+Why are there so many women who excel in science and choose to invest years of their lives in hard, frequently unrewarding work to attain advanced education in science, but so few in academic positions? The Academy committee concludes that a combination of unconscious biases held by both men and women as well as archaic university structures limits the participation of women in academic science."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C6C18DC3-5A2D-45A4-8B39-5B424470C0FE</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">gender equity, women faculty</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Women Advancing Science</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:E60AA1EE-6191-46FE-8A14-87B658E5309C
+N:Handelsman;Jo;null;;
+FN:Jo Handelsman
+ORG:University of Wisconsin;Plant Pathology, Biology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:9D07A8D9-21F1-40C3-8CC2-C40CEED0B949
+N:Birgeneau;Robert;null;;
+FN:Robert Birgeneau
+ORG:University of California at Berkeley;Chancellor
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-09-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-09-25</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>C6C18DC3-5A2D-45A4-8B39-5B424470C0FE</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.technologyreview.com/blog/guest/21855/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

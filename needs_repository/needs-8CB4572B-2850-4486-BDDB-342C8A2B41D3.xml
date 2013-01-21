@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Sponsored by NASA through the Universities Space Research Association, ESSE 21 is a collaborative undergraduate/graduate education program offering small grants to colleges and universities to engage a diverse interdisciplinary community of faculty and scientists in the development of courses, curricula and degree programs and sharing of learning resources focused on the fundamental understanding and application of Earth system principles for the classroom and laboratory.
+
+The objectives of ESSE 21 are
+
+    * to support and expand a diverse and active community of Earth system faculty and scientists;
+    * to foster and enrich the grassroots development of quality interdisciplinary Earth system content for the classroom using NASA and data, research and resources;
+    * to provide enabling infrastructure that supports collaboration, sharing, extension and leveraging of resources.
+
+The links are arranged into categories such as resources, issues, workshops, news, job opportunities, student opportunities, funding opportunities, books, magazines, professional organizations, and more. Resources are available on data, maps, satellite images, weather, climate, software tools, system, diagrams, pictures and video. Other issues addressed include, global warming, sustainability, agriculture, population, biodiversity, ozone and greenhouse gases. A section entitled About the ESSE Program contains a number of learning modules on topics such as remote sensing, the atmospheric ozone, the Antarctic, El Nino, natural resources, the biosphere, energy, the hydrologic cycle, climate change, soil processes, and more.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8CB4572B-2850-4486-BDDB-342C8A2B41D3</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Earth System Science Education in the 21st Century</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:5DD653E7-8F81-4DDA-ACD4-4E434058C2D2
+N:Universities Space Research Association;Earth System Science Education (ESSE 21);null;;
+FN:Earth System Science Education (ESSE 21) Universities Space Research Association
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2006-12-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2006-12-09</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>8CB4572B-2850-4486-BDDB-342C8A2B41D3</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US">N/A</lom:string></lom:installationRemarks><lom:location>http://esse21.usra.edu/ESSE21/</lom:location><lom:otherPlatformRequirements><lom:string language="en-US">N/A</lom:string></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

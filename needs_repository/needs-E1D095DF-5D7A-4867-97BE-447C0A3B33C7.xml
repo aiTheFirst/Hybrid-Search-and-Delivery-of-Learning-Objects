@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Report of the Committee on Recognizing, Evaluating, Rewarding, and Developing Excellence in Teaching of Undergraduate Science, Mathematics, Engineering, and Technology.
+
+Marye Anne Fox and Norman Hackerman, Editors.
+Executive Summary begins:
+"This report recommends a set of strategies to evaluate undergraduate teaching and learning in science, technology, engineering, and mathematics (STEM1). It is based on a study conducted by a National Research Council (NRC) committee charged with synthesizing relevant research in pedagogy and practice as a basis for developing resources to help postsecondary STEM faculty and administrators evaluate and reward effective teaching. The study committee was a subcommittee of the NRC?s Committee on Undergraduate Science Education.
+
+The committee?s principal goal was to determine whether fair and objective methods exist for the evaluation of teaching and learning, and if so, how such methods could be used as a basis for the professional advancement of faculty. The committee found that many such methods exist, and that their utility deserves wider appreciation and application in the evaluation of both individuals and departments.
+
+The committee found that summative evaluations of teaching, such as those used in some faculty promotion and tenure decisions, often do not rely on evidence of student learning, and this relationship needs to be strengthened and formalized. The committee also found that formative evaluations (e.g., ongoing informal feedback from students and colleagues) can serve several important educational goals: (1) coupling candid teaching evaluation with opportunities for ongoing professional development; (2) supporting faculty who wish to explore the scholarship of teaching and learning; and (3) applying such formative evaluation techniques to departmental programs, not only to individual faculty.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E1D095DF-5D7A-4867-97BE-447C0A3B33C7</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">N/A</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Evaluating and Improving Undergraduate Teaching in Science, Technology, Engineering, and Mathematics (2003)</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:2C97F827-06E3-4C3E-B9EA-B55B072F3883
+N:National Academies Press - NAP;Center for Education (CFE);null;;
+FN:Center for Education (CFE) National Academies Press - NAP
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-20</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>E1D095DF-5D7A-4867-97BE-447C0A3B33C7</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://www.nap.edu/openbook.php?isbn=0309072778</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

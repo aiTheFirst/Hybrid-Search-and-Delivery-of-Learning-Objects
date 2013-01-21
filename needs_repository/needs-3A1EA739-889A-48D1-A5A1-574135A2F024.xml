@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty/><lom:intendedEndUserRole/><lom:interactivityLevel/><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Website for Missouri University of Science and Technology's academic goals for their Architectural Engineering program.
+
+"The Bachelor of Science in Architectural Engineering (BSAE) degree requires satisfactory completion of 138 credit hours. In your first two years, you will complete mathematics, physics, English, architectural design and other prerequisite courses. In your third and fourth years, most of your course work will be in engineering sciences. Also in your fourth year you will complete engineering design courses in general and specific areas.
+
+Courses in structural, electrical, mechanical and lighting design are directed toward providing reliable and economical structures such as stadiums, retail complexes, office buildings and airports. Courses in construction engineering include studies in construction techniques, cost estimating, quality control/quality assurance, and contract administration. History, architectural design and humanities provide the necessary tools to appreciably coexist in the fabric of society.
+
+Emphasis areas include structural engineering, construction engineering and project management, environmental systems for buildings, and construction materials.
+Mission Statement
+
+The Architectural Engineering Program will provide students with the tools necessary to solve architectural engineering problems critical to our society's well-being. This will be accomplished through a comprehensive, forward-looking and broad-based architectural engineering curriculum emphasizing fundamentals, practical applications, oral and written communication skills, computer applications skills, and professional practice issues and ethics. The Program will prepare graduates for entry into the architectural engineering profession, for life-long learning, and to function as architectural engineers in a global society.
+BSAE Program Objectives
+
+Our graduates will have:
+
+    *
+
+      A strong fundamental scientific and technical knowledge base which they will be able to apply to experimental design, and analysis and interpretation of data in conducting experiments;
+    *
+
+      An ability to apply engineering skills and work in multi-disciplinary teams to identify and formulate solutions for architectural engineering problems, and to analyze and design architectural engineering projects;
+    *
+
+      A recognition of the professional and personal value of the continuing acquisition of knowledge;
+    *
+
+      Competence in the use of the latest tools and techniques in architectural engineering practice and the ability to effectively communicate resulting technical and professional information in written, oral, and visual formats; and,
+    *
+
+      An awareness and understanding of the ethical, legal and professional obligations needed to function as part of a professional enterprise and to protect human health and welfare, and the environment in a global society."</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3A1EA739-889A-48D1-A5A1-574135A2F024</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">multimedia courseware, teaching enhancement, interactive multimedia, computer-based education</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Bachelor of Science in Architectural Engineering: Missouri University of Science and Technology</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:252F8332-F986-4CF6-8669-9FB5745C24F4
+N:Architectural and Environmental Engineering;Civil;null;;
+FN:Civil, Architectural and Environmental Engineering
+ORG:Missouri University of Science and Technology
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:B0BF444F-C039-4252-BEFF-C0B6321C7418
+N:Alice Agogino;;;;
+FN:Alice Agogino
+ADR;TYPE=work,postal,parcel:;;5136 Etcheverry HallUniversity of California at Berkeley;Berkeley;CA;;
+TEL;TYPE=work,voice:510-849-0931
+TEL;TYPE=work,fax:510-849-1822
+PHOTO;VALUE=uri:http://me.berkeley.edu/faculty/agogino/agogino_shadow.gif
+URL:http://me.berkeley.edu/faculty/agogino/index.html
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-01-01</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>3A1EA739-889A-48D1-A5A1-574135A2F024</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>yes</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://civil.mst.edu/curriculum/curriculumarche.html</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

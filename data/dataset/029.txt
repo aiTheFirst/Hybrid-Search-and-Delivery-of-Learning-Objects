@@ -1,0 +1,1 @@
+This section of the tutorial will teach you Basic Concepts of OOP. There are five concepts in total, to find out more about each concept click on the concept. The Five concepts are: Objects, Class, Encapsulation, Inheritance, and Polymorphism.

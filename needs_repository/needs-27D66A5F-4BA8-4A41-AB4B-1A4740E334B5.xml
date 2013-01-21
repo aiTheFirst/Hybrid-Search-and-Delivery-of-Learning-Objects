@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom:lom xmlns:lom="http://ltsc.ieee.org/xsd/LOM"><lom:educational><lom:description><lom:string language="en-US">N/A</lom:string></lom:description><lom:difficulty><lom:source>LOMv1.0</lom:source><lom:value>medium</lom:value></lom:difficulty><lom:intendedEndUserRole/><lom:interactivityLevel><lom:source>LOMv1.0</lom:source><lom:value>very low</lom:value></lom:interactivityLevel><lom:interactivityType/><lom:learningResourceType/><lom:semanticDensity/><lom:language>en-US</lom:language></lom:educational><lom:general><lom:aggregationLevel><lom:source>LOMv1.0</lom:source><lom:value>2</lom:value></lom:aggregationLevel><lom:coverage><lom:string language="en-US">united-states</lom:string></lom:coverage><lom:description><lom:string language="en-US">Abstract: 
+
+Computer Science studnets especially upper division students are stereotypically considered to be introverted and therefore poor candidates for an Active learning curriculum. Ironically, the requirements of their field demand skills in critical analysis and evaluation, as well as communication and collaboration skills, that are not easily acquired in the traditional classroom environment with a "lecture" agenda where students maintain a basically passive role. This paper describes experiments with Active Learning techniques performed in two different upper division Computer Science classes, "Societal Issues in Computing" and "Computing System  Security". In spite of the traditional views of Computer Science as an individualistic subject matter with self-centered non-social students, the authors have used Active Learning techniques in their classrooms for several semesters with encouraging results. In addition to an improved attitude and stated increased satisfaction, students' test reslts showed increased comprehension and improved critical reasoning abilites.</lom:string></lom:description><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>27D66A5F-4BA8-4A41-AB4B-1A4740E334B5</lom:entry></lom:identifier><lom:keyword><lom:string language="en-US">Accreditation preparation, multidisciplinary</lom:string></lom:keyword><lom:structure><lom:source>LOMv1.0</lom:source><lom:value>hierarchical</lom:value></lom:structure><lom:title><lom:string language="en-US">Active learning with upper division computer science students</lom:string></lom:title><lom:language>en-US</lom:language></lom:general><lom:lifeCycle><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:0340B940-2376-4796-8985-22A6AFE52420
+N:Lingard;Robert;null;;
+FN:Robert Lingard
+ORG:California State University, Northridge;College of Engineering and Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:38B97638-47BE-4A86-AAF4-44DB98C6C7B0
+N:Barnes;G. Michael;null;;
+FN:G. Michael Barnes
+ORG:California State University, Northridge;College of Engineering and Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:04578913-B014-4891-BDAA-D5AC5ACD90DE
+N:Timmerman;Brenda;null;;
+FN:Brenda Timmerman
+ORG:California State University, Northridge;College of Engineering and Computer Science
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>author</lom:value></lom:role><lom:date><lom:dateTime>2001-06-01</lom:dateTime></lom:date></lom:contribute><lom:version><lom:string language="en-US">N/A</lom:string></lom:version></lom:lifeCycle><lom:metaMetadata><lom:contribute><lom:entity>BEGIN:VCARD
+VERSION:3.0
+SOURCE:http://www.smete.org
+UID:3EA63ECE-9058-4C65-B5F1-23F66CEC31ED
+N:Jonathan Yu;;;;
+FN:Jonathan Yu
+END:vCard</lom:entity><lom:role><lom:source>LOMv1.0</lom:source><lom:value>creator</lom:value></lom:role><lom:date><lom:dateTime>2007-05-18</lom:dateTime></lom:date></lom:contribute><lom:identifier><lom:catalog>NEEDS</lom:catalog><lom:entry>27D66A5F-4BA8-4A41-AB4B-1A4740E334B5</lom:entry></lom:identifier><lom:language>en-US</lom:language><lom:metadataSchema>LOMv1.0</lom:metadataSchema></lom:metaMetadata><lom:rights><lom:copyrightAndOtherRestrictions><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:copyrightAndOtherRestrictions><lom:cost><lom:source>LOMv1.0</lom:source><lom:value>no</lom:value></lom:cost></lom:rights><lom:technical><lom:format/><lom:installationRemarks><lom:string language="en-US"/></lom:installationRemarks><lom:location>http://fie-conference.org/fie2001/papers/1357.pdf</lom:location><lom:otherPlatformRequirements><lom:string language="en-US"/></lom:otherPlatformRequirements><lom:size>0</lom:size></lom:technical></lom:lom>

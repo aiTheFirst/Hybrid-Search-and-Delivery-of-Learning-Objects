@@ -1,0 +1,3 @@
+This document is a quick summary of the Java language syntax. It is not complete. It just contains the things you may be likely to forget.
+
+I have most of these common patterns built in as SlickEdit macros so I don't have to remember the patterns. I just click a custom icon for the pattern I want. Unfortunately, I thus don't remember them. Without my editor, I would be at a loss to remember where the parentheses and semicolons go.
